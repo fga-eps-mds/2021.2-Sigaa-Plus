@@ -8,7 +8,7 @@
 </div>
 
 ## 📑 Sobre o projeto
-O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sigaa para seus usuários e os ajudando a ter uma melhor experiência e una navegação mais dinâmica. 
+O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sigaa para seus usuários, os ajudando a ter uma melhor experiência e uma navegação mais dinâmica. 
 
 ## 🗓️ Release
   <strong><i>Release 01</i> - 08/03/2022
