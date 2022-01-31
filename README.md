@@ -14,3 +14,20 @@ O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sig
   <strong><i>Release 01</i> - 08/03/2022
   
   <i>Release 02</i> - 26/04/2022 </strong>
+
+## 🤝 Colaboradores
+
+| Nome                      | Github                               |
+|---------------------------|--------------------------------------|
+| Gabrielly Assunção        | https://github.com/GabriellyAssuncao |   
+| Laís Ramos                | https://github.com/laisramos123      |
+| Bruno Oliveira            | https://github.com/eng-Bruno         |
+| Luiz Guilherme Pettengill | https://github.com/LuizPettengill    |
+| Pedro Henrique Elias      | https://github.com/Elios630          |
+| Pedro Marcos Abreu        | https://github.com/ahbreu            |
+| Hian Praxedes             | https://github.com/HianPraxedes      |
+| Vitor Manoel              | https://github.com/vitormanoel17     |
+| Maria Eduarda Barbosa     | https://github.com/Madu01            |
+| Maria Eduarda Marques     | https://github.com/EduardaSMarques   |
+| Beatriz Santos            | https://github.com/beatrizSO         |
+| Filipe Pereira            | https://github.com/16bits            |
