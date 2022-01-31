@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img alt="issues-badge" src="https://img.shields.io/github/issues/fga-eps-mds/Tema-02?style=for-the-badge"/>
-  <img alt="pr-badge" src="https://img.shields.io/github/issues-pr/fga-eps-mds/Tema-02?style=for-the-badge"/>
+  <img alt="issues-badge" src="https://img.shields.io/github/issues/fga-eps-mds/Tema-02?color=success&style=for-the-badge"/>
+  <img alt="pr-badge" src="https://img.shields.io/github/issues-pr/fga-eps-mds/Tema-02?color=success&style=for-the-badge"/>
 </div>
 
 ## 📑 Sobre o projeto
