@@ -2,7 +2,7 @@
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor
 | --- | --- | --- | --- | 
-| 01/02/2022 | 0.1 | início da criação dos tópicos da introdução | |
+| 01/02/2022 | 0.1 | início da criação dos tópicos da introdução | Maria Eduarda B. e Vitor Manoel|
 |  |  |  |  |
 |  |  |  |  |
 ## 1. Introdução
