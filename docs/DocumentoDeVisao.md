@@ -41,3 +41,20 @@ Neste documento é apresentado o software desenvolvido de forma detalhada, para 
 ---
 
 # 3. Usuários e Interessados
+
+## 3.1 Demográficos de Mercado
+
+| Nome | Descrição | Responsabilidade |
+| :- | :- | :- |
+| Avaliador(es) | Professor(es) da disciplina de MDS | Avaliar a qualidade do projeto desenvolvido pelos alunos de MDS |
+| Desenvolvedores | Estudantes da Disciplina MDS da UnB FGA | Criar e manter documentos; Desenvolver e testar o software |
+
+## 3.2 Resumo da Parte Interessada
+
+## 3.3 Resumo do Usuário
+
+## 3.4 Ambiente do Usuário
+
+## 3.5 Perfis das Partes Interessadas
+
+## 3.6 Perfis do Usuário
