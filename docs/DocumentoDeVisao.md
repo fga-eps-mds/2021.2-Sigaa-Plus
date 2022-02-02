@@ -48,6 +48,11 @@ beatrizSO-patch-1
 
 ## 3.1 Demográficos de Mercado
 
+| Nome | Descrição | Responsabilidade |
+| :- | :- | :- |
+| Avaliador(es) | Professor(es) da disciplina de MDS | Avaliar a qualidade do projeto desenvolvido pelos alunos de MDS |
+| Desenvolvedores | Estudantes da Disciplina MDS da UnB FGA | Criar e manter documentos; Desenvolver e testar o software |
+
 ## 3.2 Resumo da Parte Interessada
 
 ## 3.3 Resumo do Usuário
@@ -57,7 +62,6 @@ beatrizSO-patch-1
 ## 3.5 Perfis das Partes Interessadas
 
 ## 3.6 Perfis do Usuário
-
 
 ## 3.7 Principais Necessidades da Parte Interessada ou do Usuário
 
@@ -70,3 +74,4 @@ beatrizSO-patch-1
 ## 3.8 Alternativas e Concorrência
 
 A alternativa atual é fazer todo o processo manualmente, avegando em vários locais difententes dentro do SIGAA, com buscas cansativas matéria por matéria e cálculos, dado que hoje não existem ferramentas que facilitem o processo.
+=======
