@@ -4,7 +4,8 @@
 
 | Data       | Versão | Descrição             | Autor(es)      |
 | ---------- | ------ | --------------------- | -------------- |
-| 31/01/2021 | 1.0    | Abertura do Documento | Bruno Oliveira |
+| 31/01/2022 | 1.0    | Abertura do Documento | Bruno Oliveira |
+| 02/02/2022 | 1.1    | Adição do escopo e de mais algumas informações do projeto | Beatriz Santos, Hian Praxedes e Maria Eduarda Marques |
 
 ## 1. Introdução
 
@@ -40,7 +41,7 @@ Com o aumento do uso do SIGAA
 O atual sistema do SIGAA, durante a solicitação de matrícula não permite a visualização das matérias que o aluno já cursou nem as obrigatórias ou a quantidade de créditos que ainda faltam para a finalização do seu curso, nem as matérias que equivalem umas as outras, dificultando assim a visualização clara do aluno.
 
 ## 2.3 Posição do Produto
-Para o aluno faz a matrícula. O NossoProdutoSemNome é um pluggin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
+Para o aluno faz a matrícula. O (NossoProdutoSemNome) é um pluggin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
 
 ---
 
