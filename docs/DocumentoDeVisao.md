@@ -33,7 +33,7 @@ Neste documento é apresentado o software desenvolvido de forma detalhada, para 
 # 2. Posicionamento
 
 ## 2.1 Oportunidade de Negócios
-Com o aumento do uso do SIGAA
+Com o aumento do uso do SIGAA 
 
 
 ## 2.2 Descrição do Problema
@@ -43,7 +43,7 @@ O atual sistema do SIGAA, durante a solicitação de matrícula não permite a v
 Para o aluno faz a matrícula. O NossoProdutoSemNome é um pluggin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
 
 ---
-beatrizSO-patch-1
+
 # 3. Usuários e Interessados
 
 ## 3.1 Demográficos de Mercado
@@ -74,4 +74,4 @@ beatrizSO-patch-1
 ## 3.8 Alternativas e Concorrência
 
 A alternativa atual é fazer todo o processo manualmente, avegando em vários locais difententes dentro do SIGAA, com buscas cansativas matéria por matéria e cálculos, dado que hoje não existem ferramentas que facilitem o processo.
-=======
+
