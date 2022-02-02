@@ -34,13 +34,16 @@ Neste documento é apresentado o software desenvolvido de forma detalhada, para 
 # 2. Posicionamento
 
 ## 2.1 Oportunidade de Negócios
-Com o aumento do uso do SIGAA 
+
+Com o aumento do uso do SIGAA sugiu uma necessidade criar de alguma ferramenta que auxiliasse no uso da plataforma, assim otimizando o tempo dos usuarios. Tendo em vista isso, buscamos suprir essa demanda com o (Nome do produto). Assim conseguindo cada vez mais uma praticidade para a vida do estudantes que ultilizam essa plataforma.
 
 
 ## 2.2 Descrição do Problema
+
 O atual sistema do SIGAA, durante a solicitação de matrícula não permite a visualização das matérias que o aluno já cursou nem as obrigatórias ou a quantidade de créditos que ainda faltam para a finalização do seu curso, nem as matérias que equivalem umas as outras, dificultando assim a visualização clara do aluno.
 
 ## 2.3 Posição do Produto
+
 Para o aluno faz a matrícula. O (NossoProdutoSemNome) é um pluggin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
 
 ---
