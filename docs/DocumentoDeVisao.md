@@ -14,6 +14,7 @@ Esse documento tem como principal objetivo apresentar as ideias gerais do desenv
 ## 1.1 Escopo:
 
 Este projeto tem o objetivo otimizar o software SIGAA, melhorando a navegação do aluno no site, além de acrescentar novas opções para o software.
+Assim tornando mais intuitivo a ultilização da plataforma para os usuários.
 
 ## 1.2 Definições, acrônimos e abreviações:
 
