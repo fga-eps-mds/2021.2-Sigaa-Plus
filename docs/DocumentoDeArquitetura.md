@@ -3,7 +3,7 @@
 | Data | Versão | Descrição | Autor
 | --- | --- | --- | --- | 
 | 01/02/2022 | 0.1 | início da criação dos tópicos da introdução | Maria Eduarda B. e Vitor Manoel|
-|  |  |  |  |
+| 03/02/2022 | 0.2 | montagem da estrutura do documento | Maria Eduarda B. e Vitor Manoel|
 |  |  |  |  |
 ## 1. Introdução
 ### 1.1 Escopo
@@ -21,3 +21,5 @@ Este documento apresenta de forma ampla a arquitetura do software do projeto, co
 ### 5.1 Visão Geral
 ### 5.2 Diagrama de pacotes
 ## 6. Visão de implementação
+## 7. Referências
+> Documento de Arquitetura : Acácia. Disponível em: https://fga-eps-mds.github.io/2019.2-Acacia/#/architecture_document?id=_623-diagrama-entidade-relacionamento. Acesso em 03/02/2022;
