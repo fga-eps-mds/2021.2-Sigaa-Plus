@@ -19,7 +19,11 @@ Este projeto tem o objetivo otimizar o software SIGAA, melhorando a navegação 
 
 | Abreviação | Significado                                          |
 | ---------- | ---------------------------------------------------- |
+| _UNB_      | Universidade de Brasília                             |
+| _FGA_      | Faculdade UnB Gama                                   |
 | _SIGAA_    | Sistema Integrado de Gestão de Atividades Acadêmicas |
+| _MDS_      | Métodos de Desenvolvimento de Software               |
+
 
 ## 1.3 Referências:
 
@@ -44,7 +48,7 @@ O atual sistema do SIGAA, durante a solicitação de matrícula não permite a v
 
 ## 2.3 Posição do Produto
 
-Para o aluno faz a matrícula. O (NossoProdutoSemNome) é um pluggin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
+Para o aluno faz a matrícula. O (NossoProdutoSemNome) é um plugin que auxilia o aluno a visualizar informações no SIGAA. De outro modo ele teria que fazer as equivalências de materias e análise da porcentagem restante para completar o curso manualmente, nosso produto automatiza essa ação.
 
 ---
 
@@ -53,13 +57,23 @@ Para o aluno faz a matrícula. O (NossoProdutoSemNome) é um pluggin que auxilia
 ## 3.1 Demográficos de Mercado
 
 | Nome | Descrição | Responsabilidade |
-| :- | :- | :- |
+| - | - | - |
 | Avaliador(es) | Professor(es) da disciplina de MDS | Avaliar a qualidade do projeto desenvolvido pelos alunos de MDS |
 | Desenvolvedores | Estudantes da Disciplina MDS da UnB FGA | Criar e manter documentos; Desenvolver e testar o software |
 
 ## 3.2 Resumo da Parte Interessada
 
+| Nome      | Representa | Responsabilidade |
+| ----------- | ---------- | ------------------ |
+| Usuário do produto | Alunos da UNB | Utilizar as funcionalidades do plugin |
+| Equipe de Desenvolvimento |Equipe formada por alunos da disciplina de MDS| Documentar, desenvolver, testar e implementar o software |
+| Professora | Professora responsável pela disciplina de MDS | Orientar e avaliar os trabalhos realizados pelas equipes. |
+
 ## 3.3 Resumo do Usuário
+
+| Nome      | Descrição | Parte Interessada |
+| ----------- | ---------- | ------------------ |
+| Discentes da UNB | Este usuário será quem utilizará as funcionalidades disponíveis no plugin | Usuário do produto |
 
 ## 3.4 Ambiente do Usuário
 
