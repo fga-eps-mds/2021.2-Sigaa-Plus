@@ -17,17 +17,17 @@ O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sig
 
 ## 🤝 Colaboradores
 
-| Nome                      | Github                               |
-|---------------------------|--------------------------------------|
-| Gabrielly Assunção        | https://github.com/GabriellyAssuncao |   
-| Laís Ramos                | https://github.com/laisramos123      |
-| Bruno Oliveira            | https://github.com/eng-Bruno         |
-| Luiz Guilherme Pettengill | https://github.com/LuizPettengill    |
-| Pedro Henrique Elias      | https://github.com/Elios630          |
-| Pedro Marcos Abreu        | https://github.com/ahbreu            |
-| Hian Praxedes             | https://github.com/HianPraxedes      |
-| Vitor Manoel              | https://github.com/vitormanoel17     |
-| Maria Eduarda Barbosa     | https://github.com/Madu01            |
-| Maria Eduarda Marques     | https://github.com/EduardaSMarques   |
-| Beatriz Santos            | https://github.com/beatrizSO         |
-| Filipe Pereira            | https://github.com/16bits            |
+| Nome                      | Github                                                    |
+|---------------------------|-----------------------------------------------------------|
+| Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao)|   
+| Laís Ramos                | [@laisramos123](https://github.com/laisramos123)          |
+| Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                |
+| Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)      |
+| Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                  |
+| Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                      |
+| Hian Praxedes             | [HianPraxedes](https://github.com/HianPraxedes)           |
+| Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)        |
+| Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                      |
+| Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)    |
+| Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                |
+| Filipe Pereira            | [@16bits](https://github.com/16bits)                      |
