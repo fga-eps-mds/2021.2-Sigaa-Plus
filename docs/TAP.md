@@ -2,10 +2,9 @@
 
 # Histórico de Versões
 
-| Data   | Versão | Modificação  | Autor  |
-| :- | :- | :- | :- |
-| 03/02/2022  | 0.1 | Criação da primeira versão do documento | [@GabriellyAssuncao] [@eng-Bruno] [@laisramos123] |
-
+| Data       | Versão | Modificação                             | Autor                                                                                                                                                     |
+| :--------- | :----- | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 03/02/2022 | 0.1    | Criação da primeira versão do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@eng-Bruno](https://github.com/eng-Bruno) |
 
 # 1. Introdução
 
@@ -13,11 +12,12 @@ Este documento tem o propósito de apresentar de forma resumida os elementos fun
 
 # 2. Descrição do Projeto
 
-O projeto visa facilitar a ambientalização dos estudantes durante o uso do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) , auxiliando a visualização dos dados do descendente bem como o entendimento dos mesmos. 
+O projeto visa facilitar a ambientalização dos estudantes durante o uso do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) , auxiliando a visualização dos dados do descendente bem como o entendimento dos mesmos.
 
 # 3. Objetivo do Projeto
 
 Facilitar a utilização do usuário na plataforma SIGAA nos seguintes quesitos:
+
 - Vizualização dinâmica do fluxo de matérias.
 - Vizualização dinâmica das matérias equivalente do curso em questão.
 - Vizualização dinâmica da quantidade créditos obrigatórios, opicionais e de módulo pendentes para o usúario concluir.
