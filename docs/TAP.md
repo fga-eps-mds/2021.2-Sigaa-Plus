@@ -4,7 +4,7 @@
 
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 03/02/2022  | 0.1 | Criação da primeira versão do documento | @GabriellyAssuncao @eng-Bruno @laisramos123 |
+| 03/02/2022  | 0.1 | Criação da primeira versão do documento | [@GabriellyAssuncao] [@eng-Bruno] [@laisramos123] |
 
 
 # 1. Introdução
