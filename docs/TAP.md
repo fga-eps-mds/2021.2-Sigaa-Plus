@@ -30,7 +30,7 @@ A plataforma desenvolvida será uma extensão (plug-in) para o google chrome, pe
 
 # 6. Metodologia de Desenvolvimento
 
-# 8. Comunicação da Equipe
+# 7. Comunicação da Equipe
 
 Utilizamos as seguintes ferramentas como meio decomunicação: Telegram, discord, jitsi meet, github e email.
 
