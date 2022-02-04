@@ -12,7 +12,7 @@ Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquit
 
 ---
 
-> [Sprint Backlog](https://github.com/fga-eps-mds/Tema-02/milestone/1)
+> [Sprint Backlog](https://github.com/fga-eps-mds/Tema-02/milestone/2)
 
 ## Objetivos
 
