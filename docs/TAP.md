@@ -27,20 +27,22 @@ Facilitar a utilização do usuário na plataforma SIGAA nos seguintes quesitos:
 A plataforma desenvolvida será uma extensão (plug-in) para o google chrome, permitindo a utilização dos usúarios (estudantes da Universidade de Brasília) afim de facilitar a vizualição do seu currículo, permitindo que o estudante em questão tenha acesso a informações como o fluxo de sua matriz curricular, a quantidade de créditos que possuí e que ainda precisará adquirir, e as matérias que são equivalentes as de seu curso.
 
 # 5. Equipe e Funções Internas
+
  Função       | Nome                      | Github                                                     |
  ------------ | ------------------------- | ---------------------------------------------------------- |
- Scrum master | Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                 |
- Scrum master | Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
- Scrum master | Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
- Scrum master | Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
-              | Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
-              | Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
-              | Hian Praxedes             | [@HianPraxedes](https://github.com/HianPraxedes)           |
-              | Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
-              | Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                       |
-              | Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)     |
-              | Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
-              | Filipe Pereira            | [@16bits](https://github.com/16bits)                       |
+ ScrumMaster  | Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                 |
+ ScrumMaster  | Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
+ ScrumMaster  | Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
+ ScrumMaster  | Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
+ ProductOwner | Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
+ ProductOwner | Hian Praxedes             | [@HianPraxedes](https://github.com/HianPraxedes)           |
+ ProductOwner | Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)     |
+ ProductOwner | Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
+ Arquiteto    | Filipe Pereira            | [@16bits](https://github.com/16bits)                       |
+ Arquiteto    | Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                       |
+ Arquiteto    | Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
+ Arquiteto    | Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
+
 
 # 6. Metodologia de Desenvolvimento
 
