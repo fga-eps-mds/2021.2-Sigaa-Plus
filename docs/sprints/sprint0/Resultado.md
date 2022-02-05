@@ -10,13 +10,21 @@
 
 ## Revisão
 
-|                                       Issue                                       | Pontos |
-| :-------------------------------------------------------------------------------: | :----: |
-|        [Metodologia Ágil](https://github.com/fga-eps-mds/Tema-02/issues/4)        |  Sim   |
-|        Definir [Funções](https://github.com/fga-eps-mds/Tema-02/issues/5)         |  Sim   |
-|        Definir [Reuniões](https://github.com/fga-eps-mds/Tema-02/issues/6)        |  Sim   |
-| Realizar [Treinamento de github](https://github.com/fga-eps-mds/Tema-02/issues/7) |  Sim   |
-|   Realizar [estudos sobre TAP](https://github.com/fga-eps-mds/Tema-02/issues/8)   |  Sim   |
+|                                       Issue                                       |  Status   | Pontos |
+| :-------------------------------------------------------------------------------: | :-------: | :----: |
+|        [Metodologia Ágil](https://github.com/fga-eps-mds/Tema-02/issues/4)        | Concluída |   1    |
+|        Definir [Funções](https://github.com/fga-eps-mds/Tema-02/issues/5)         | Concluída |   1    |
+|        Definir [Reuniões](https://github.com/fga-eps-mds/Tema-02/issues/6)        | Concluída |   1    |
+| Realizar [Treinamento de github](https://github.com/fga-eps-mds/Tema-02/issues/7) | Concluída |   1    |
+|   Realizar [estudos sobre TAP](https://github.com/fga-eps-mds/Tema-02/issues/8)   | Concluída |   1    |
+
+---
+
+## Quadro de conhecimento
+
+![Quadro Conhecimento 0](../../assets/quadroConhecimento0.png "Sprint 0 - Quadro de Conhecimento")
+
+---
 
 ## Análise do Scrum Master
 
