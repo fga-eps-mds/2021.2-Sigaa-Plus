@@ -27,6 +27,7 @@ Facilitar a utilização do usuário na plataforma SIGAA nos seguintes quesitos:
 A plataforma desenvolvida será uma extensão (plug-in) para o google chrome, permitindo a utilização dos usúarios (estudantes da Universidade de Brasília) afim de facilitar a vizualição do seu currículo, permitindo que o estudante em questão tenha acesso a informações como o fluxo de sua matriz curricular, a quantidade de créditos que possuí e que ainda precisará adquirir, e as matérias que são equivalentes as de seu curso.
 
 # 5. Equipe e Funções Internas
+A equipe é compostas por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS) responsáveis por diferentes papéis de gerência descritos a seguir em tabela.
 
  Função       | Nome                      | Github                                                     |
  ------------ | ------------------------- | ---------------------------------------------------------- |
@@ -53,3 +54,5 @@ O projeto será desenvolvido seguindo a metodologia ágil associada ao DevOps, f
 Utilizamos as seguintes ferramentas como meio decomunicação: Telegram, discord, jitsi meet, github e email.
 
 # Referências
+
+>Documentação Acacia, 2019 - Termo de Abertura. Disponível em <https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md>
