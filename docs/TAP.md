@@ -4,7 +4,7 @@
 
 | Data       | Versão | Modificação                             | Autor                                                                                                                                                     |
 | :--------- | :----- | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03/02/2022 | 0.1    | Criação da primeira versão do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@eng-Bruno](https://github.com/eng-Bruno) |
+| 03/02/2022 | 0.1    | Criação da primeira versão do documento | [@eng-Bruno](https://github.com/eng-Bruno), [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@luizpettengill](https://github.com/luizpettengill) |
 
 # 1. Introdução
 
@@ -27,11 +27,32 @@ Facilitar a utilização do usuário na plataforma SIGAA nos seguintes quesitos:
 A plataforma desenvolvida será uma extensão (plug-in) para o google chrome, permitindo a utilização dos usúarios (estudantes da Universidade de Brasília) afim de facilitar a vizualição do seu currículo, permitindo que o estudante em questão tenha acesso a informações como o fluxo de sua matriz curricular, a quantidade de créditos que possuí e que ainda precisará adquirir, e as matérias que são equivalentes as de seu curso.
 
 # 5. Equipe e Funções Internas
+A equipe é compostas por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS) responsáveis por diferentes papéis de gerência descritos a seguir em tabela.
+
+ Função       | Nome                      | Github                                                     |
+ ------------ | ------------------------- | ---------------------------------------------------------- |
+ ScrumMaster  | Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                 |
+ ScrumMaster  | Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
+ ScrumMaster  | Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
+ ScrumMaster  | Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
+ ProductOwner | Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
+ ProductOwner | Hian Praxedes             | [@HianPraxedes](https://github.com/HianPraxedes)           |
+ ProductOwner | Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)     |
+ ProductOwner | Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
+ Arquiteto    | Filipe Pereira            | [@16bits](https://github.com/16bits)                       |
+ Arquiteto    | Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                       |
+ Arquiteto    | Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
+ Arquiteto    | Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
+
 
 # 6. Metodologia de Desenvolvimento
+
+O projeto será desenvolvido seguindo a metodologia ágil associada ao DevOps, focando em entregas continuas para o incremento do software.
 
 # 7. Comunicação da Equipe
 
 Utilizamos as seguintes ferramentas como meio decomunicação: Telegram, discord, jitsi meet, github e email.
 
 # Referências
+
+>Documentação Acacia, 2019 - Termo de Abertura. Disponível em <https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md>
