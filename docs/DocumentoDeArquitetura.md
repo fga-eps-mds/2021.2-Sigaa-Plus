@@ -6,22 +6,28 @@
 | ---------- | ------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 01/02/2022 | 0.1    | início da criação dos tópicos da introdução                                               | [@Madu01](https://github.com/Madu01) e [@vitormanoel17](https://github.com/vitormanoel17) |
 | 03/02/2022 | 0.2    | montagem da estrutura do documento e das tecnologias do tópico Representação arquitetural | [@Madu01](https://github.com/Madu01) e [@vitormanoel17](https://github.com/vitormanoel17) |
-| 06/02/2022 | 0.3    | criação dos conteúdos dos subtópicos 2.1 e 2.2                                            | [@Madu01](https://github.com/Madu01)                                                      |
-|            |        |                                                                                           |                                                                                           |
+| 06/02/2022 | 0.3    | criação dos conteúdos dos subtópicos 2.1 e 2.2                                            | [@Madu01](https://github.com/Madu01) 
+| 08/02/2022 | 0.4 | escopo concluído e atualização no tópico 1.3 | [@Madu01](https://github.com/Madu01) |
+| 08/02/2022 | 0.5 | Revisão dos subtópicos 2.1 e 2.2 | [@Elios630](https://github.com/Elios630)|
+|  |  |  |  |
 
 ## 1. Introdução
 
 ### 1.1 Escopo
-
+Este projeto é um plugin que será aplicado ao site SIGAA para um melhor desempenho na disposição de dados para o estudante, como exibir as matérias restantes sem o trabalho do aluno, gráfico mostrando os créditos de cada modalidade e disponibilizar as equivalências de todas as matérias listadas. Esse plugin será desenvolvido por 11 alunos da UnB-Gama na disciplina Métodos de Desenvolvimento de Software. 
 ### 1.2 Objetivo
 
 Este documento apresenta de forma ampla a arquitetura do software do projeto, como as tecnologias a serem utilizadas e os diagramas da visão geral da arquitetura. As informações apresentadas neste documento será de modo que guie os desenvolvedores e envolvidos a aplicar tais instruções no processo de desenvolvimento do projeto.
 
-### 1.3 Abreviações e Termos
-
-| Sigla/Termo | Conceito |
-| ----------- | -------- |
-|             |          |
+### 1.3 Definições, acrônimos e abreviações
+| Abreviação | Significado | 
+| --- | --- | 
+| SIGAA | Sistema Integrado de Gestão de Atividades Acadêmicas |
+| UnB | Universidade de Brasília |
+| HTML | Linguagem de Marcação de Hipertexto |
+| CSS | Folhas de Estilo em Cascatas |
+| JavaScript |  |
+| Web Scraper |  |
 
 ## 2. Representação Arquitetural
 
