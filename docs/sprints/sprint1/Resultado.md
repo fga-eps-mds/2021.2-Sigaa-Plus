@@ -21,9 +21,9 @@
 
 ## Quadro de conhecimento
 
-![Quadro Conhecimento 0](../../assets/quadroConhecimento0.png "Sprint 0 - Quadro de Conhecimento")
+Durante a Sprint 1 a equipe melhorou o conhecimento sobre o GitHub e fizeram pesquisas sobre as tecnologias que serão utilizadas.
 
----
+![Quadro Conhecimento 1](../../assets/quadroConhecimento1.png "Sprint 1 - Quadro de Conhecimento")
 
 ## Análise do Scrum Master
 
