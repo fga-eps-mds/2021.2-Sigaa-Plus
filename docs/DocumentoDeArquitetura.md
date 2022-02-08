@@ -6,6 +6,7 @@
 | 03/02/2022 | 0.2 | montagem da estrutura do documento e das tecnologias do tópico Representação arquitetural | Maria Eduarda B. e Vitor Manoel|
 | 06/02/2022 | 0.3 | criação dos conteúdos dos subtópicos 2.1 e 2.2 | Maria Eduarda B.|
 | 08/02/2022 | 0.4 | escopo concluído e atualização no tópico 1.3 | Maria Eduarda B.|
+| 08/02/2022 | 0.5 | Revisão dos dos subtópicos 2.1 e 2.2 | Pedro Henrique E. P.|
 |  |  |  |  |
 ## 1. Introdução
 ### 1.1 Escopo
