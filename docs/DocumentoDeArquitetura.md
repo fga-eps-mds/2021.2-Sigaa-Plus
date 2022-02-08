@@ -5,16 +5,22 @@
 | 01/02/2022 | 0.1 | início da criação dos tópicos da introdução | Maria Eduarda B. e Vitor Manoel|
 | 03/02/2022 | 0.2 | montagem da estrutura do documento e das tecnologias do tópico Representação arquitetural | Maria Eduarda B. e Vitor Manoel|
 | 06/02/2022 | 0.3 | criação dos conteúdos dos subtópicos 2.1 e 2.2 | Maria Eduarda B.|
+| 08/02/2022 | 0.4 | escopo concluído e atualização no tópico 1.3 | Maria Eduarda B.|
 |  |  |  |  |
 ## 1. Introdução
 ### 1.1 Escopo
-
+Este projeto é um plugin que será aplicado ao site SIGAA para um melhor desempenho na disposição de dados para o estudante, como exibir as matérias restantes sem o trabalho do aluno, gráfico mostrando os créditos de cada modalidade e disponibilizar as equivalências de todas as matérias listadas. Esse plugin será desenvolvido por 11 alunos da UnB-Gama na disciplina Métodos de Desenvolvimento de Software. 
 ### 1.2 Objetivo
 Este documento apresenta de forma ampla a arquitetura do software do projeto, como as tecnologias a serem utilizadas e os diagramas da visão geral da arquitetura. As informações apresentadas neste documento será de modo que guie os desenvolvedores e envolvidos a aplicar tais instruções no processo de desenvolvimento do projeto.
-### 1.3 Abreviações e Termos
-| Sigla/Termo | Conceito | 
+### 1.3 Definições, acrônimos e abreviações
+| Abreviação | Significado | 
 | --- | --- | 
-|  |  |
+| SIGAA | Sistema Integrado de Gestão de Atividades Acadêmicas |
+| UnB | Universidade de Brasília |
+| HTML | Linguagem de Marcação de Hipertexto |
+| CSS | Folhas de Estilo em Cascatas |
+| JavaScript |  |
+| Web Scraper |  |
 ## 2. Representação Arquitetural
 ### 2.1 HTML
 Em 1991 iniciou o HTML, sua abreviação é HyperText Markup Language, traduzindo para o português significa "Linguagem de Marcação de Hipertexto" e a sua versão mais recente é o HTML5, trazendo utilidades e meios para um melhor desenvolvimento web. A principal função do HTML é demarcar a estrutura de uma página da web. As estruturas demarcadas são os elementos que também são chamados de tags HTML. Na página esses elementos são textos (títulos, parágrafos e subtítulos), botões, imagens, áudios, etc..., ou seja, são hipertextos que juntos compõem a estrutura básica de uma página da web. 
