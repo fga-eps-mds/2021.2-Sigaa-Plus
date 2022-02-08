@@ -1,14 +1,14 @@
 # Planejamento da Sprint 1
 
-- **Data de Início:** 01/02/2022
+- **Data de Início:** 25/01/2022
 
-- **Data de Término:** 07/02/2022
+- **Data de Término:** 01/02/2022
 
 ---
 
 ## Sprint 1
 
-Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquitetura e termo de abertura de projeto, além de decidir e pesquisar sobre as ferramentas que serão utilizadas durante todo o desenvolvimento do projeto.
+Sprint com o objetivo de ajudar a equipe a se organizar ao ambiente onde será feito todo o projeto, definir papéis para cada integrante dentro da metodologia adotada e definir horário das reuniões semanais.
 
 ---
 
@@ -16,13 +16,12 @@ Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquit
 
 ## Objetivos
 
-|                                      Issue                                       | Pontos |
-| :------------------------------------------------------------------------------: | :----: |
-| [Termo de Abertura de Projeto](https://github.com/fga-eps-mds/Tema-02/issues/10) |   1    |
-|      [Documento de Visão](https://github.com/fga-eps-mds/Tema-02/issues/11)      |   2    |
-|   [Documento de Arquitetura](https://github.com/fga-eps-mds/Tema-02/issues/12)   |   2    |
-|        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
-|    Pesquisar [tecnologias](https://github.com/fga-eps-mds/Tema-02/issues/15)     |   2    |
-|   [Quadro de conhecimentos](https://github.com/fga-eps-mds/Tema-02/issues/16)    |   1    |
+|                                     Issue                                     | Pontos |
+| :---------------------------------------------------------------------------: | :----: |
+|      [Metodologia Ágil](https://github.com/fga-eps-mds/Tema-02/issues/4)      |   1    |
+|      Definir [Funções](https://github.com/fga-eps-mds/Tema-02/issues/5)       |   1    |
+|      Definir [Reuniões](https://github.com/fga-eps-mds/Tema-02/issues/6)      |   1    |
+| Realizar [estudos sobre TAP](https://github.com/fga-eps-mds/Tema-02/issues/8) |   1    |
+|  [Quadro de conhecimentos](https://github.com/fga-eps-mds/Tema-02/issues/16)  |   1    |
 
-<h4><i>Total de pontos planejados: 11</i></h4>
+<h4><i>Total de pontos planejados: 5</i></h4>

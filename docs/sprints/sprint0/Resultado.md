@@ -2,9 +2,9 @@
 
 ## Visão Geral
 
-- **Data de Início:** 25/01/2022
+- **Data de Início:** 18/01/2022
 
-- **Data de Término:** 01/02/2022
+- **Data de Término:** 25/01/2022
 
 - **Duração:** 1 semana
 
@@ -12,15 +12,13 @@
 
 |                                       Issue                                       |  Status   | Pontos |
 | :-------------------------------------------------------------------------------: | :-------: | :----: |
-|        [Metodologia Ágil](https://github.com/fga-eps-mds/Tema-02/issues/4)        | Concluída |   1    |
-|        Definir [Funções](https://github.com/fga-eps-mds/Tema-02/issues/5)         | Concluída |   1    |
-|        Definir [Reuniões](https://github.com/fga-eps-mds/Tema-02/issues/6)        | Concluída |   1    |
 | Realizar [Treinamento de github](https://github.com/fga-eps-mds/Tema-02/issues/7) | Concluída |   1    |
-|   Realizar [estudos sobre TAP](https://github.com/fga-eps-mds/Tema-02/issues/8)   | Concluída |   1    |
 
 ---
 
 ## Quadro de conhecimento
+
+O quadro de conhecimentos do grupo é apresentado numa escala de 1 a 5, com o número 1 representando baixo conhecimento e o número 5 representando alto conhecimento sobre determinada ferramenta.
 
 ![Quadro Conhecimento 0](../../assets/quadroConhecimento0.png "Sprint 0 - Quadro de Conhecimento")
 
@@ -28,6 +26,6 @@
 
 ## Análise do Scrum Master
 
-Durante a semana o grupo fez 3 encontros para se organizar e se ambientar com o Github. Durante essas reuniões foram determinados os papéis de cada integrante no projeto.
+Durante a semana o grupo fez pesquisas e estudou sobre as funcionalidades do GitHub, para ter um melhor conhecimento sobre a ferramenta que será utilizada durante todo o desenvolvimento do projeto.
 
 A sprint atingiu a proposta apresentada.

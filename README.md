@@ -17,19 +17,28 @@ O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sig
 
 <i>Release 02</i> - 26/04/2022 </strong>
 
+## ⚙️ Tecnologias
+
+- [JavaScript](https://www.javascript.com/)
+
+- [Web Scraper](https://webscraper.io/)
+
 ## 🤝 Colaboradores
 
 | Nome                      | Github                                                     |
 | ------------------------- | ---------------------------------------------------------- |
-| Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
-| Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
+| Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
 | Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                 |
-| Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
-| Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
-| Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
+| Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
 | Hian Praxedes             | [@HianPraxedes](https://github.com/HianPraxedes)           |
-| Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
+| Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
+| Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
 | Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                       |
 | Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)     |
-| Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
-| Filipe Pereira            | [@16bits](https://github.com/16bits)                       |
+| Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
+| Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
+| Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
+
+## Licença
+
+GNU GENERAL PUBLIC LICENSE © Plugin Sigaa Aluno. [LICENSE](/LICENSE)
