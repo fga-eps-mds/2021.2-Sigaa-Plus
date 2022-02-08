@@ -24,4 +24,4 @@ Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquit
 |        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
 |    Pesquisar [tecnologias](https://github.com/fga-eps-mds/Tema-02/issues/15)     |   2    |
 
-<h4><i>Total de pontos planejados: 11</i></h4>
+<h4><i>Total de pontos planejados: 10</i></h4>
