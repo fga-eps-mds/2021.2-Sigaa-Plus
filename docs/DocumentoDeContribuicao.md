@@ -1,4 +1,4 @@
-# Documento de contribuição 
+# Guia de contribuição 
 ## Como contribuir
 ## Politica de issues
 ## Politica de branches
