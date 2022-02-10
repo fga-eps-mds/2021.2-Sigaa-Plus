@@ -18,7 +18,7 @@ Sprint com o objetivo de estabelecer as políticas de contribuição, iniciar o 
 
 |                                      Issue                                       | Pontos |
 | :------------------------------------------------------------------------------: | :----: |
-| [Concluir estudos sobre as tecnologias ](https://github.com/fga-eps-mds/Tema-02/issues/10) |   1    |
+| [Concluir estudos sobre as tecnologias ](https://github.com/fga-eps-mds/Tema-02/issues/15 |   1    |
 | [Estabelecer template das Issues e Organizar o ZenHub no repositório](https://github.com/fga-eps-mds/Tema-02/issues/34) |   1    |
 |               [Iniciar o diagrama UML]()      |   2    |
 |[Finalizar Roadmap e escopo e subir no git](https://github.com/fga-eps-mds/Tema-02/issues/43)   |   3    |
