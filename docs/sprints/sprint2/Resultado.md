@@ -22,7 +22,7 @@
 
 ## Quadro de conhecimento
 
-Durante a Sprint 2 a equipe melhorou o conhecimento sobre o GitHub e fizeram pesquisas sobre as tecnologias que serão utilizadas.
+Durante a Sprint 2 a equipe melhorou o conhecimento sobre o GitHub e sobre as tecnologias que serão utilizadas.
 
 ![Quadro Conhecimento 1](../../assets/quadroConhecimento2.png "Sprint 2 - Quadro de Conhecimento")
 
