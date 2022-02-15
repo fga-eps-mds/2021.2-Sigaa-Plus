@@ -14,7 +14,7 @@ Contribuições para este projeto são bem vindos, porém, para manter organiza�
 
 As issues são  localizadas em ser criadas no [repositório de documentação do projeto](https://github.com/fga-eps-mds/Tema-02/issues). Para a criação, use uma das [template de issue](https://github.com/fga-eps-mds/Tema-02/issues/new/choose).
 
-Na criação da issue, confira se ela já não existe e siga esses passos:
+Na criação da issue, confira se ela já não existe e em seguida siga esses passos:
 
 1. Escolha o template de issue;
 2. As issues devem conter:
