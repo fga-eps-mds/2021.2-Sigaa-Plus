@@ -28,21 +28,17 @@ Na criação da issue, confira se ela já não existe e em seguida siga esses pa
 A divisão das branches tem o intuito de melhorar a dinâmica e a organização do fluxo de trabalho. A criação dessa divisão foi inspirada no [Git Flow](https://leanpub.com/git-flow/read). 
 A imagem abaixo ilustra como será esta divisão:    
 
-![img_exemplo1](https://user-images.githubusercontent.com/64814266/153734040-7dfbcdde-47e4-48d5-99d9-9bb9abdca117.png)
+![img_exemplo1 1](https://user-images.githubusercontent.com/64814266/154172831-ec791483-177b-4712-a733-c67769c799e6.png)
 
 ### Explicação de cada branch: 
 
 #### main 
 
-Ela é a principal branch, é onde vai estar o código estável em nível de produção, no caso as versões contendo as atualizações da branch develop. Toda branch que estiver concluída na develop será juntada na main, seguindo a condição de estarem estáveis. 
-
-#### develop 
-
-É nessa branch que terá a criação de novas branches feature e assim que estiverem estáveis serão juntadas na main. Essa branch é a segunda principal, pois é nela que será desenvolvido novas branches e testadas pra que a main possa se manter estável.  
+Ela é a principal branch, é onde que vai estar o código estável em nível de produção, no caso as versões e as atualizações das branches feature. Toda branch feature que estiver concluída será juntada na main, seguindo a condição de estarem estáveis. 
 
 #### feature 
 
-São branches que serão criadas a partir da branch develop para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na develop seguindo a restrição de estar estável, caso ocorra instabilidade terá que abrir uma nova branch chamada fix para corrigir algum problema e logo após mesclar de volta a feature. 
+São branches que serão criadas a partir da branch main para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na main seguindo a restrição de estar estável, caso ocorra instabilidade terá que abrir uma nova branch chamada fix para corrigir algum problema e logo após mesclar de volta a feature. 
 
 ###### O padrão a ser seguido para nomear uma feature: 
 `feature-nomeDaNovaBranch` 
@@ -54,11 +50,11 @@ São branches que serão criadas a partir da branch develop para que possa ser d
 ###### O padrão a ser seguido para nomear uma fix: 
 `fix-nomeDaBranchInstavel` 
 
-A imagem abaixo ilustra exemplos de como nomear e utilizar as branches main, develop, feature e as fix: 
+Assim como as branches fix, as feature também terão que serem excluídas após um merge. A main não pode ser excluída! 
 
-![img_exemplo2](https://user-images.githubusercontent.com/64814266/153734147-12fb0e78-2daf-4b09-915a-122c67cef4ab.png)
+A imagem abaixo ilustra exemplos de como nomear e utilizar as branches main, feature e as fix: 
 
-Assim como as branches fix, as feature também terão que ser excluídas após um merge. A main e o develop não poderão ser excluídos!  
+![img_exemplo1 2](https://user-images.githubusercontent.com/64814266/154173052-2f5528ee-fe8f-4aaa-bd0b-99376c812495.png) 
 
 ## Política de desenvolvimento
 O código deve seguir as diretrizes dos documentos oficiais de cada tecnologia utilizada.
