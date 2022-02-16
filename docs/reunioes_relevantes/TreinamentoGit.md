@@ -3,8 +3,8 @@
 
 
 
-| Integrante| Função|Presença|Justificativa | |
-|--------------|-------------|-------|----------------------|----|
+| Integrante|Função|Presença|Justificativa|
+|--------------|-------------|-------|----------------------|
 | Beatriz Santos | Product Owner |ausente | 
 | Bruno Oliveira | Scrum Master |presente | |  
 | Gabrielly Assunção |Scrum Master |presente | |  
