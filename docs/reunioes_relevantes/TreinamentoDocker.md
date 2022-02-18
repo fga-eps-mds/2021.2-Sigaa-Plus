@@ -18,9 +18,6 @@
 | Vitor Manoel Aquino|Arquiteto de Software |ausente | |
 
 
-
-	
-
 	
 ## Considerações 
 
