@@ -1,4 +1,4 @@
-# Ambientação - 18/02/2022
+# Treinamento de Docker - 18/02/2022
 
 
 
@@ -6,19 +6,22 @@
 | Integrante|Função|Presença|Justificativa|
 |--------------|-------------|-------|----------------------|
 | Beatriz Santos | Product Owner |ausente | 
-| Bruno Oliveira | Scrum Master |presente | |  
+| Bruno Oliveira | Scrum Master |ausente | |  
 | Gabrielly Assunção |Scrum Master |presente | |  
 | Hian Praxedes |Product Owner |presente | |  
-| Laís Ramos |Scrum Master |ausente| Imprevisto familiar |  
+| Laís Ramos |Scrum Master | presente| |  
 | Luiz Pettengill |Scrum Master |presente | |  
 | Maria Eduarda Barbosa |Arquiteto de Software |presente | |  
-| Maria Eduarda Marques |Product Owner |presente | 
+| Maria Eduarda Marques |Product Owner |Ausente | 
 | Pedro Henrique Elias |Arquiteto de Software |presente | |  
 | Pedro Abreu |Product Owner |ausente | |  
-| Vitor Manoel Aquino|Arquiteto de Software |presente | |
+| Vitor Manoel Aquino|Arquiteto de Software |ausente | |
 
+
+
+	
 
 	
 ## Considerações 
 
-- A reunião teve como objetivo ambientar o grupo nas ferramentas que serão utilizadas ao longo do projeto.
+- Treinamento a respeito da ferramenta docker para a implementação no projeto.
