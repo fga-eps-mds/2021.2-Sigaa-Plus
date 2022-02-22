@@ -1,6 +1,6 @@
 ---
 name: Standard
-about: Describe this issue template's purpose here.
+about: Default Issue
 title: ''
 labels: ''
 assignees: ''
