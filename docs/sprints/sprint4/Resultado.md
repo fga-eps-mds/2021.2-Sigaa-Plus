@@ -12,10 +12,11 @@
 
 |                                                 Issue                                                 |   Status   | Pontos |
 | :---------------------------------------------------------------------------------------------------: | :--------: | :----: |
-|      Elaborar [Estrutura Analítica do Projeto](https://github.com/fga-eps-mds/Tema-02/issues/65)      | incompleta |   2    |
+|      Elaborar [Estrutura Analítica do Projeto](https://github.com/fga-eps-mds/Tema-02/issues/65)      | Concluída  |   2    |
 |               Adicionar [GitHub Page](https://github.com/fga-eps-mds/Tema-02/issues/61)               | Concluída  |   5    |
 |         Elaborar [Documento de Requisitos](https://github.com/fga-eps-mds/Tema-02/issues/67)          | Concluída  |   3    |
-| Pesquisar [soluções alternativas para web scraping](https://github.com/fga-eps-mds/Tema-02/issues/69) | incompleta |   3    |
+| Pesquisar [soluções alternativas para web scraping](https://github.com/fga-eps-mds/Tema-02/issues/69) | Incompleta |   3    |
+|           [Protótipo de baixa qualidade](https://github.com/fga-eps-mds/Tema-02/issues/74)            | Incompleta |   8    |
 
 ---
 
