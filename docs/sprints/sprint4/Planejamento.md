@@ -22,5 +22,6 @@ Sprint com o objetivo de elaborar estrutura analítica do projeto, elaborar docu
 |               Adicionar [GitHub Page](https://github.com/fga-eps-mds/Tema-02/issues/61)               |   5    |
 |         Elaborar [Documento de Requisitos](https://github.com/fga-eps-mds/Tema-02/issues/67)          |   3    |
 | Pesquisar [soluções alternativas para web scraping](https://github.com/fga-eps-mds/Tema-02/issues/69) |   3    |
+|           [Protótipo de baixa qualidade](https://github.com/fga-eps-mds/Tema-02/issues/74)            |   8    |
 
-<h4><i>Total de pontos planejados: 13</i></h4>
+<h4><i>Total de pontos planejados: 21</i></h4>
