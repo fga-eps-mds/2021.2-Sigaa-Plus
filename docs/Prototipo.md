@@ -5,6 +5,7 @@
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:--:|:--:|:--:|
 |23/02/2022|1.0|Abertura do documento e adição do tópico Protótipo de Baixa Fidelidade e seus subtópicos|[@EduardaSMarques](https://github.com/EduardaSMarques)|
+|24/02/2022|1.0|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
 
 ## 1.Introdução
 
