@@ -1,6 +1,7 @@
 # Treinamento de Docker - 18/02/2022
 
-
+## Objetivo 
+- Participar do treinamento de Docker feito pelo monitor da disciplina a fim de aplicar o aprendizado no projeto
 
 
 | Integrante|Função|Presença|Justificativa|
@@ -18,7 +19,8 @@
 | Vitor Manoel Aquino|Arquiteto de Software |ausente |Sem justificativa |
 
 
-	
-## Considerações 
+## Considerações finais 
 
-- Treinamento a respeito da ferramenta docker para a implementação no projeto.
+- O objetivo da reunião foi concluído com sucesso.
+- Os integrantes que não puderam estar presentes, terão um horário reservado com o DevOps de seu time para realizar a ambientação.
+

@@ -1,7 +1,7 @@
 # Ambientação - 18/02/2022
 
-
-
+## Objetivo
+- A reunião teve como objetivo ambientar os times A e B nas ferramentas que serão utilizadas ao longo do projeto. Ferramentas especificadas no [Documento de Arquitetura](https://github.com/fga-eps-mds/Sigaa-plus/blob/main/docs/DocumentoDeArquitetura.md).
 
 | Integrante|Função|Presença|Justificativa|
 |--------------|-------------|-------|----------------------|
@@ -19,6 +19,8 @@
 
 
 	
-## Considerações 
+## Considerações finais
 
-- A reunião teve como objetivo ambientar o grupo nas ferramentas que serão utilizadas ao longo do projeto.
+- O objeivo da reunião foi concluído, todos os integrante presentes estão com as suas respectivas máquinas prontas para começar a desenvolver.
+- Os integrantes que não puderam estar presentes receberam as resoluções da reunião através de mensagem no aplicativo telegram.
+- Os integrantes que não puderam estar presentes, terão um horário reservado com o DevOps de seu time para realizar a ambientação.
