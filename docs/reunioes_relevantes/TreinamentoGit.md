@@ -4,16 +4,16 @@
 
 | Integrante|Função|Presença|Justificativa|
 |--------------|-------------|-------|----------------------|
-| Beatriz Santos | Product Owner |ausente | 
+| Beatriz Santos | Product Owner |ausente | Sem justificativa
 | Bruno Oliveira | Scrum Master |presente | |  
 | Gabrielly Assunção |Scrum Master |presente | |  
 | Hian Praxedes |Product Owner |presente | |  
 | Laís Ramos |Scrum Master | presente| |  
-| Luiz Pettengill |Scrum Master |ausente | |  
+| Luiz Pettengill |Scrum Master |ausente |Sem justificativa |  
 | Maria Eduarda Barbosa |Arquiteto de Software |presente | |  
 | Maria Eduarda Marques |Product Owner |Ausente |Problemas de conexão 
 | Pedro Henrique Elias |Arquiteto de Software |presente | |  
-| Pedro Abreu |Product Owner |ausente | |  
+| Pedro Abreu |Product Owner |ausente |Sem justificativa |  
 | Vitor Manoel Aquino|Arquiteto de Software |presente | |
 
 
