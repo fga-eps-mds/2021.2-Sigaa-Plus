@@ -1,6 +1,12 @@
 # Ambientação - 15/02/2022
 
+## Objetivos 
 
+- A reunião teve como objetivo ambientar e treinar o grupo em relaçao as principais funcionalidades e comandos do git. O objetivo foi concluído.
+
+## Considerações 
+
+- O dojô foi aplicado pelos scrums master dos times A e B.
 
 | Integrante|Função|Presença|Justificativa|
 |--------------|-------------|-------|----------------------|
@@ -18,6 +24,7 @@
 
 
 	
-## Considerações 
+## Considerações finais 
 
-- A reunião teve como objetivo ambientar e treinar o grupo em relaçao as principais funcionalidades e comandos do git. O objetivo foi concluído.
+- O objetivo da reunião foi concluído com sucesso.
+- Os integrantes que não puderam estar presentes, tiveram um horário reservado com o scrum master do seu time para realizar a ambientação.
