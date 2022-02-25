@@ -19,7 +19,7 @@ O protótipo de baixa fidelidade tem o intuito de auxiliar a equipe a desenvolve
 ### 2.1 Telas
 
 #### 2.1.1 Tela inicial do SIGAA
-![Grupo 1](assets/images/Grupo 1.png)
+![Grupo 1.png](assets/images/Grupo 1.png)
 Esta é a primeira tela que será vista pelo usuário ao acessar o SIGAA. Na parte superior da página estará situado os botões com cada uma das funcionalidades do plugin.
 
 #### 2.1.2 Tela de Seleção
