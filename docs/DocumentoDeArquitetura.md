@@ -9,7 +9,7 @@
 | 06/02/2022 | 0.3    | criação dos conteúdos dos subtópicos 2.1 e 2.2                                            | [@Madu01](https://github.com/Madu01) 
 | 08/02/2022 | 0.4 | escopo concluído e atualização no tópico 1.3 | [@Madu01](https://github.com/Madu01) |
 | 08/02/2022 | 0.5 | Revisão dos subtópicos 2.1 e 2.2 | [@Elios630](https://github.com/Elios630)|
-|  |  |  |  |
+| 25/02/2022 | 0.6  | Inserindo tópicos: Visão Geral, Diagrama de Pacotes e Visão de implentação |[@vitormanoel17](https://github.com/vitormanoel17)  |
 
 ## 1. Introdução
 
@@ -28,6 +28,8 @@ Este documento apresenta de forma ampla a arquitetura do software do projeto, co
 | CSS | Folhas de Estilo em Cascatas |
 | JavaScript |  |
 | Web Scraper |  |
+| DOM | Document Object Model
+| API | Application Programming Interface
 
 ## 2. Representação Arquitetural
 
@@ -64,11 +66,32 @@ Utilizaremos esta tecnologia no desenvolvimento do nosso projeto por permitir um
 ## 5. Visão Lógica
 
 ### 5.1 Visão Geral
+![Visaogeral](./assets/visaoGeralArq.svg)
 
+Este diagrama representa uma visão macro de como as tecnologias utilizadas estarão inseridas dentro do projeto e como vão interagir.
 ### 5.2 Diagrama de Pacotes
 
-## 6. Visão de Implementação
+![Diagrama pacotes](./assets/DiagramaPacotes.svg)
 
+Os pacotes da arquitetura foram dividos buscando um baixo acoplamento e uma divisão de responsabilidades bem definidas, e desta forma ter um software conciso.
+
+O Front-end consiste na parte mais importante deste projeto, pois nele será implementado as principais funcionalidades que o plugin tem a oferecer. Pensando nisso foram definidos pacotes distruidos de forma que interajam de maneira organizada com o serviço do back-end e o browser. Os seguintes pacotes foram definidos:
+
+_**Pages**_: contém a estruturação visual dos blocos que serão inseridos dentro da página do Sigaa.
+
+_**Components**_: possue os componentes que vão constituir o corpo dos blocos, como: gráficos e botões.
+
+_**assets**_: possue elementos como imagens e as estilizações(css) dos elementos que compõem as telas.
+
+_**Details**_: Elementos relacionados ao popup do plugin.
+
+_**controller**_: Constituído por dois pacotes que irão fazer o controle dos eventos, requisições e tratamento de dados. O pacote *DOM* está relacionado com o browser e o conteúdo da página, já o pacote *FetchApi* está responsável por funcionalidades relacionadas ao consumo e tratamento da api fornecida pelo serviço de back-end.
+
+O Back-end tem um papel bem definido, fornecendo dados minerados para o front-end. Com isso temos um serviço de Api rest, onde teremos um pacote chamado *Routes* que ira definir as rotas(endPoints) da API, e o serviço de *Scraping* que está responsável por fazer a raspagem dos dados em páginas web. A forma como o back-end está definido permite que a aplicação tenha um micro-serviço capaz de ser consumido também por uma possível versão mobile deste software.
+## 6. Visão de Implementação
+Seguindo os conceitos estruturais apresentados anteriormente, O plugin funcionará na página logada do Sigaa, inserindo as telas que foram desenvolvidas utilizando html,css,vue.js,vue-chart.js. Partindo do principio de melhorar a visualização dos dados, serão capturados os dados do usuário por meio da manipulação do DOM (estes dados podem ser armazenados utilizando a web API localStorage, que permite guardar dados no browser localmente, sendo acessados somente em determinado dominio web) e juntamente com os dados fornecidos pela aplicação de Back-end, serão construidos os gráficos e funcionalidades de visualização de equivalências de matérias. O serviço do Back-end está responsável por realizar web scraping, utilizando a biblioteca Puppeteer, com isso realizará a raspagem de dados da página Sigaa público, e partindo destes dados minerados construirá uma api utilizando o `node.js + express`. Este serviço ira comunicar-se com o front-end seguindo os protocolos HTTP.
 ## 7. Referências
 
 > Documento de Arquitetura : Acácia. Disponível em: https://fga-eps-mds.github.io/2019.2-Acacia/#/architecture_document?id=documento-de-arquitetura. Acesso em 03/02/2022;
+> Documento de Arquitetura : HubCare. Disponível em: https://cjjcastro.gitlab.io/2019-1-hubcare-docs/project/architecture-document/
+Acesso em 25/02/2022;
