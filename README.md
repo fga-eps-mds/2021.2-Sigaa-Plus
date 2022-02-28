@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Plugin Sigaa Aluno - Tema 2</h1>
-</div>
+
+![sigaa+ sem fundo](https://user-images.githubusercontent.com/86726332/156074792-37609c46-f98d-4b0b-8c07-3c2283853e8d.png)
 
 <div align="center">
   <img alt="issues-badge" src="https://img.shields.io/github/issues/fga-eps-mds/Tema-02?color=success&style=for-the-badge"/>
