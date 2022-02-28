@@ -88,7 +88,7 @@ Usuário do sistema que terá acesso, após a autenticação, terá acesso ao fl
 
 Esse diagrama expõe os seguintes requisitos: 
 
-- RF01: Permitir que o aluno autenticaque em sua conta no SIGAA
+- RF01: Permitir que o aluno autentique em sua conta no SIGAA
 - RF02: Permitir a consulta de fluxo
 - RF03: Exibir o fluxo
 - RF04: Permitir a consulta de matérias equivalentes
