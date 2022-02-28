@@ -11,6 +11,8 @@
 | 08/02/2022 | 0.5 | Revisão dos subtópicos 2.1 e 2.2 | [@Elios630](https://github.com/Elios630)|
 | 25/02/2022 | 0.6 | Inserindo tópicos: Visão Geral, Diagrama de Pacotes e Visão de implentação |[@vitormanoel17](https://github.com/vitormanoel17)  |
 | 27/02/2022 | 0.7 | atualização do tópico representação arquitetural e adicionamento de conteúdo no tópico metas e restrições arquiteturais | [@Madu01](https://github.com/Madu01) |
+| 27/02/2022 | 0.8 | Inserindo tópicos: Visão de Casos de Uso | [@Elios630](https://github.com/Elios630)|
+
 
 ## 1. Introdução
 
@@ -119,6 +121,42 @@ O Docker será implementado para facilitar e agilizar as execuções das funçõ
 O plugin será testado de modo que esteja aplicável para a usabilidade sem problemas. 
 
 ## 4. Visão de Casos de Uso
+
+Lista de casos de uso:
+
+- Autenticar
+- Consultar fluxo
+- Ver fluxo
+- Consultar equivalência de matérias
+- Ver créditos obrigatórios
+- Ver créditos opcionais ou módulo livre
+- Ver créditos totais
+- Consultar créditos do curso
+
+### 4.1 Atores
+
+#### 4.1.1 Aluno
+Usuário do sistema que terá acesso, após a autenticação, terá acesso ao fluxo, créditos e as demais funcionalidades do plugin.
+
+### 4.2 Diagrama de caso de uso
+
+![Diagrama Controle](https://user-images.githubusercontent.com/78980830/155910261-e16c39b0-e6b0-4112-aa9b-33edcdc7220e.png)
+
+### 4.3 Prioridade dos casos de uso
+
+Esse diagrama expõe os seguintes requisitos: 
+
+- RF01: Permitir que o aluno autentique em sua conta no SIGAA
+- RF02: Permitir a consulta de fluxo
+- RF03: Exibir o fluxo
+- RF04: Permitir a consulta de matérias equivalentes
+- RF05: Permitir a consulta de créditos do curso
+- RF06: Exibir os créditos obrigatórios, opcionais e totais
+- RNF07: O programa será um plugin
+- RNF08: Suporte para os principais navegadores web
+- RNF09: O plugin deve ter uma interface para o usuário
+- RNF10: As informações são transmitidas de forma didática
+- RNF11: O ambiente deve preservar a segurança dos dados do usuário
 
 ## 5. Visão Lógica
 
