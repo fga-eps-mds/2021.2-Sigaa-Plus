@@ -80,7 +80,7 @@ Para contribuir com este projeto basta seguir:
         <td><a href="https://github.com/Madu01"><img src="https://avatars.githubusercontent.com/u/64814266?v=4" width="50px;"</a></td>
         <td><a href="https://github.com/EduardaSMarques">Maria Eduarda Marques</a></td>
         <td><a href="https://github.com/EduardaSMarques"><img src="https://avatars.githubusercontent.com/u/79334692?v=4" width="50px;"</a></td>
-        <td align="center"> <img align="right" width="60" src="https://user-images.githubusercontent.com/86726332/156275365-2d8744c7-b2c1-4083-8681-ab2db1273e91.png"/></td>
+        <td align="center"> </td>
         <td></td>
     </tr>
 </table>
