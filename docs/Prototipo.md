@@ -5,10 +5,13 @@
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:--:|:--:|:--:|
 |23/02/2022|1.0|Abertura do documento e adição do tópico Protótipo de Baixa Fidelidade e seus subtópicos|[@EduardaSMarques](https://github.com/EduardaSMarques)|
-|24/02/2022|1.0|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
-|24/02/2022|1.1|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
+|24/02/2022|1.1|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
+|24/02/2022|1.2|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
+|02/03/2022|1.3|Adição do tópico introdução |[@EduardaSMarques](https://github.com/EduardaSMarques)|
 
 ## 1.Introdução
+
+Neste documento estará armazenado informações acerca dos protótipos de baixa e alta fidelidade, criados para ajudar no desenvolvimento do plugin SIGAA+.
 
 ## 2.Protótipo de Baixa Fidelidade
  
