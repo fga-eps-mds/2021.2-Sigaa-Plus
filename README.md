@@ -1,14 +1,35 @@
 
-![sigaa+ sem fundo](https://user-images.githubusercontent.com/86726332/156074792-37609c46-f98d-4b0b-8c07-3c2283853e8d.png)
+![sigaa+ sem fundo](https://user-images.githubusercontent.com/86726332/156260318-b0393815-e456-4ee2-8705-84849afe3094.png)
 
+<br>
 <div align="center">
-  <img alt="issues-badge" src="https://img.shields.io/github/issues/fga-eps-mds/Tema-02?color=success&style=for-the-badge"/>
-  <img alt="pr-badge" src="https://img.shields.io/github/issues-pr/fga-eps-mds/Tema-02?color=success&style=for-the-badge"/>
+  <img alt="pr-badge" src="https://img.shields.io/github/contributors/fga-eps-mds/2021.2-Sigaa-Plus"/>
+  <img alt="pr-badge" src="https://img.shields.io/github/issues-closed/fga-eps-mds/Tema-02?color=sucess"/>
+  <img alt="pr-badge" src="https://img.shields.io/github/issues-pr-closed/fga-eps-mds/Tema-02?color"/>
+  <img alt="pr-badge" src="https://img.shields.io/github/repo-size/fga-eps-mds/Tema-02?color=sucess"/>
 </div>
+<br>
 
-## 📑 Sobre o projeto
+## 🖥️ Visão Geral
 
-O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sigaa para seus usuários, os ajudando a ter uma melhor experiência e uma navegação mais dinâmica.
+<p align="justify"> &emsp;&emsp;
+  O SIGAA PLUS propõe-se a facilitar e tornar mais intuitiva a utilização da plataforma SIGAA pelos alunos da Universidade de Brasília. 
+</p>
+<p align="justify"> &emsp;&emsp;
+  Muitos alunos podem dispor de dúvidas a respeito do próprio status na universidade. Pensando nisso, a extensão SIGAA PLUS apresenta uma visualização dinâmica e intuitiva do fluxo curricular do aluno, da quivalência de matérias obrigátorias, além de exibir gráficos sobre créditos cursados e créditos pendentes. 
+</p>
+
+## 🤝 Como contribuir
+
+Para contribuir com este projeto basta seguir:
+
+-  [Guia de Contribuição](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/6bea446ee4be5e15a1c49b1af7f11c93baf0d92f/docs/CONTRIBUTING.md) 
+
+-  [Código de Conduta](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/6bea446ee4be5e15a1c49b1af7f11c93baf0d92f/CODE_OF_CONDUCT.md)
+
+-  [Template para criação de issues](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/tree/main/.github/ISSUE_TEMPLATE)
+
+-  [Template para criação de pull requests](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/.github/pull_request_template.md)
 
 ## 🗓️ Release
 
@@ -16,28 +37,55 @@ O Plugin Sigaa Aluno tem como principal objetivo facilitar o uso do software Sig
 
 <i>Release 02</i> - 26/04/2022 </strong>
 
-## ⚙️ Tecnologias
 
-- [JavaScript](https://www.javascript.com/)
+## 🧑‍💻 Desenvolvedores
+### Time A
 
-- [Web Scraper](https://webscraper.io/)
+<div id="div1">
+<br>
+<table>
+     <tr>
+     <td><a href="https://github.com/GabriellyAssuncao">Gabrielly Assunção</a></td>
+        <td><a href="https://github.com/GabriellyAssuncao"><img src="https://avatars.githubusercontent.com/u/86726332?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/HianPraxedes">Hian Praxedes</a></td>
+        <td><a href="https://github.com/HianPraxedes"><img src="https://avatars.githubusercontent.com/u/78980856?v=4" width="50px;"</a></td><td><a href="https://github.com/laisramos123">Laís Ramos</a></td>
+        <td><a href="https://github.com/laisramos123"><img src="https://avatars.githubusercontent.com/u/38669960?v=4" width="50px;"</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Elios630">Pedro Henrique Elias</a></td>
+        <td><a href="https://github.com/Elios630"><img src="https://avatars.githubusercontent.com/u/78980830?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/ahbreu">Pedro Marcos Abreu</a></td>
+        <td><a href="https://github.com/ahbreu"><img src="https://avatars.githubusercontent.com/u/56367128?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/vitormanoel17">Vitor Manoel Aquino</a></td>
+        <td><a href="https://github.com/vitormanoel17"><img src="https://avatars.githubusercontent.com/u/74791849?v=4" width="50px;"</a></td>
+    </tr>
+</table>
+</div>
 
-## 🤝 Colaboradores
+### Time B
 
-| Nome                      | Github                                                     |
-| ------------------------- | ---------------------------------------------------------- |
-| Beatriz Santos            | [@beatrizSO](https://github.com/beatrizSO)                 |
-| Bruno Oliveira            | [@eng-Bruno](https://github.com/eng-Bruno)                 |
-| Gabrielly Assunção        | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
-| Hian Praxedes             | [@HianPraxedes](https://github.com/HianPraxedes)           |
-| Laís Ramos                | [@laisramos123](https://github.com/laisramos123)           |
-| Luiz Guilherme Pettengill | [@LuizPettengill](https://github.com/LuizPettengill)       |
-| Maria Eduarda Barbosa     | [@Madu01](https://github.com/Madu01)                       |
-| Maria Eduarda Marques     | [@EduardaSMarques](https://github.com/EduardaSMarques)     |
-| Pedro Henrique Elias      | [@Elios630](https://github.com/Elios630)                   |
-| Pedro Marcos Abreu        | [@ahbreu](https://github.com/ahbreu)                       |
-| Vitor Manoel              | [@vitormanoel17](https://github.com/vitormanoel17)         |
+<div id="div1">
+<br>
+<table>
+     <tr>
+        <td><a href="https://github.com/beatrizSO">Beatriz Santos</a></td>
+        <td><a href="https://github.com/beatrizSO"><img src="https://avatars.githubusercontent.com/u/65085229?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/eng-Bruno">Bruno Oliveira</a></td>
+        <td><a href="https://github.com/eng-Bruno"><img src="https://avatars.githubusercontent.com/u/81006095?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/LuizPettengill">Luiz Guilherme Pettengill</a></td>
+        <td><a href="https://github.com/LuizPettengill"><img src="https://avatars.githubusercontent.com/u/44177946?v=4" width="50px;"</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Madu01">Maria Eduarda Barbosa</a></td>
+        <td><a href="https://github.com/Madu01"><img src="https://avatars.githubusercontent.com/u/64814266?v=4" width="50px;"</a></td>
+        <td><a href="https://github.com/EduardaSMarques">Maria Eduarda Marques</a></td>
+        <td><a href="https://github.com/EduardaSMarques"><img src="https://avatars.githubusercontent.com/u/79334692?v=4" width="50px;"</a></td>
+        <td align="center"> <img align="right" width="60" src="https://user-images.githubusercontent.com/86726332/156275365-2d8744c7-b2c1-4083-8681-ab2db1273e91.png"/></td>
+        <td></td>
+    </tr>
+</table>
+</div>
 
-## Licença
+## 📄 Licença
 
 GNU GENERAL PUBLIC LICENSE © Plugin Sigaa Aluno. [LICENSE](/LICENSE)
