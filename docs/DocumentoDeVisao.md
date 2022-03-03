@@ -7,6 +7,7 @@
 | 31/01/2022 | 1.0    | Abertura do Documento                                     | [@eng-Bruno](https://github.com/eng-Bruno)                                                                                                            |
 | 02/02/2022 | 1.1    | Adição do escopo e de mais algumas informações do projeto | [@beatrizSO](https://github.com/beatrizSO), [@HianPraxedes](https://github.com/HianPraxedes) e [@EduardaSMarques](https://github.com/EduardaSMarques) |
 | 24/02/2022 | 2.0    | Completando documento e atualizando algumas informações | [@HianPraxedes](https://github.com/HianPraxedes)|
+| 03/03/2022 | 2.1    | Concertando erros na estrutura do documento | [@HianPraxedes](https://github.com/HianPraxedes)|
 
 ## 1. Introdução
 
@@ -32,6 +33,7 @@ Com o uso do SIGAA PLUS, a necessidade de abrir outras abas para conseguir algum
 ## 1.3 Referências:
 
 > Documento de Visão: IBM. Disponível em: https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=requirements-vision-document. Acesso em 31/01/2022;
+> 
 > Documento de Visão: Acacia. Disponível em: https://github.com/fga-eps-mds/2019.2-Acacia. Acesso em 24/02/2022;
 
 ## 1.4 Visão Geral:
