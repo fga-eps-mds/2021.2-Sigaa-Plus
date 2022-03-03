@@ -27,8 +27,6 @@ Com o uso do SIGAA PLUS, a necessidade de abrir outras abas para conseguir algum
 | _FGA_      | Faculdade UnB Gama                                   |
 | _SIGAA_    | Sistema Integrado de Gestão de Atividades Acadêmicas |
 | _MDS_      | Métodos de Desenvolvimento de Software               |
-| _RF_      | Requisitos funcionais               |
-| _RNF_      | Requisitos não funcionais               |
 
 ## 1.3 Referências:
 
