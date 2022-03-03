@@ -7,7 +7,7 @@
 | 31/01/2022 | 1.0    | Abertura do Documento                                     | [@eng-Bruno](https://github.com/eng-Bruno)                                                                                                            |
 | 02/02/2022 | 1.1    | Adição do escopo e de mais algumas informações do projeto | [@beatrizSO](https://github.com/beatrizSO), [@HianPraxedes](https://github.com/HianPraxedes) e [@EduardaSMarques](https://github.com/EduardaSMarques) |
 | 24/02/2022 | 2.0    | Completando documento e atualizando algumas informações | [@HianPraxedes](https://github.com/HianPraxedes)|
-| 03/03/2022 | 2.1    | Concertando erros na estrutura do documento | [@HianPraxedes](https://github.com/HianPraxedes)|
+| 03/03/2022 | 2.1    | Concertando erros na estrutura do documento e retirando parte de requisitos do documento | [@HianPraxedes](https://github.com/HianPraxedes)|
 
 ## 1. Introdução
 
@@ -146,39 +146,4 @@ Toda a interação com o software deve ocorrer de forma natural, de modo que o u
 ## 6.4 Restrições de Confiabilidade
 
 Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedores tem o comprometimento de manter uma cobertura de testes mínima de 90%.
-
-# 7. Requisitos do Produto
-
-## 7.1 Introdução
-
-Tendo em vista a necessidade da utilização do processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das retrisções do projeto. Por conta disso, foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido.
-
-## 7.2 Metodologia
-
-* **Must**: Significa que o requisito deve ser importante para a solução ser considerada um sucesso.
-* **Should**: Significa que o requisito é importante e deve ser implementado, mas sua implementação ou não, não irá interferir diretamente no sucesso da solução.
-* **Could**: Significa que o requisito indicado não precisa ser necessáriamente implementado, apenas se tiver tem e recursos.
-* **Won't**: Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
-
-## 8. Resultado
-
-## 8.1 Requisitos funcionais
-
-| Número |                                 Requisito                       | MoSCoS | 
-| ------ | --------------------------------------------------------------- | ------ |
-| RF1    | O usuário deve visualizar as matérias equivalentes do seu curso | Must   |
-| RF2    | O usuário deve visualizar as disciplinas que faltam na estrutura curricular | Must   |
-| RF3    | O usuário deve visualizar um grafico com a quantidade de créditos obrigatórios para o término da graduação | Must   |
-| RF4    | O usuário deve visualizar um grafico com a quantidade de créditos optativos para o término da graduação  | Must   |
-| RF5    | O usuário deve visualizar um grafico com a quantidade de créditos de módulo livre para o término da graduação  | Must   |
-
-## 8.2 Requisitos não funcionais
-
-| Número |                                 Requisito                       | MoSCoS | 
-| ------ | --------------------------------------------------------------- | ------ |
-| RNF1    | O sistema deve funcionar na plataforma do SIGAA | Should |
-| RNF2    | O sistema deve ser responsivo | Should  |
-| RNF3    | O sistema deve funcionar de forma individual para cada usuário | Should |
-| RNF4    | O usuário deve poder baixar o sistema pela loja de extensão do navegador  | Could  |
-
 
