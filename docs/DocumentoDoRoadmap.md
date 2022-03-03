@@ -10,4 +10,4 @@
 
 https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2
 
-<img src="docs/assets/roadmap.jpg">
+<img src="assets/roadmap.jpg">
