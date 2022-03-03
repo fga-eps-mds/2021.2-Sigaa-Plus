@@ -1,6 +1,4 @@
-- [Home](/)
-- [Sobre](/README.md)
-
+- [Home](/README.md)
 
 - Projeto
 
@@ -23,8 +21,8 @@
 ---
 
 - Contribuição
-  - [Politicas do Repositório](/docs/CONTRIBUTING)
 
+  - [Politicas do Repositório](/docs/CONTRIBUTING)
 
 ---
 
