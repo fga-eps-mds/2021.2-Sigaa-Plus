@@ -19,8 +19,8 @@
 O kanban é uma metodologia ágil desenvolvida para organizar as tarefas de uma empresa ou projeto. Essa metodologia é fácil de ser implementada ela também ajuda a mensurar a produtividade, identificar problemas e otimiza o fluxo de trabalho. 
 
 No caso do nosso projeto, estamos utilizando dois kanbans:
-- **kanban do projects:** As colunas são sprints de modo a facilitar a visualização de issues criadas por sprint e do Roadmap do produto. Está disponível em [Roadmap do produto](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2). 
-- **kanban do ZenHub:** É utilizado no Board da extensão ZenHub para o gerenciamento das issues. Está disponível em [Board](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2#workspaces/tema-02-61fbe43eee3f2e001039033f/board).  
+- **kanban do projects:** As colunas representam as sprints de modo a facilitar a visualização de issues criadas por sprint e do Roadmap do produto. Está disponível em [Roadmap do produto](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2). 
+- **kanban do ZenHub:** É utilizado na aba Board da extensão ZenHub para o gerenciamento das issues. Está disponível em [Board](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2#workspaces/tema-02-61fbe43eee3f2e001039033f/board).  
 
 ## 5. Gerenciamento
 ### 5.1 Cumulative flow
@@ -43,8 +43,12 @@ Ajuda no cumprimento de prazos de forma mais previsível. As sprints são usadas
 
 | Dias | Horários | Integrantes | Finalidade |
 |------|----------|-------------|------------|
-| Terças | às 19h | todos os integrantes | alinhamento de informações e os Scrum Master's defini o que será feito na sprint da semana |
-| Quintas podendo ter mais reuniões em outros dias da semana (vai depender do que foi decidido pelo grupo em específico) | a princípio é às 19h, mas vai depender de cada grupo que são separados por papéis | integrantes de cada grupo | Reunião interna de cada grupo | 
+| Terças |  18h | Scrum Master's e DevOps de cada time | Planejamento da sprint |
+| Terças |  19h | Todos os integrantes | Ponto de controle geral |
+| Quintas | 19h | Times A e B separadamente| Ponto de controle de cada grupo | 
+| Quintas | 20h | Product Owner's e Arquitetos| Definifição/execução de tarefas |
+
+Observação: A quantidade de reuniões, os dias e os horários podem sofrer alterações de acordo com as necessidades e demandas do projeto.
 
 ## 7. Referências
 
