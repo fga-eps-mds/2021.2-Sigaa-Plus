@@ -1,5 +1,6 @@
-[SIGAA PLUS](/README.md)
-- [Home](/)
+[SIGAA PLUS](/)
+
+- [Home](/README.md)
 
 - Projeto
 
