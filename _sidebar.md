@@ -6,9 +6,9 @@
   - [Termo de Abertura](/docs/TAP)
   - [Estrutura Analítica do Projeto](/docs/EstruturaAnalítica)
   - [Canvas]()
-  - [Metodologia]()
-  - [Ferramentas Utilizadas]()
-  - [Roadmap do Produto]()
+  - [Metodologia](/docs/DocumentoDeMetodologia)
+  - [Ferramentas Utilizadas](/docs/Ferramentas)
+  - [Roadmap do Produto](/docs/DocumentoDoRoadmap)
 
 ---
 
