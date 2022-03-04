@@ -68,6 +68,15 @@ O projeto está previsto para ser feito com duas entregas, sendo uma no meio da 
 |    Release 01     | 08/03/2022 | Primeira entrega de valor do projeto, contendo as principais documentações, início da implementação do projeto e apresentação do produto. |
 |    Release 02     | 26/04/2022 |                Segunda entrega de valor, apresentação final do produto com sua documentação e desenvolvimento concluídos.                 |
 
+# 9. Requisitos de Alto Nível
+
+- O sistema será apresentado em uma plataforma web.
+- O sistema deve apresentar as matérias equivalentes do curso do usuário.
+- O sistema deve apresentar as disciplinas que faltam na estrutura curricular do usuário.
+- O sistema deve apresentar gráficos com as quantidades de créditos obrigatórios, optitavos e de módulo livre restantes para o término da graduação do usuário.
+
 # Referências
 
 > Documentação Acácia, 2019 - Termo de Abertura. Disponível em <[Termo de Abertura - Acácia](https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md)>
+
+> Documentação FAMil, 2021 - Termo de Abertura. Disponível em <[Termo de Abertura - FAMil](https://fga-eps-mds.github.io/2021-1-hospitalar/#/produto/tap/tap)>
