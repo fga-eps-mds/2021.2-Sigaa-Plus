@@ -2,9 +2,10 @@
 
 # Histórico de Versões
 
-| Data       | Versão | Modificação                             | Autor                                                                                                                                                                                                           |
-| :--------- | :----- | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03/02/2022 | 0.1    | Criação da primeira versão do documento | [@eng-Bruno](https://github.com/eng-Bruno), [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@luizpettengill](https://github.com/luizpettengill) |
+| Data       | Versão | Modificação                              | Autor                                                                                                                                                                                                           |
+| :--------- | :----- | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 03/02/2022 | 0.1    | Abertura do documento                    | [@eng-Bruno](https://github.com/eng-Bruno), [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@luizpettengill](https://github.com/luizpettengill) |
+| 04/03/2022 | 1.0    | Finalizando primeira versão do documento | [@eng-Bruno](https://github.com/eng-Bruno)                                                                                                                                                                      |
 
 # 1. Introdução
 
@@ -74,6 +75,17 @@ O projeto está previsto para ser feito com duas entregas, sendo uma no meio da 
 - O sistema deve apresentar as matérias equivalentes do curso do usuário.
 - O sistema deve apresentar as disciplinas que faltam na estrutura curricular do usuário.
 - O sistema deve apresentar gráficos com as quantidades de créditos obrigatórios, optitavos e de módulo livre restantes para o término da graduação do usuário.
+
+# 10. Riscos
+
+Neste tópico será apresentado a tabela de riscos que foram levantados pela equipe durante o desenvolvimento do projeto, para que seja possível identificar tais problemas que podem ser prevenidos no futuro, quando possível.
+
+|                      **Risco**                       |                               **Ação Preventiva**                                |
+| :--------------------------------------------------: | :------------------------------------------------------------------------------: |
+|              Desistência da disciplina               |                  Estimular a participação dos membros da equipe                  |
+|    Baixa produtividade dos integrantes da equipe     |         Distribuir tarefas de forma homogênea para todos os integrantes          |
+|                Indefinição do escopo                 | Manter os requisitos e o planejamento das sprints atualizados de forma constante |
+| Dificuldades da equipe com as tecnologias utilizadas |                      Realização de treinamentos via Discord                      |
 
 # Referências
 
