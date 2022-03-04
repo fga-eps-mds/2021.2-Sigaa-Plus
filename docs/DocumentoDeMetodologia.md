@@ -14,7 +14,7 @@
 
 ## 3. Atividades da Metodologia
 
-## 4. Atividades do XP (Extreme Programming)
+## 4. Sistema ágil de desenvolvimento
 
 ## 5. Gerenciamento
 
