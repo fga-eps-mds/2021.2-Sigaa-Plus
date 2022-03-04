@@ -87,6 +87,28 @@ Neste tópico será apresentado a tabela de riscos que foram levantados pela equ
 |                Indefinição do escopo                 | Manter os requisitos e o planejamento das sprints atualizados de forma constante |
 | Dificuldades da equipe com as tecnologias utilizadas |                      Realização de treinamentos via Discord                      |
 
+# 11. Stakeholders
+
+## 11.1 Usuários
+
+O projeto visa facilitar o uso da plataforma SIGAA para os alunos da Universidade de Brasília, tendo em vista que para utilizar as ferramentas do plugin você deve estar matriculado em algum curso desta universidade.
+
+## 11.2 Equipe
+
+|    **Integrante**     |      **Função**       |              **E-mail**              |
+| :-------------------: | :-------------------: | :----------------------------------: |
+|    Beatriz Santos     |     Product Owner     |    bia.santosdoliveira@gmail.com     |
+|    Bruno Oliveira     |  Scrum Master/DevOps  |     brunooliveira.unb@gmail.com      |
+|  Gabrielly Assunção   |  Scrum Master/DevOps  | gabriellyassuncaorodrigues@gmail.com |
+|     Hian Praxedes     |     Product Owner     |       hianpraxedes93@gmail.com       |
+|      Laís Ramos       |     Scrum Master      |        laisramos123@gmail.com        |
+|    Luiz Pettengill    |     Scrum Master      |       luizpettengill@gmail.com       |
+| Maria Eduarda Barbosa | Arquiteto de Software |          m4dud01@gmail.com           |
+| Maria Eduarda Marques |     Product Owner     |     eduardamarques1307@gmail.com     |
+| Pedro Henrique Elias  | Arquiteto de Software |    eliaspedrohenrique89@gmail.com    |
+|      Pedro Abreu      |     Product Owner     |       pedroabreupmab@gmail.com       |
+|  Vitor Manoel Aquino  | Arquiteto de Software |     vitormanoel.aquino@gmail.com     |
+
 # Referências
 
 > Documentação Acácia, 2019 - Termo de Abertura. Disponível em <[Termo de Abertura - Acácia](https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md)>
