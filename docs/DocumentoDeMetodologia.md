@@ -2,9 +2,10 @@
 
 ## Histórico de Revisão
 
-| Data       | Versão | Descrição                                                                                 | Autor                                                                                     |
-| ---------- | ------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 03/03/2022 | 0.1    | início da criação dos tópicos da introdução                                               | [@Madu01](https://github.com/Madu01) e [@Elios630](https://github.com/Elios630) |
+| Data       | Versão | Descrição   | Autor     |
+| ---------- | ------ | ----------- | --------- |
+| 03/03/2022 | 0.1    | início da criação dos tópicos da introdução | [@Madu01](https://github.com/Madu01) e [@Elios630](https://github.com/Elios630) |
+| 04/03/2022 | 0.2    | adição de conteúdos nos tópicos 4, 5 e 6 | [@Madu01](https://github.com/Madu01) |
 
 
 
@@ -12,13 +13,42 @@
 
 ## 2. Papéis
 
-## 3. Atividades da Metodologia
+## 3. metodologia scrum
 
-## 4. Sistema ágil de desenvolvimento
+## 4. metodologia kanban
+O kanban é uma metodologia ágil desenvolvida para organizar as tarefas de uma empresa ou projeto. Essa metodologia é fácil de ser implementada ela também ajuda a mensurar a produtividade, identificar problemas e otimiza o fluxo de trabalho. 
+
+No caso do nosso projeto, estamos utilizando dois kanbans:
+- **kanban do projects:** As colunas representam as sprints de modo a facilitar a visualização de issues criadas por sprint e do Roadmap do produto. Está disponível em [Roadmap do produto](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2). 
+- **kanban do ZenHub:** É utilizado na aba Board da extensão ZenHub para o gerenciamento das issues. Está disponível em [Board](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/projects/2#workspaces/tema-02-61fbe43eee3f2e001039033f/board).  
 
 ## 5. Gerenciamento
+### 5.1 Cumulative flow
+
+Monitora o fluxo das issues em cada pipeline do kanban do ZenHub. As pipelines são as colunas presentes no kanban. 
+
+### 5.2 Control chart
+
+É uma ferramenta para estimar quanto tempo um problema leva do início ao fim. Pode ajudar a prever o tempo com que os problemas futuros serão resolvidos, identifica gargalos e eficiências em cada estágio do desenvolvimento do projeto.   
+
+### 5.3 Burndown report
+
+Ajuda no cumprimento de prazos de forma mais previsível. As sprints são usadas com problemas estimativos para visualizar um gráfico da velocidade em que o trabalho precisa ser concluído para terminar os problemas incluídos na sprint.  
+
+### 5.4 Velocity tracking
+
+É uma ferramenta ágil que mostra a velocidade histórica do trabalho calculando a pontuação média do grupo obtida em cada sprint.  
 
 ## 6. Cronograma de encontros
+
+| Dias | Horários | Integrantes | Finalidade |
+|------|----------|-------------|------------|
+| Terças |  18h | Scrum Master's e DevOps de cada time | Planejamento da sprint |
+| Terças |  19h | Todos os integrantes | Ponto de controle geral |
+| Quintas | 19h | Times A e B separadamente| Ponto de controle de cada grupo | 
+| Quintas | 20h | Product Owner's e Arquitetos| Definifição/execução de tarefas |
+
+Observação: A quantidade de reuniões, os dias e os horários podem sofrer alterações de acordo com as necessidades e demandas do projeto.
 
 ## 7. Referências
 
