@@ -7,7 +7,8 @@
 |23/02/2022|1.0|Abertura do documento e adição do tópico Protótipo de Baixa Fidelidade e seus subtópicos|[@EduardaSMarques](https://github.com/EduardaSMarques)|
 |24/02/2022|1.0|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
 |24/02/2022|1.1|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
-|03/03/2022|1.0|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
+|03/03/2022|1.2|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
+|04/03/2022|1.3|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
 
 
 ## 1.Introdução
