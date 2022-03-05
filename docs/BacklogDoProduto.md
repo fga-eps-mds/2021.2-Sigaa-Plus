@@ -1,5 +1,13 @@
 # Backlog do Produto
 
+## Histórico de Revisão
+
+| Data | Versão | Descrição | Autor |
+|--|--|--|--|
+| 04/03/2022 | 1.0 | Abertura do documento e criação da tabela | @beatrizSO |
+
+## Versão 1.0 
+
 | ID | Eu, como | Desejo | Para | Comentário | Tasks | Prioridade (MoSCoW)
 |--|--|--|--|--|--|--|
 | SGP01 | Usuário | Instalar o plugin no Google | Utilizá-lo durante o uso do SIGAA | | | Could
