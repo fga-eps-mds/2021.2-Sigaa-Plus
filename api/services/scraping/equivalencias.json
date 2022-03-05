@@ -1,0 +1,732 @@
+[
+  {
+    "name": "COMPILADORES 1",
+    "cod": "( FGA0002 )",
+    "nameSub": "FGA0002 - FUNDAMENTOS DE COMPILADORES"
+  },
+  {
+    "name": "FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+    "cod": "( ( MAT0059 ) OU ( FGA0005 ) )",
+    "nameSub": "MAT0059 - METODOS MATEMÁTICOS DA FÍSICA 1"
+  },
+  {
+    "name": "SISTEMAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROCESSAMENTO DIGITAL DE IMAGENS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
+    "cod": "( ( FGA0215 ) )",
+    "nameSub": "FGA0215 - PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 1"
+  },
+  {
+    "name": "DINÂMICA DOS MECANISMOS",
+    "cod": "( FGA0022 )",
+    "nameSub": "FGA0022 - CINEMÁTICA DOS MECANISMOS PARA AUTOMOTIVA"
+  },
+  {
+    "name": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ESTRUTURAS DE DADOS 2",
+    "cod": "( FGA0029 )",
+    "nameSub": "FGA0029 - ESTRUTURAS DE DADOS E ALGORITMOS 2"
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE CONTROLE AUTOMOTIVO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MECÂNICA DO VÔO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MECÂNICA DO VOO ESPACIAL",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROPULSÃO AEROESPACIAL",
+    "cod": "( FGA0051 )",
+    "nameSub": "FGA0051 - PROPULSÃO AEROESPACIAL"
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TECNOLOGIAS DE FABRICAÇÃO 1",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TECNOLOGIAS DE FABRICAÇÃO 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE BANCO DE DADOS 2",
+    "cod": "( FGA0059 )",
+    "nameSub": "FGA0059 - LABORATÓRIO DE BANCO DE DADOS"
+  },
+  {
+    "name": "PROPULSÃO AERONÁUTICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROPULSÃO ELÉTRICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "cod": "( ( ENE0044 ) )",
+    "nameSub": "ENE0044 - LABORATÓRIO DE CIRCUITOS ELÉTRICOS 1"
+  },
+  {
+    "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "cod": "( ( CIC0094 ) )",
+    "nameSub": "CIC0094 - CIRCUITOS DIGITAIS"
+  },
+  {
+    "name": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "cod": "( ( CIC0094 ) )",
+    "nameSub": "CIC0094 - CIRCUITOS DIGITAIS"
+  },
+  {
+    "name": "TEORIA DE ELETRÔNICA DIGITAL 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTRODUÇÃO AO DESGASTE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "APRENDIZADO DE MÁQUINA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DESENVOLVIMENTO DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MATEMÁTICA DISCRETA 1",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE ELETRICIDADE APLICADA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+    "cod": "( ( IFD0175 ) )",
+    "nameSub": "IFD0175 - FISICA 2"
+  },
+  {
+    "name": "MÁQUINAS DE FLUIDO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRINCÍPIOS DE CONTROLE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ANTENAS IMPRESSAS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ELETRÔNICA EMBARCADA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS OPERACIONAIS EMBARCADOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MATEMÁTICA DISCRETA 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TEORIA DE ELETROMAGNETISMO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRÁTICA DE ELETROMAGNETISMO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETO DE ALGORITMOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "REGULAÇÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ENGENHARIA DE SOFTWARE AUTOMOTIVO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA",
+    "cod": "( ( FGA0218 ) )",
+    "nameSub": "FGA0218 - INSTRUMENTAÇÃO ELETRÔNICA"
+  },
+  {
+    "name": "ENGENHARIA ECONÔMICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE BANCO DE DADOS 1",
+    "cod": "( FGA0135 ) OU ( FGA0136 )",
+    "nameSub": "FGA0135 - SISTEMAS DE BANCOS DE DADOS"
+  },
+  {
+    "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "cod": "( FGA0140 )",
+    "nameSub": "FGA0140 - GESTÃO AMBIENTAL PARA ENGENHARIA"
+  },
+  {
+    "name": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "cod": "( ( FGA0145 ) OU ( FGA0146 ) )",
+    "nameSub": "FGA0145 - ESTRUTURAS DE DADOS E ALGORITMOS"
+  },
+  {
+    "name": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "cod": "( ( EPR0059 ) )",
+    "nameSub": "EPR0059 - HIGIENE E SEGURANÇA DO TRABALHO"
+  },
+  {
+    "name": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "cod": "( FGA0149 )",
+    "nameSub": "FGA0149 - PROJETO INTEGRADOR DE ENGENHARIA 1"
+  },
+  {
+    "name": "ERGONOMIA DO PRODUTO",
+    "cod": "( FGA0151 )",
+    "nameSub": "FGA0151 - ERGONOMIA DO PRODUTO"
+  },
+  {
+    "name": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "cod": "( FGA0153 )",
+    "nameSub": "FGA0153 - MECANICA DOS SÓLIDOS PARA ENGENHARIA"
+  },
+  {
+    "name": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "cod": "( ( EST0023 ) )",
+    "nameSub": "EST0023 - PROBABILIDADE E ESTATÍSTICA"
+  },
+  {
+    "name": "ORIENTAÇÃO A OBJETOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "cod": "( ( MAT0053 ) )",
+    "nameSub": "MAT0053 - CALCULO NUMERICO"
+  },
+  {
+    "name": "ENGENHARIA E AMBIENTE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTRODUÇÃO À ENGENHARIA",
+    "cod": "( FGA0162 )",
+    "nameSub": "FGA0162 - INTRODUÇÃO À ENGENHARIA"
+  },
+  {
+    "name": "HUMANIDADES E CIDADANIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS AUTOMOTIVOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "REQUISITOS DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTERAÇÃO HUMANO COMPUTADOR",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ENGENHARIA DE PETRÓLEO E GÁS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS",
+    "cod": "( FGA0176 )",
+    "nameSub": "FGA0176 - ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS"
+  },
+  {
+    "name": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+    "cod": "( FGA0178 )",
+    "nameSub": "FGA0178 - ELASTICIDADE E PLASTICIDADE APLICADA"
+  },
+  {
+    "name": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
+    "cod": "( FGA0189 )",
+    "nameSub": "FGA0189 - PROJETO DE ELEMENTOS AUTOMOTIVOS"
+  },
+  {
+    "name": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+    "cod": "( FGA0192 ) OU ( FGA0193 )",
+    "nameSub": "FGA0192 - MOTORES DE COMBUSTÃO INTERNA 1"
+  },
+  {
+    "name": "GESTÃO DA PRODUÇÃO AUTOMOTIVA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE CONTROLE",
+    "cod": "( ( FGA0093 ) )",
+    "nameSub": "FGA0093 - PRINCÍPIOS DE CONTROLE"
+  },
+  {
+    "name": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DINÂMICA DOS FLUÍDOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+    "cod": "( FGA0205 )",
+    "nameSub": "FGA0205 - GESTÃO DE PORTIFÓLIOS E PROJETOS DE SOFTWARE"
+  },
+  {
+    "name": "ARQUITETURA E DESENHO DE SOFTWARE",
+    "cod": "( FGA0207 )",
+    "nameSub": "FGA0207 - DESENHO DE SOFTWARE"
+  },
+  {
+    "name": "PARADIGMAS DE PROGRAMAÇÃO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROCESSAMENTO DE SINAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTELIGÊNCIA ARTIFICIAL",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "COMUNICAÇÕES DIGITAIS PARA ENGENHARIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ELETRÔNICA VEICULAR",
+    "cod": "( FGA0225 )",
+    "nameSub": "FGA0225 - ELETRÔNICA VEICULAR"
+  },
+  {
+    "name": "PROJETO DE SISTEMAS AUTOMOTIVOS",
+    "cod": "( FGA0227 )",
+    "nameSub": "FGA0227 - PROJETO DE SISTEMAS AUTOMOTIVOS"
+  },
+  {
+    "name": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "DINÂMICA DE VEÍCULOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTEGRAÇÃO E TESTES",
+    "cod": "( FGA0231 )",
+    "nameSub": "FGA0231 - INTEGRAÇÃO E TESTES"
+  },
+  {
+    "name": "SENSORES E TRANSDUTORES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
+    "cod": "( FGA0234 )",
+    "nameSub": "FGA0234 - TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA"
+  },
+  {
+    "name": "BIORREFINARIAS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TESTES DE SOFTWARE",
+    "cod": "( FGA0237 )",
+    "nameSub": "FGA0237 - VERIFICAÇÃO E VALIDAÇÃO DE SOFTWARE"
+  },
+  {
+    "name": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "cod": "( FGA0239 )",
+    "nameSub": "FGA0239 - MANUTENÇÃO E EVOLUÇÃO DE SOFTWARE"
+  },
+  {
+    "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "cod": "( FGA0243 )",
+    "nameSub": "FGA0243 - FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS"
+  },
+  {
+    "name": "MÁQUINAS DE FLUXO",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS HIDROELÉTRICOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "CIÊNCIAS AEROESPACIAIS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INSTRUMENTAÇÃO BIOMÉDICA 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MODELAGEM DE SISTEMAS BIOLÓGICOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ECONOMIA DE ENERGIA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ACÚSTICA E VIBRAÇÕES VEICULARES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETO DE ESTRUTURAS DE VEICULOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+    "cod": "( FGA0269 )",
+    "nameSub": "FGA0269 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS"
+  },
+  {
+    "name": "MELHORIA DE PROCESSOS DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "QUALIDADE DE SOFTWARE 1",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FUNDAMENTOS DO PROJETO DE AERONAVES",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "MECÂNICA DOS MATERIAIS COMPÓSITOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "INTRODUÇÃO À MECÂNICA DA FRATURA",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "FUNDAMENTOS DO MÉTODO DOS ELEMENTOS FINITOS",
+    "cod": "-",
+    "nameSub": ""
+  },
+  {
+    "name": "SISTEMAS DE PROPULSÃO SÓLIDA E HÍBRIDA",
+    "cod": "-",
+    "nameSub": ""
+  }
+]
