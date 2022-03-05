@@ -54,11 +54,11 @@ O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeir
 ![Tela_1](https://user-images.githubusercontent.com/56367128/156667906-9b702c07-5be6-48d2-8e7b-d9c37e309bed.png)
 Esta é a primeira tela que será vista pelo usuário ao acessar o SIGAA. Na parte superior da página estará situado o botão do plugin, e logo após de o usuário clicar no botão "SIGAA +", nela será mostrado as opções disponíveis ao usuário.
 
-#### 3.1.2 Tela de Equivalências
+#### 3.1.2 Tela de Disciplinas Obrigatórias pendentes
 ![Tela_2](https://user-images.githubusercontent.com/56367128/156668538-84c4051c-16a1-49a6-a93b-50343051e4ad.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Equivalências, nela será mostrado as disciplinas do curso do aluno que são equivalentes. 
 
-#### 3.1.3 Tela de Disciplinas Obrigatórias pendentes
+#### 3.1.3 Tela de Equivalências
 ![Tela_3](https://user-images.githubusercontent.com/56367128/156668319-6d01a90f-c016-44d1-b6be-8e182423ef0d.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obrigátórias pendentes, nela será exibido as disciplinas obrigatórias que ainda faltam ser feitas no fluxo curricular do aluno. 
 
