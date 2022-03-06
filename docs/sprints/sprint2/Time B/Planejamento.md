@@ -8,7 +8,7 @@
 
 ## Sprint 2
 
-Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquitetura e termo de abertura de projeto, além de decidir e pesquisar sobre as ferramentas que serão utilizadas durante todo o desenvolvimento do projeto.
+Sprint com o objetivo de decidir e pesquisar sobre as ferramentas que serão utilizadas durante todo o desenvolvimento do projeto.
 
 ---
 
