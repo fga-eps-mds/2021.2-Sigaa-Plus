@@ -8,7 +8,7 @@
 
 ## Sprint 2
 
-Sprint com o objetivo de decidir e pesquisar sobre as ferramentas que serão utilizadas durante todo o desenvolvimento do projeto.
+Sprint com o objetivo de decidir e pesquisar sobre as ferramentas que serão utilizadas durante todo o desenvolvimento do projeto, dojo de git.
 
 ---
 
@@ -18,9 +18,6 @@ Sprint com o objetivo de decidir e pesquisar sobre as ferramentas que serão uti
 
 |                                      Issue                                       | Pontos |
 | :------------------------------------------------------------------------------: | :----: |
-| [Termo de Abertura de Projeto](https://github.com/fga-eps-mds/Tema-02/issues/10) |   1    |
-|      [Documento de Visão](https://github.com/fga-eps-mds/Tema-02/issues/11)      |   2    |
-|   [Documento de Arquitetura](https://github.com/fga-eps-mds/Tema-02/issues/12)   |   2    |
 |        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
 |    Pesquisar [tecnologias](https://github.com/fga-eps-mds/Tema-02/issues/15)     |   2    |
 
