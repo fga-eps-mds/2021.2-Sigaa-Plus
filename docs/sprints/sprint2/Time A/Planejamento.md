@@ -21,6 +21,5 @@ Sprint com o objetivo de dar iniciar ao documento de visão, documento de arquit
 | [Termo de Abertura de Projeto](https://github.com/fga-eps-mds/Tema-02/issues/10) |   1    |
 |      [Documento de Visão](https://github.com/fga-eps-mds/Tema-02/issues/11)      |   2    |
 |   [Documento de Arquitetura](https://github.com/fga-eps-mds/Tema-02/issues/12)   |   2    |
-|        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
 
 <h4><i>Total de pontos planejados: 10</i></h4>
