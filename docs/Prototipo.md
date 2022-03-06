@@ -5,13 +5,17 @@
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:--:|:--:|:--:|
 |23/02/2022|1.0|Abertura do documento e adição do tópico Protótipo de Baixa Fidelidade e seus subtópicos|[@EduardaSMarques](https://github.com/EduardaSMarques)|
-|24/02/2022|1.0|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
-|24/02/2022|1.1|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
-|03/03/2022|1.2|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
-|04/03/2022|1.3|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
+|24/02/2022|1.1|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
+|24/02/2022|1.2|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
+|02/03/2022|1.3|Adição do tópico introdução |[@EduardaSMarques](https://github.com/EduardaSMarques)|
+|03/03/2022|1.4|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
+|04/03/2022|1.5|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
+|06/03/2022|1.6|Adição do tópico fluxo do usuário |[@EduardaSMarques](https://github.com/EduardaSMarques)|
 
 
 ## 1.Introdução
+
+Neste documento estará armazenado informações acerca dos protótipos de baixa e alta fidelidade, criados para ajudar no desenvolvimento do plugin SIGAA+.
 
 ## 2.Protótipo de Baixa Fidelidade
  
@@ -41,7 +45,8 @@ Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obri
 ![Group 5](https://user-images.githubusercontent.com/56367128/155628643-e4b26bee-dbf3-40e1-b26a-33e43fc937fc.png)
 Esta tela aparecerá logo após o usuário clicar no botão do Gráfico, nela serão mostrados os gráficos contendo a quantidade de créditos obrigatórios, optativos e de módulo livre que faltam para a conclusão do curso.
 
-### 2.2 Fluxo do produto
+### 2.2 Fluxo do Usuário
+![FluxoUser](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/c3759115284660f18f26863d017086f15d211cc2/docs/assets/images/FluxoUser.png)
 
 ## 3.Protótipo de Alta Fidelidade
 
