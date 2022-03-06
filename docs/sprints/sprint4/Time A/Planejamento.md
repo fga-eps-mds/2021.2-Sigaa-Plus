@@ -9,6 +9,7 @@
 ## Sprint 4
 
 Sprint com o objetivo de elaborar estrutura analítica do projeto, elaborar documento de requisitos de software e o protótipo de baixa qualidade.
+
 ---
 
 > [Sprint Backlog](https://github.com/fga-eps-mds/Tema-02/milestone/5)
