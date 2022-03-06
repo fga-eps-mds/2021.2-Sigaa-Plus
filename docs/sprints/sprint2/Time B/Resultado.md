@@ -12,9 +12,6 @@
 
 |                                      Issue                                       | Pontos |
 | :------------------------------------------------------------------------------: | :----: |
-| [Termo de Abertura de Projeto](https://github.com/fga-eps-mds/Tema-02/issues/10) |   1    |
-|      [Documento de Visão](https://github.com/fga-eps-mds/Tema-02/issues/11)      |   2    |
-|   [Documento de Arquitetura](https://github.com/fga-eps-mds/Tema-02/issues/12)   |   2    |
 |        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
 |    Pesquisar [tecnologias](https://github.com/fga-eps-mds/Tema-02/issues/15)     |   2    |
 
