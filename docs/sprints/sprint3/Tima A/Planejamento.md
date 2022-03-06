@@ -23,4 +23,4 @@ Sprint com o objetivo de estabelecer as políticas de contribuição e iniciar o
 |               [Iniciar o diagrama UML]()      |   2    |
 
 
-<h4><i>Total de pontos planejados: 12</i></h4>
+<h4><i>Total de pontos planejados: 4</i></h4>
