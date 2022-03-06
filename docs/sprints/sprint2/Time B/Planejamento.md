@@ -21,4 +21,4 @@ Sprint com o objetivo de decidir e pesquisar sobre as ferramentas que serão uti
 |        [Dojo de github](https://github.com/fga-eps-mds/Tema-02/issues/13)        |   3    |
 |    Pesquisar [tecnologias](https://github.com/fga-eps-mds/Tema-02/issues/15)     |   2    |
 
-<h4><i>Total de pontos planejados: 10</i></h4>
+<h4><i>Total de pontos planejados: 5</i></h4>
