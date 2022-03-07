@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição | Autor(es)|
 | ---------- | ------ | --------- | -------- |
 | 19/02/2022 | 1.0    | Criação do documento de requisitos | [@HianPraxedes](https://github.com/HianPraxedes) |
+| 07/03/2022 | 1.1   | Correção de erros de digitação | [@HianPraxedes](https://github.com/HianPraxedes) |
 
 ## 1. Introdução
 
@@ -29,7 +30,7 @@ Tendo em vista a necessidade da utilização do processo chamado priorização d
 
 ## 4.1 Requisitos funcionais
 
-| Número |                                 Requisito                       | MoSCoS | 
+| Número |                                 Requisito                       | MoSCoW | 
 | ------ | --------------------------------------------------------------- | ------ |
 | RF1    | O usuário deve visualizar as matérias equivalentes do seu curso | Must   |
 | RF2    | O usuário deve visualizar as disciplinas que faltam na estrutura curricular | Must   |
@@ -39,7 +40,7 @@ Tendo em vista a necessidade da utilização do processo chamado priorização d
 
 ## 4.2 Requisitos não funcionais
 
-| Número |                                 Requisito                       | MoSCoS | 
+| Número |                                 Requisito                       | MoSCoW | 
 | ------ | --------------------------------------------------------------- | ------ |
 | RNF1    | O sistema deve funcionar na plataforma do SIGAA | Should |
 | RNF2    | O sistema deve ser responsivo | Should  |
