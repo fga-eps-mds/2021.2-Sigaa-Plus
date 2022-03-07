@@ -1,20 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Hello World"/>
+<div>
+  <img alt="Sigaa plus" src="./assets/logoSigaaPlus.png">
+  
+  <tela/>
+</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import tela from './components/tela.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+
+    tela
   }
 }
 </script>
 
 <style>
+*{
+  margin: 0;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -23,4 +31,18 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+img{
+  width:400px;
+  height:400px;
+}
+
+div{
+  margin:auto;
+  width: 50em;
+  height: 30em;
+  background-color: black;
+  border-radius: 2em;
+}
+
 </style>
