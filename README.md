@@ -37,6 +37,9 @@ Para contribuir com este projeto basta seguir:
 
 <i>Release 02</i> - 26/04/2022 </strong>
 
+## Desenvolvimento
+
+Para subir o ambiente de desenvolvimento siga os seguintes [passos](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/wiki/Nosso-ambiente-de-desenvolvimento#necktie-ambiente-de-desenvolvimento).
 
 ## 🧑‍💻 Desenvolvedores
 ### Time A
