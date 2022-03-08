@@ -6,7 +6,7 @@
     "dev": "vue-cli-service serve",
     "serve": "docker-compose up",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
     "api": "node api/routes/routes.js"
   },
   "dependencies": {
