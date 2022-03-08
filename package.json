@@ -7,6 +7,7 @@
     "serve": "docker-compose up",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
+    "api": "node api/routes/routes.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
