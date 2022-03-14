@@ -16,3 +16,7 @@ O objetivo deste documento é apresentar a estrutura analítica do SIGAA+, onde 
 ## EAP
 
 ![Estrutura Analítica do Projeto](./assets/eap.png "Estrutura Analítica do Projeto")
+
+## Referências
+
+- PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
