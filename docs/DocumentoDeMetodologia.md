@@ -124,6 +124,7 @@ Ajuda no cumprimento de prazos de forma mais previsível. As sprints são usadas
 | Terças |  19h | Todos os integrantes | Ponto de controle geral |
 | Quintas | 19h | Times A e B separadamente| Ponto de controle de cada grupo | 
 | Quintas | 20h | Product Owner's e Arquitetos| Definifição/execução de tarefas |
+| Segunda a sexta | 18:45h | Time B| Compartilhamento das tarefas sendo realizadas |
 
 Observação: A quantidade de reuniões, os dias e os horários podem sofrer alterações de acordo com as necessidades e demandas do projeto.
 
