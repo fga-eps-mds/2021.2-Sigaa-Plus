@@ -6,10 +6,11 @@
 | ---------- | ------ | --------- | -------- |
 | 19/02/2022 | 1.0    | Criação do documento de requisitos | [@HianPraxedes](https://github.com/HianPraxedes) |
 | 07/03/2022 | 1.1   | Correção de erros de digitação | [@HianPraxedes](https://github.com/HianPraxedes) |
+| 14/03/2022 | 1.2   | Correção de erros de digitação | [@HianPraxedes](https://github.com/HianPraxedes) |
 
 ## 1. Introdução
 
-Tendo em vista a necessidade da utilização do processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das retrisções do projeto. Por conta disso, foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido.
+Tendo em vista a necessidade da utilização do processo chamado priorização de requisitos, o qual ajuda a manter uma entrega rápida do máximo de funcionalidades possíveis dentro das restrições do projeto. Por conta disso, foi escolhido a técnica MoSCoW. Suas letras maiúsculas indicam o esquema de priorização que deve ser seguido.
 
 ## 2. Definições, acrônimos e abreviações:
 
@@ -23,7 +24,7 @@ Tendo em vista a necessidade da utilização do processo chamado priorização d
 
 * **Must**: Significa que o requisito deve ser importante para a solução ser considerada um sucesso.
 * **Should**: Significa que o requisito é importante e deve ser implementado, mas sua implementação ou não, não irá interferir diretamente no sucesso da solução.
-* **Could**: Significa que o requisito indicado não precisa ser necessáriamente implementado, apenas se tiver tem e recursos.
+* **Could**: Significa que o requisito indicado não precisa ser necessariamente implementado, apenas se tiver tem e recursos.
 * **Won't**: Significa que o requisito indicado não precisa ser implementado naquele momento, podendo ser implementado nos futuros lançamentos.
 
 ## 4. Resultado
@@ -34,9 +35,9 @@ Tendo em vista a necessidade da utilização do processo chamado priorização d
 | ------ | --------------------------------------------------------------- | ------ |
 | RF1    | O usuário deve visualizar as matérias equivalentes do seu curso | Must   |
 | RF2    | O usuário deve visualizar as disciplinas que faltam na estrutura curricular | Must   |
-| RF3    | O usuário deve visualizar um grafico com a quantidade de créditos obrigatórios para o término da graduação | Must   |
-| RF4    | O usuário deve visualizar um grafico com a quantidade de créditos optativos para o término da graduação  | Must   |
-| RF5    | O usuário deve visualizar um grafico com a quantidade de créditos de módulo livre para o término da graduação  | Must   |
+| RF3    | O usuário deve visualizar um gráfico com a quantidade de créditos obrigatórios para o término da graduação | Must   |
+| RF4    | O usuário deve visualizar um gráfico com a quantidade de créditos optativos para o término da graduação  | Must   |
+| RF5    | O usuário deve visualizar um gráfico com a quantidade de créditos de módulo livre para o término da graduação  | Must   |
 
 ## 4.2 Requisitos não funcionais
 
@@ -46,4 +47,3 @@ Tendo em vista a necessidade da utilização do processo chamado priorização d
 | RNF2    | O sistema deve ser responsivo | Should  |
 | RNF3    | O sistema deve funcionar de forma individual para cada usuário | Should |
 | RNF4    | O usuário deve poder baixar o sistema pela loja de extensão do navegador  | Could  |
-
