@@ -2,9 +2,10 @@
 
 # Histórico de Versões
 
-| Data       | Versão | Modificação                             | Autor                                                                                                                                                                                                           |
-| :--------- | :----- | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03/02/2022 | 0.1    | Criação da primeira versão do documento | [@eng-Bruno](https://github.com/eng-Bruno), [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@luizpettengill](https://github.com/luizpettengill) |
+| Data       | Versão | Modificação                              | Autor                                                                                                                                                                                                           |
+| :--------- | :----- | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 03/02/2022 | 0.1    | Abertura do documento                    | [@eng-Bruno](https://github.com/eng-Bruno), [@GabriellyAssuncao](https://github.com/GabriellyAssuncao), [@laisramos123](https://github.com/laisramos123) e [@luizpettengill](https://github.com/luizpettengill) |
+| 04/03/2022 | 1.0    | Finalizando primeira versão do documento | [@eng-Bruno](https://github.com/eng-Bruno)                                                                                                                                                                      |
 
 # 1. Introdução
 
@@ -68,6 +69,48 @@ O projeto está previsto para ser feito com duas entregas, sendo uma no meio da 
 |    Release 01     | 08/03/2022 | Primeira entrega de valor do projeto, contendo as principais documentações, início da implementação do projeto e apresentação do produto. |
 |    Release 02     | 26/04/2022 |                Segunda entrega de valor, apresentação final do produto com sua documentação e desenvolvimento concluídos.                 |
 
+# 9. Requisitos de Alto Nível
+
+- O sistema será apresentado em uma plataforma web.
+- O sistema deve apresentar as matérias equivalentes do curso do usuário.
+- O sistema deve apresentar as disciplinas que faltam na estrutura curricular do usuário.
+- O sistema deve apresentar gráficos com as quantidades de créditos obrigatórios, optitavos e de módulo livre restantes para o término da graduação do usuário.
+
+# 10. Riscos
+
+Neste tópico será apresentado a tabela de riscos que foram levantados pela equipe durante o desenvolvimento do projeto, para que seja possível identificar tais problemas que podem ser prevenidos no futuro, quando possível.
+
+|                      **Risco**                       |                               **Ação Preventiva**                                |
+| :--------------------------------------------------: | :------------------------------------------------------------------------------: |
+|              Desistência da disciplina               |                  Estimular a participação dos membros da equipe                  |
+|    Baixa produtividade dos integrantes da equipe     |         Distribuir tarefas de forma homogênea para todos os integrantes          |
+|                Indefinição do escopo                 | Manter os requisitos e o planejamento das sprints atualizados de forma constante |
+| Dificuldades da equipe com as tecnologias utilizadas |                      Realização de treinamentos via Discord                      |
+
+# 11. Stakeholders
+
+## 11.1 Usuários
+
+O projeto visa facilitar o uso da plataforma SIGAA para os alunos da Universidade de Brasília, tendo em vista que para utilizar as ferramentas do plugin você deve estar matriculado em algum curso desta universidade.
+
+## 11.2 Equipe
+
+|    **Integrante**     |      **Função**       |              **E-mail**              |
+| :-------------------: | :-------------------: | :----------------------------------: |
+|    Beatriz Santos     |     Product Owner     |    bia.santosdoliveira@gmail.com     |
+|    Bruno Oliveira     |  Scrum Master/DevOps  |     brunooliveira.unb@gmail.com      |
+|  Gabrielly Assunção   |  Scrum Master/DevOps  | gabriellyassuncaorodrigues@gmail.com |
+|     Hian Praxedes     |     Product Owner     |       hianpraxedes93@gmail.com       |
+|      Laís Ramos       |     Scrum Master      |        laisramos123@gmail.com        |
+|    Luiz Pettengill    |     Scrum Master      |       luizpettengill@gmail.com       |
+| Maria Eduarda Barbosa | Arquiteto de Software |          m4dud01@gmail.com           |
+| Maria Eduarda Marques |     Product Owner     |     eduardamarques1307@gmail.com     |
+| Pedro Henrique Elias  | Arquiteto de Software |    eliaspedrohenrique89@gmail.com    |
+|      Pedro Abreu      |     Product Owner     |       pedroabreupmab@gmail.com       |
+|  Vitor Manoel Aquino  | Arquiteto de Software |     vitormanoel.aquino@gmail.com     |
+
 # Referências
 
 > Documentação Acácia, 2019 - Termo de Abertura. Disponível em <[Termo de Abertura - Acácia](https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md)>
+
+> Documentação FAMil, 2021 - Termo de Abertura. Disponível em <[Termo de Abertura - FAMil](https://fga-eps-mds.github.io/2021-1-hospitalar/#/produto/tap/tap)>
