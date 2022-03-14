@@ -5,12 +5,17 @@
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:--:|:--:|:--:|
 |23/02/2022|1.0|Abertura do documento e adição do tópico Protótipo de Baixa Fidelidade e seus subtópicos|[@EduardaSMarques](https://github.com/EduardaSMarques)|
-|24/02/2022|1.0|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
-|24/02/2022|1.1|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
-|03/03/2022|1.0|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
+|24/02/2022|1.1|Revisão do documento de protótipo baixa fidelidade|[@beatrizSO](https://github.com/beatrizSO)|
+|24/02/2022|1.2|Atualização do documento de protótipo baixa fidelidade|[@ahbreu](https://github.com/ahbreu)|
+|02/03/2022|1.3|Adição do tópico introdução |[@EduardaSMarques](https://github.com/EduardaSMarques)|
+|03/03/2022|1.4|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
+|04/03/2022|1.5|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
+|06/03/2022|1.6|Adição do tópico fluxo do usuário |[@EduardaSMarques](https://github.com/EduardaSMarques)|
 
 
 ## 1.Introdução
+
+Neste documento estará armazenado informações acerca dos protótipos de baixa e alta fidelidade, criados para ajudar no desenvolvimento do plugin SIGAA+.
 
 ## 2.Protótipo de Baixa Fidelidade
  
@@ -40,7 +45,8 @@ Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obri
 ![Group 5](https://user-images.githubusercontent.com/56367128/155628643-e4b26bee-dbf3-40e1-b26a-33e43fc937fc.png)
 Esta tela aparecerá logo após o usuário clicar no botão do Gráfico, nela serão mostrados os gráficos contendo a quantidade de créditos obrigatórios, optativos e de módulo livre que faltam para a conclusão do curso.
 
-### 2.2 Fluxo do produto
+### 2.2 Fluxo do Usuário
+![FluxoUser](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/c3759115284660f18f26863d017086f15d211cc2/docs/assets/images/FluxoUser.png)
 
 ## 3.Protótipo de Alta Fidelidade
 
@@ -54,11 +60,11 @@ O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeir
 ![Tela_1](https://user-images.githubusercontent.com/56367128/156667906-9b702c07-5be6-48d2-8e7b-d9c37e309bed.png)
 Esta é a primeira tela que será vista pelo usuário ao acessar o SIGAA. Na parte superior da página estará situado o botão do plugin, e logo após de o usuário clicar no botão "SIGAA +", nela será mostrado as opções disponíveis ao usuário.
 
-#### 3.1.2 Tela de Equivalências
+#### 3.1.2 Tela de Disciplinas Obrigatórias pendentes
 ![Tela_2](https://user-images.githubusercontent.com/56367128/156668538-84c4051c-16a1-49a6-a93b-50343051e4ad.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Equivalências, nela será mostrado as disciplinas do curso do aluno que são equivalentes. 
 
-#### 3.1.3 Tela de Disciplinas Obrigatórias pendentes
+#### 3.1.3 Tela de Equivalências
 ![Tela_3](https://user-images.githubusercontent.com/56367128/156668319-6d01a90f-c016-44d1-b6be-8e182423ef0d.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obrigátórias pendentes, nela será exibido as disciplinas obrigatórias que ainda faltam ser feitas no fluxo curricular do aluno. 
 
