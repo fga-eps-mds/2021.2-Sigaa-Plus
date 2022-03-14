@@ -1,8 +1,8 @@
 # Planejamento da Sprint 07
 
-- **Data de Início:** 08/02/2022
+- **Data de Início:** 08/03/2022
 
-- **Data de Término:** 14/02/2022
+- **Data de Término:** 14/03/2022
 
 ---
 
