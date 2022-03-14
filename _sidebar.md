@@ -16,6 +16,7 @@
 - Produto
 
   - [Documento de Visão](/docs/DocumentoDeVisao)
+  - [Documento de Requisitos](/docs/DocumentoDeRequisitos)
   - [Documento de Arquitetura](/docs/DocumentoDeArquitetura)
   - [Backlog do Produto]()
   - [Protótipo](/docs/Prototipo)
@@ -82,7 +83,13 @@
       <li> <a href="">Resultado</a></li> 
       </ul>
       </details>
-      
+      <details>
+      <summary>Sprint 07 </summary>
+      <ul>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/gh-pages/docs/sprints/sprint7/TimeA/planejamento.md">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
     </details>
 
     <details>
@@ -136,6 +143,14 @@
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
+      <details>
+      <summary>Sprint 07 </summary>
+      <ul>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint7/Time%20B/Planejamento.md">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
       </details>
+      </details>
+      
 
     
