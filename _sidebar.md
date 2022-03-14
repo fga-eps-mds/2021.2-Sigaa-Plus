@@ -6,7 +6,7 @@
 
   - [Termo de Abertura](/docs/TAP)
   - [Estrutura Analítica do Projeto](/docs/EstruturaAnalítica)
-  - [Canvas]()
+  - [Canvas](/docs/assets/modeloCanvas)
   - [Metodologia](/docs/DocumentoDeMetodologia)
   - [Ferramentas Utilizadas](/docs/Ferramentas)
   - [Roadmap do Produto](/docs/DocumentoDoRoadmap)
@@ -18,7 +18,7 @@
   - [Documento de Visão](/docs/DocumentoDeVisao)
   - [Documento de Requisitos](/docs/DocumentoDeRequisitos)
   - [Documento de Arquitetura](/docs/DocumentoDeArquitetura)
-  - [Backlog do Produto]()
+  - [Backlog do Produto](/docs/BacklogDoProduto)
   - [Protótipo](/docs/Prototipo)
   - [Style Guide]()
 
