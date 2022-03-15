@@ -39,7 +39,27 @@ Para contribuir com este projeto basta seguir:
 
 ## Desenvolvimento
 
-Para subir o ambiente de desenvolvimento siga os seguintes [passos](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/wiki/Nosso-ambiente-de-desenvolvimento#necktie-ambiente-de-desenvolvimento).
+Para subir o ambiente de desenvolvimento siga os seguintes passos:
+
+Para clonar o repositório basta copiar no terminal: <br>
+
+`$ git clone https://github.com/fga-eps-mds/2021.2-Sigaa-Plus.git`
+
+Feito isso é necessário que você possua o [Docker](https://docs.docker.com/desktop/), [Docker compose](https://docs.docker.com/compose/) e o [Node.js/npm](https://nodejs.org/en/download/) instalados na sua máquina.  
+
+Depois basta executar os seguintes comandos dentro do repositório clonado: <br>
+1. `$ npm run serve`
+2. `$ npm i` 
+3. `$ npm run api`
+
+E em outro terminal:
+
+4.  `$ npm run dev `
+
+O nosso projeto estará na porta [http://localhost:8080/](http://localhost:8080/).
+E os Dados da api na porta [http://localhost:3000](http://localhost:3000) com seus devidos endpoints. 
+
+Para mais informações acesse a [Wiki.](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/wiki/Tutoriais)
 
 ## 🧑‍💻 Desenvolvedores
 ### Time A
