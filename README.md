@@ -59,7 +59,7 @@ E em outro terminal:
 O nosso projeto estará na porta [http://localhost:8080/](http://localhost:8080/).
 E os Dados da api na porta [http://localhost:3000](http://localhost:3000) com seus devidos endpoints. 
 
-Para maiores informações acesse a [Wiki.](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/wiki/Tutoriais)
+Para mais informações acesse a [Wiki.](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/wiki/Tutoriais)
 
 ## 🧑‍💻 Desenvolvedores
 ### Time A
