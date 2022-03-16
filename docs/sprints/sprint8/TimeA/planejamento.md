@@ -13,9 +13,11 @@ Sprint com objetivo de dar segmento ao desenvolvimento do back-end do Plugin. J�
 ---
 
 > [Sprint Backlog](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/milestone/10)
+
 ---
 
 > [Lista de presença das reuniões da semana](https://docs.google.com/spreadsheets/d/1bg0_TugpNcp5Z1Xstcibsq685ItGP3Mkw8NvSI3UWlE/edit#gid=186001220)
+
 ## Objetivos
 ### Time A
 |                                      Issue                                       | Pontos |
@@ -27,16 +29,13 @@ Sprint com objetivo de dar segmento ao desenvolvimento do back-end do Plugin. J�
 |               [Atualizar  documentação da Sprint 06 que se encontra pendente](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/165)      |  |  
 
 
-### Presença da reunião de planejamento Sprint 08
-
 | Integrante|Função|Presença|Justificativa|
 |--------------|-------------|-------|----------------------| 
 | Gabrielly Assunção |DevOps/Scrum Master |presente | |  
 | Hian Praxedes |Product Owner |presente | |  
 | Laís Ramos |Scrum Master | presente| |
 | Pedro Henrique Elias |Arquiteto de Software |presente | |  
-| Pedro Marcos Abreu |Product Owner |presente | |  
+| Pedro Marcos Abreu |Product Owner |presente | |
 | Vitor Manoel Aquino|Arquiteto de Software |presente | |
-
 
 <h4><i>Total de pontos planejados: </i></h4>

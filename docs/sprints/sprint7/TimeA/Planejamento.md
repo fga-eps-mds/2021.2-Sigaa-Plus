@@ -1,8 +1,8 @@
 # Planejamento da Sprint 07
 
-- **Data de Início:** 08/02/2022
+- **Data de Início:** 08/03/2022
 
-- **Data de Término:** 14/02/2022
+- **Data de Término:** 14/03/2022
 
 ---
 
@@ -28,9 +28,6 @@ Sprint com objetivo de corrigir alguns documentos e iniciar escalonamento de pri
 |               [Definição de tarefas por funcionalidade](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/147)      |       
 |               [Atualização do plano de comunicação](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/152)      |      |
 
-
-
-
 ### Presença da reunião de planejamento Sprint 07
 
 | Integrante|Função|Presença|Justificativa|
@@ -44,3 +41,5 @@ Sprint com objetivo de corrigir alguns documentos e iniciar escalonamento de pri
 
 
 <h4><i>Total de pontos planejados:15 </i></h4>
+
+
