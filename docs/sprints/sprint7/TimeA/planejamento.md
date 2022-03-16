@@ -28,7 +28,19 @@ Sprint com objetivo de corrigir alguns documentos e iniciar escalonamento de pri
 |               [Definição de tarefas por funcionalidade](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/147)      |       
 |               [Atualização do plano de comunicação](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/152)      |      |
 
+### Presença da reunião de planejamento Sprint 07
 
+| Integrante|Função|Presença|Justificativa|
+|--------------|-------------|-------|----------------------| 
+| Gabrielly Assunção |DevOps/Scrum Master |presente | |  
+| Hian Praxedes |Product Owner |presente | |  
+| Laís Ramos |Scrum Master | presente| |
+| Pedro Henrique Elias |Arquiteto de Software |presente | |  
+| Pedro Marcos Abreu |Product Owner |ausente |Sem justificativa |Sem justificativa  
+| Vitor Manoel Aquino|Arquiteto de Software |presente | |
+
+
+<h4><i>Total de pontos planejados: </i></h4>
 
 
 <h4><i>Total de pontos planejados: </i></h4>
