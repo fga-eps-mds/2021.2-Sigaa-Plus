@@ -37,7 +37,7 @@ Para contribuir com este projeto basta seguir:
 
 <i>Release 02</i> - 26/04/2022 </strong>
 
-## Desenvolvimento
+## ⚙️ Guia de Instalação
 
 Para subir o ambiente de desenvolvimento siga os seguintes passos:
 
