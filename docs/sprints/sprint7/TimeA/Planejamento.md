@@ -43,4 +43,4 @@ Sprint com objetivo de corrigir alguns documentos e iniciar escalonamento de pri
 | Vitor Manoel Aquino|Arquiteto de Software |presente | |
 
 
-<h4><i>Total de pontos planejados: </i></h4>
+<h4><i>Total de pontos planejados:15 </i></h4>
