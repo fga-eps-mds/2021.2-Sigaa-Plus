@@ -10,8 +10,10 @@
     "api": "node api/routes/routes.js"
   },
   "dependencies": {
+    "@vue/compiler-sfc": "^3.2.31",
     "core-js": "^3.8.3",
     "express": "^4.17.3",
+    "laravel-mix": "^6.0.43",
     "puppeteer": "^13.4.1",
     "vue": "^3.2.13"
   },
