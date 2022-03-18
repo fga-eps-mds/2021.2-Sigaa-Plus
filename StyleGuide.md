@@ -16,6 +16,24 @@
 O nome escolhido para a extensão foi **SIGAA PLUS**, teve-se a ideia do nome ser em inglês, no caso o **PLUS**, traduzindo para o português fica **MAIS**. Cogitamos também em criar um formato abreviado do nome que ficou **SIGAA+**. 
 Escolhemos esse nome, pois traz o sentido de que é algo feito para o site **SIGAA** e o **PLUS** da ênfase de que é algo a mais para o site.
 
+### 2.2 Fontes
+
+A fonte que será utilizada:
+- Para Títulos: Arial em negrito.
+- Para Textos: Arial normal.
+
+A ideia é que a fonte seja a mais parecida com a do site SIGAA para não fazer muito contraste quando a extensão SIGAA PLUS for usada no site, no caso escolhemos a fonte Arial como a mais semelhante.
+
+- inserindo a fonte no HTML:
+
+`<font face="Arial"> texto </font>`
+
+- inserindo a fonte no CSS:
+
+`font-family: Arial, sans-serif;`
+
+
+
 ## 3. Componentes 
 
 ### 3.1 Botões
