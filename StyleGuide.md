@@ -11,6 +11,11 @@
 
 ## 2. Detalhes e motivos
 
+### 2.1 Nome da extensão
+
+O nome escolhido para a extensão foi **SIGAA PLUS**, teve-se a ideia do nome ser em inglês, no caso o **PLUS**, traduzindo para o português fica **MAIS**. Cogitamos também em criar um formato abreviado do nome que ficou **SIGAA+**. 
+Escolhemos esse nome, pois traz o sentido de que é algo feito para o site **SIGAA** e o **PLUS** da ênfase de que é algo a mais para o site.
+
 ## 3. Componentes 
 
 ### 3.1 Botões
