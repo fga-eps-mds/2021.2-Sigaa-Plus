@@ -1,4 +1,4 @@
-# Resultado da Sprint 7
+# Resultado da Sprint 6
 
 ## Visão Geral
 
