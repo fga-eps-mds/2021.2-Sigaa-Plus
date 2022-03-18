@@ -24,11 +24,18 @@ Os botões não variam de cor quando clicados, todos seguem a mesma cor da palet
 Todos eles são retangulares sem arredondamento das pontas (raio de 0 px) com fonte Roboto tamanho 15 px na primeira imagem e 8 px na segunda.
 
 
-### 3.2 Visualizar Fluxo Curricular
+### 3.2 Título e subtítulo
 
-Seguindo a estrutura de visualização de matérias do SIGAA, o título principal aparece grifado de azul com letras brancas (observando o contraste), o segundo título com fundo em cinza com letras pretas e a tabela com linhas intercalando as cores entre branco e azul claro (afim de facilitar a visualização), primeira coluna com letras azuis e segunda com letras pretas.
+Seguindo a estrutura de visualização de matérias do SIGAA, o título principal aparece grifado de azul com letras brancas (observando o contraste), o segundo título com fundo em cinza com letras pretas, como na imagem:
 
-![Screenshot from 2022-03-17 21-11-27](https://user-images.githubusercontent.com/65085229/158913679-20d46cf3-e3fc-48a5-80ce-4f31b8436fdb.png)
+![Screenshot from 2022-03-17 21-17-22](https://user-images.githubusercontent.com/65085229/158914151-ae14e658-8c55-40e9-a5cb-ce94871780be.png)
+
+
+
+### 3.3 Tabelas
+Ainda conforme a estrutura do SIGAA, a tabela aparece com linhas intercalando as cores entre branco e azul claro (afim de facilitar a visualização), primeira coluna com letras azuis e segunda com letras pretas, como no exemplo:
+
+![Screenshot from 2022-03-17 21-17-34](https://user-images.githubusercontent.com/65085229/158914177-35265a6f-b709-4e63-ae50-611bd8d4738e.png)
 
 
 ## 4. Referência 
