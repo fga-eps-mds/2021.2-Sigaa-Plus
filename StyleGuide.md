@@ -37,6 +37,12 @@ Ainda conforme a estrutura do SIGAA, a tabela aparece com linhas intercalando as
 
 ![Screenshot from 2022-03-17 21-17-34](https://user-images.githubusercontent.com/65085229/158914177-35265a6f-b709-4e63-ae50-611bd8d4738e.png)
 
+### 3.4 Porcentagens
+A barra de porcentagens segue o padrão apresentando na parte ainda não preenchida (vazia) a cor cinza, e na parte preenchida (quantidade feita) uma cor sortida e apresentando a porcentagem na ponta da barra, da seguinte forma:
+
+![Screenshot from 2022-03-17 21-24-04](https://user-images.githubusercontent.com/65085229/158914604-0add0440-35e0-4af7-82af-08563dfdc45a.png)
+
+
 
 ## 4. Referência 
 
