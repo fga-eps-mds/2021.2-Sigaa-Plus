@@ -30,4 +30,4 @@
 
 ## Análise do Scrum Master
 
-Durante a Sprint 7 o Time B focou em estudar as tecnologias front-end para fazer a realização dos dojos de treinamento para toda a equipe. Todos os dojos estão disponíveis em suas respectivas branchs. Além disso focamos em melhorar a organização do time.
+Durante a Sprint 7 o Time B focou em estudar as tecnologias front-end para fazer a realização dos dojos de treinamento para toda a equipe. Todos os dojos estão disponíveis em suas respectivas issues. Além disso focamos em melhorar a organização do time.
