@@ -6,7 +6,7 @@
 
 ---
 
-## Sprint 7
+## Sprint 6
 
 Sprint com objetivo de realizar atualizações e confecções de documentos pendente no diretório do projeto, elaborar vídeos para a entrega da Release 1.
 
