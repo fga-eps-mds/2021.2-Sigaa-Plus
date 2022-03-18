@@ -24,6 +24,13 @@ Os botões não variam de cor quando clicados, todos seguem a mesma cor da palet
 Todos eles são retangulares sem arredondamento das pontas (raio de 0 px) com fonte Roboto tamanho 15 px na primeira imagem e 8 px na segunda.
 
 
+### 3.2 Visualizar Fluxo Curricular
+
+Seguindo a estrutura de visualização de matérias do SIGAA, o título principal aparece grifado de azul com letras brancas (observando o contraste), o segundo título com fundo em cinza com letras pretas e a tabela com linhas intercalando as cores entre branco e azul claro (afim de facilitar a visualização), primeira coluna com letras azuis e segunda com letras pretas.
+
+![Screenshot from 2022-03-17 21-11-27](https://user-images.githubusercontent.com/65085229/158913679-20d46cf3-e3fc-48a5-80ce-4f31b8436fdb.png)
+
+
 ## 4. Referência 
 
 > Guia de Estilo e Identidade Visual : Acácia. Disponível em: https://fga-eps-mds.github.io/2019.2-Acacia/#/style_guide?id=guia-de-estilo-e-identidade-visual. Acesso em 17/03/2022;
