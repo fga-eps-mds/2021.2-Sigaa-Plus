@@ -6,6 +6,7 @@
 | ---------- | ------ | -------------- | --------- |
 | 17/03/2022 | 0.1    | criação da estrutura básica do documento | [@Madu01](https://github.com/Madu01) e [@beatrizSO](https://github.com/beatrizSO) |
 | 17/03/2022 | 0.1.1  | escrita da sessão "componentes" | [@beatrizSO](https://github.com/beatrizSO) |
+| 18/03/2022 | 0.1.2  | escrita da sessão "Detalhes e motivos" | [@Madu01](https://github.com/Madu01) |
 
 ## 1. Apresentação  
 
@@ -24,7 +25,7 @@ A fonte que será utilizada:
 
 A ideia é que a fonte seja a mais parecida com a do site SIGAA para não fazer muito contraste quando a extensão SIGAA PLUS for usada no site, no caso escolhemos a fonte Arial como a mais semelhante.
 
-- inserindo a fonte no HTML:
+- inserindo a fonte no HTML: 
 
 `<font face="Arial"> texto </font>`
 
@@ -32,7 +33,12 @@ A ideia é que a fonte seja a mais parecida com a do site SIGAA para não fazer 
 
 `font-family: Arial, sans-serif;`
 
+### 2.3 Paleta de cores
 
+![paleta](./assets/images/paleta.png)
+
+As cores foram escolhidas se baseando nas que estão presentes no site SIGAA para evitar muito contrastes com as cores presentes no site.
+- As cores que serão mais utilizadas são  #0c3e7f, #1054a4 e #435382.    
 
 ## 3. Componentes 
 
