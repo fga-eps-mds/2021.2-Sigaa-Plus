@@ -5,9 +5,9 @@
 | --- | --- | --- | --- |
 | _15/03/2022_ | _0.1_ | _Criação do documento_ | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 
-- **Data de Início:** 08/02/2022
+- **Data de Início:** 08/03/2022
 
-- **Data de Término:** 14/02/2022
+- **Data de Término:** 14/03/2022
 
 ---
 
@@ -41,7 +41,7 @@ Sprint com objetivo de corrigir alguns documentos e iniciar escalonamento de pri
 ## Pontos Positivos
 - _Tarefas bem divididas_
 - _A qualidade dos trabalhos feitos foi satisfatória_
-- _Alta profutividade_ 
+- _Alta produtividade_ 
 
 ## Pontos Negativos
 - _Ausência de alguns integrantes em muitas reuniões_
