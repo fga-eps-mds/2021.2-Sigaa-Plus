@@ -1,0 +1,473 @@
+[
+  {
+    "nameCurso": "ADMINISTRAÇÃO/ADM - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ADMINISTRAÇÃO/ADM - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "CIÊNCIAS CONTÁBEIS/CCA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS CONTÁBEIS/CCA - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "ARTES CÊNICAS /CEN - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "ARTES CÊNICAS/CEN - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "ARTES CÊNICAS - INTERPRETAÇÃO TEATRAL/CEN - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "TURISMO/CET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIA DA COMPUTAÇÃO/CIC - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMPUTAÇÃO/CIC - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "ENGENHARIA DE COMPUTAÇÃO/CIC - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMUNICAÇÃO SOCIAL - COMUNICAÇÃO ORGANIZACIONAL/COM - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "CIÊNCIAS SOCIAIS - ANTROPOLOGIA/DAN - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMUNICAÇÃO SOCIAL - AUDIOVISUAL/DAP - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA/DAP - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "DESENHO INDUSTRIAL - PROGRAMAÇÃO VISUAL/DIN - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "DESIGN - PROGRAMAÇÃO VISUAL/DIN - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "DESIGN - PROJETO DO PRODUTO/DIN - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "SAÚDE COLETIVA/DSC - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "CIÊNCIAS ECONÔMICAS/ECO - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA FLORESTAL/EFL - Engenheiro Florestal - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS SOCIAIS/ELA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA AMBIENTAL/ENC - Engenheiro - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA CIVIL/ENC - Engenheiro Civil - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA DE REDES DE COMUNICAÇÃO/ENE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA ELÉTRICA/ENE - Engenheiro Eletricista - Presencial - D"
+  },
+  {
+    "nameCurso": "ENFERMAGEM/ENF - Enfermeiro - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA MECÂNICA/ENM - Engenheiro Mecânico - Presencial - D"
+  },
+  {
+    "nameCurso": "ESTATÍSTICA/EST - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ARQUITETURA E URBANISMO/FAU - Arquiteto e Urbanista - Presencial - N"
+  },
+  {
+    "nameCurso": "ARQUITETURA E URBANISMO/FAU - Arquiteto e Urbanista - Presencial - D"
+  },
+  {
+    "nameCurso": "AGRONOMIA/FAV - Engenheiro Agrônomo - Presencial - D"
+  },
+  {
+    "nameCurso": "GESTÃO DE AGRONEGÓCIOS/FAV - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "MEDICINA VETERINÁRIA/FAV - Médico Veterinário - Presencial - D"
+  },
+  {
+    "nameCurso": "ENFERMAGEM/FCE - Enfermeiro - Presencial - D"
+  },
+  {
+    "nameCurso": "FARMÁCIA/FCE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FISIOTERAPIA/FCE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FONOAUDIOLOGIA/FCE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "SAÚDE COLETIVA/FCE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "TERAPIA OCUPACIONAL/FCE - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ARQUIVOLOGIA/FCI - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "BIBLIOTECONOMIA/FCI - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MUSEOLOGIA /FCI - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FARMÁCIA/FCS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FARMÁCIA/FCS - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "DIREITO/FDD - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "DIREITO/FDD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "PEDAGOGIA/FED - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "PEDAGOGIA/FED - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "PEDAGOGIA/FED - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO FÍSICA/FEF - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO FÍSICA/FEF - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO FÍSICA/FEF - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA AEROESPACIAL/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA AUTOMOTIVA/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA DE ENERGIA/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA DE SOFTWARE/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA ELETRÔNICA/FGA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FILOSOFIA/FIL - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "FILOSOFIA/FIL - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "FILOSOFIA/FIL - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MEDICINA/FMD - Médico - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA DE PRODUÇÃO/FTD - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "ENGENHARIA MECATRÔNICA - CONTROLE E AUTOMAÇÃO/FTD - Engenheiro de Controle e Automação - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS NATURAIS /FUP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS NATURAIS /FUP - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO DO CAMPO - CIÊNCIAS DA NATUREZA/FUP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO DO CAMPO - CIÊNCIAS DA NATUREZA E MATEMÁTICA/FUP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO DO CAMPO - LINGUAGENS, ARTES E LITERATURA/FUP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO DO CAMPO - MATEMÁTICA/FUP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "GESTÃO AMBIENTAL/FUP - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "GESTÃO DO AGRONEGÓCIO/FUP - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "GEOGRAFIA/GEA - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "GEOGRAFIA/GEA - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "GESTÃO DE POLÍTICAS PÚBLICAS/GPP - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "HISTÓRIA /HIS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "HISTÓRIA/HIS - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "HISTÓRIA/HIS - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "BIOTECNOLOGIA/ICB - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS BIOLÓGICAS/ICB - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS BIOLÓGICAS/ICB - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS BIOLÓGICAS/ICB - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "GEOGRAFIA/ICH - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "ARTES VISUAIS/IDA1 - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "MÚSICA/IDA1 - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "TEATRO /IDA1 - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "FÍSICA/IFD - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "FÍSICA/IFD - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "FÍSICA/IFD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "FÍSICA COMPUTACIONAL/IFD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS AMBIENTAIS/IGD - Bacharel - Presencial - PLANEJAMENTO AMBIENTAL - N"
+  },
+  {
+    "nameCurso": "GEOFÍSICA/IGD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "GEOLOGIA/IGD - Geólogo - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA PORTUGUESA E RESPECTIVA LITERATURA/ILD - Licenciado - A Distância - D"
+  },
+  {
+    "nameCurso": "LETRAS - TRADUÇÃO - ESPANHOL/ILD - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "PSICOLOGIA/IPD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "PSICOLOGIA/IPD - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "PSICOLOGIA/IPD - Psicólogo - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIA POLÍTICA/IPOL - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ENGENHARIA QUÍMICA/IQD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "QUÍMICA/IQD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "QUÍMICA/IQD - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "QUÍMICA TECNOLÓGICA/IQD - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "RELAÇÕES INTERNACIONAIS/IREL - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMUNICAÇÃO SOCIAL - JORNALISMO/JOR - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "COMUNICAÇÃO SOCIAL - JORNALISMO/JOR - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "JORNALISMO/JOR - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA E LITERATURA JAPONESA/LET - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA ESPANHOLA E LITERATURA ESPANHOLA E HISPANO-AMERICANA/LET - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA FRANCESA E RESPECTIVA LITERATURA/LET - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA FRANCESA E RESPECTIVA LITERATURA/LET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA INGLESA E RESPECTIVA LITERATURA/LET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA INGLESA E RESPECTIVA LITERATURA/LET - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - TRADUÇÃO - FRANCÊS/LET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - TRADUÇÃO - INGLÊS/LET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LÍNGUAS ESTRANGEIRAS APLICADAS - MSI/LET - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA PORTUGUESA E RESPECTIVA LITERATURA/LIP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA PORTUGUESA E RESPECTIVA LITERATURA/LIP - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "LETRAS - LÍNGUA PORTUGUESA E RESPECTIVA LITERATURA/LIP - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "LETRAS - PORTUGUÊS DO BRASIL COMO SEGUNDA LÍNGUA/LIP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "LÍNGUA DE SINAIS BRASILEIRA -PORTUGUÊS COMO SEGUNDA LÍNGUA/LIP - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "MATEMÁTICA/MAT - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "MATEMÁTICA/MAT - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MATEMÁTICA/MAT - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "EDUCAÇÃO ARTÍSTICA - MÚSICA/MUS - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - FAGOTE/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA/MUS - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA/MUS - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "MÚSICA - CANTO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - CLARINETA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - COMPOSIÇÃO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - CONTRABAIXO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - FLAUTA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - OBOÉ/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - PIANO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - REGÊNCIA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - SAXOFONE/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - TROMBONE/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - TROMPA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - TROMPETE/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - VIOLA/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - VIOLÃO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - VIOLINO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "MÚSICA - VIOLONCELO/MUS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "NUTRIÇÃO/NUT - Nutricionista - Presencial - D"
+  },
+  {
+    "nameCurso": "ODONTOLOGIA/ODT - Cirurgião Dentista - Presencial - D"
+  },
+  {
+    "nameCurso": "SERVIÇO SOCIAL/SER - Bacharel - Presencial - N"
+  },
+  {
+    "nameCurso": "SERVIÇO SOCIAL/SER - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS SOCIAIS /SOL - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "CIÊNCIAS SOCIAIS - SOCIOLOGIA/SOL - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ARTES VISUAIS/VIS - Bacharel - Presencial - D"
+  },
+  {
+    "nameCurso": "ARTES VISUAIS/VIS - Licenciado - Presencial - N"
+  },
+  {
+    "nameCurso": "ARTES VISUAIS/VIS - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "ARTES VISUAIS/VIS - Licenciado - Presencial - D"
+  },
+  {
+    "nameCurso": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE/VIS - Bacharel - Presencial - N"
+  }
+]

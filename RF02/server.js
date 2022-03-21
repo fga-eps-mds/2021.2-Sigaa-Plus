@@ -24,10 +24,10 @@ const fs = require('fs');
     })
     // await page.click('[type="submit"]')
 
-    await page.waitForTimeout(1000)
+    await page.waitForNavigation()
 
     const links = await page.evaluate(() => {
-        console.log("tudo certo")
+        //console.log("tudo certo")
 
         //captura todos os hiperlinks dos elementos relacionados a visualização de detalhes das matérias
         const doc = document.querySelectorAll('.listagem tbody a')
@@ -46,33 +46,59 @@ const fs = require('fs');
 
     for (let selector of links) {
         const [response] = await Promise.all([
-            console.log("tudo certo"),
+            //console.log("tudo certo"),
             page.waitForNavigation(),
-            //console.log(`[href="${selector.href}"]`),
+
             page.click(`[href="${selector.href}"]`),
-            //await page.waitForTimeout(100000),
+
 
         ]);
         const linkEnsino = await page.evaluate(() => {
-            console.log("tudo certo")
+            //console.log("tudo certo")
 
             const ensino = document.querySelector('#menu > ul > li:nth-child(2) > div > ul > li:nth-child(1) > a').click()
-            //page.waitForNavigation()
+
 
 
         });
         await page.waitForNavigation()
         const linkEstruturaCurricular = await page.evaluate(() => {
-            console.log("tudo certo")
+            //console.log("tudo certo")
 
             const EstruturaCurricular = document.querySelector('#table_lt > tbody > tr:nth-child(3) > td:nth-child(3) > a:nth-child(3)').click()
 
         });
+        await page.waitForNavigation()
+        const dadosCurso = await page.evaluate(() => {
+            //console.log("tudo certo")
 
+            //captura todos os hiperlinks dos elementos relacionados a visualização de detalhes das matérias
+            const nomeCurso = document.querySelector('#formulario > table > tbody > tr:nth-child(2) > td')
+            const nameCurso = nomeCurso.innerText 
 
-        await page.waitForTimeout(100000)
+            return { nameCurso }
+
+        })
+        curso.push(dadosCurso)
+        //Volta para página inicial
+        //await page.waitForTimeout(1000)
+
+        for (let i = 0; i <= 2; i++) {
+            await page.goBack()
+        }
+
+        exports.EQA = { curso }
+
+        //console.log(curso)
+
+        fs.writeFile('dadosDoCurso.json', JSON.stringify(curso, null, 2), err => {
+            //           ^^^^^^^ Colocar diretório do arquivo aonde vai ficar salvo(Qualquer duvida olhar no que o Vitor fez ou mandar mensagem para o Hian)
+            if (err) throw new Error('something went wrong')
+            console.log('well done')
+        })
     }
+    await page.close()
 
-    // await browser.close();
+    await browser.close();
 
 })();
