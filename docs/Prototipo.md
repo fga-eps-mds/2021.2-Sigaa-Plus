@@ -11,7 +11,7 @@
 |03/03/2022|1.4|Adição do tópico Protótipo de Alta Fidelidade e seus subtópicos|[@ahbreu](https://github.com/ahbreu)|
 |04/03/2022|1.5|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
 |06/03/2022|1.6|Adição do tópico fluxo do usuário |[@EduardaSMarques](https://github.com/EduardaSMarques)|
-
+|22/03/2022|1.6|Adição da tela de extensões do Google |[@beatrizSO](https://github.com/beatrizSO)|
 
 ## 1.Introdução
 
