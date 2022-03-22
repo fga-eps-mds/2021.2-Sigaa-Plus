@@ -7,8 +7,11 @@
 | 17/03/2022 | 0.1    | criação da estrutura básica do documento | [@Madu01](https://github.com/Madu01) e [@beatrizSO](https://github.com/beatrizSO) |
 | 17/03/2022 | 0.1.1  | escrita da sessão "componentes" | [@beatrizSO](https://github.com/beatrizSO) |
 | 18/03/2022 | 0.1.2  | escrita da sessão "Detalhes e motivos" | [@Madu01](https://github.com/Madu01) |
+|20/03/2022|0.1.3|Adicionando o slide com a apresentação da identidade visual do produto|[@EduardaSMarques](https://github.com/EduardaSMarques)
 
 ## 1. Apresentação  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQos6aERwJnUOjzSHd3dBdQl5UyOmetPiuTHkYI0DV61bCOJfubP2EFX7Vxpxdwsa6wpQpLMidOCT-M/pub?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 2. Detalhes e motivos
 
