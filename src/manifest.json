@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "SIGAA+",
+    "description":"teste SIGAA+",
+    "version": "1.0",
+    "icons": {
+        "16": "/assets/16logoSigaaPlus.png",
+        "48": "/assets/48logoSigaaPlus.png",
+        "128": "/assets/128logoSigaaPlus.png"
+    },
+
+    "permissions": [
+        "storage"
+    ],
+
+    "action": {
+        "default_popup":"/details/popup.html"     
+    },
+
+    "content_scripts":[
+        {
+            "matches": ["https://sig.unb.br/*"],
+            "js": ["/details/Contentscript.js"]
+        }
+    ]
+
+}
