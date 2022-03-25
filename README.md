@@ -16,7 +16,7 @@
   O SIGAA PLUS propõe-se a facilitar e tornar mais intuitiva a utilização da plataforma SIGAA pelos alunos da Universidade de Brasília. 
 </p>
 <p align="justify"> &emsp;&emsp;
-  Muitos alunos podem dispor de dúvidas a respeito do próprio status na universidade. Pensando nisso, a extensão SIGAA PLUS apresenta uma visualização dinâmica e intuitiva do fluxo curricular do aluno, da quivalência de matérias obrigátorias, além de exibir gráficos sobre créditos cursados e créditos pendentes. 
+  Muitos alunos podem dispor de dúvidas a respeito do próprio status na universidade. Pensando nisso, a extensão SIGAA PLUS apresenta uma visualização dinâmica e compreensível do fluxo curricular do aluno, da quivalência de matérias obrigátorias, além de exibir gráficos sobre créditos cursados e créditos pendentes. 
 </p>
 
 ## 🤝 Como contribuir
