@@ -34,7 +34,6 @@ const fs = require('fs');
         //console.log(doc[3].attributes[0].nodeValue)
         var matches = document.body.querySelectorAll('a');
         const docList = [...doc]
-
         const list = docList.map(({ attributes }) => ({
             href: attributes[0].nodeValue
         }))
@@ -45,51 +44,43 @@ const fs = require('fs');
     const curso = []
 
     for (let selector of links) {
+        //Entra na parte de apresentação de cada curso
         const [response] = await Promise.all([
-            //console.log("tudo certo"),
             page.waitForNavigation(),
-
             page.click(`[href="${selector.href}"]`),
-
-
         ]);
+        //Entra na parte de curriculo de cada curso
         const linkEnsino = await page.evaluate(() => {
-            //console.log("tudo certo")
-
             const ensino = document.querySelector('#menu > ul > li:nth-child(2) > div > ul > li:nth-child(1) > a').click()
-
-
-
         });
+        //Entra na parte de relatório da estrutura curricular de cada curso
         await page.waitForNavigation()
         const linkEstruturaCurricular = await page.evaluate(() => {
-            //console.log("tudo certo")
-
             const EstruturaCurricular = document.querySelector('#table_lt > tbody > tr:nth-child(3) > td:nth-child(3) > a:nth-child(3)').click()
 
         });
         await page.waitForNavigation()
         const dadosCurso = await page.evaluate(() => {
-            //console.log("tudo certo")
-
-            //captura todos os hiperlinks dos elementos relacionados a visualização de detalhes das matérias
+            //Captura todos os nomes dos curso que estão cadastrados no SIGAA
             const nomeCurso = document.querySelector('#formulario > table > tbody > tr:nth-child(2) > td')
-            const nameCurso = nomeCurso.innerText 
+            const nameCurso = nomeCurso.innerText
+            //Captura as materias obrigatórias de cada curso
+            const mat = document.querySelectorAll('#formulario > table > tbody > tr:nth-child(17) > td > table:nth-child(3) > tbody > tr.componentes > td:nth-child(1)')
+            const matList = [...mat]
+            const materias = matList.map(({ innerText }) => ({
+                materia: innerText
+            }))
 
-            return { nameCurso }
-
+            return { nameCurso, materias }
         })
-        curso.push(dadosCurso)
-        //Volta para página inicial
-        //await page.waitForTimeout(1000)
 
+        curso.push(dadosCurso)
+        //Volta para página inicial       
         for (let i = 0; i <= 2; i++) {
             await page.goBack()
         }
 
         exports.EQA = { curso }
-
-        //console.log(curso)
 
         fs.writeFile('dadosDoCurso.json', JSON.stringify(curso, null, 2), err => {
             //           ^^^^^^^ Colocar diretório do arquivo aonde vai ficar salvo(Qualquer duvida olhar no que o Vitor fez ou mandar mensagem para o Hian)
