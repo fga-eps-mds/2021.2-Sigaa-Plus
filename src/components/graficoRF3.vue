@@ -2,14 +2,14 @@
   <div class="container">
       <p class="progress">25%</p>
       <div>
-        <h1 class="title">CRÉDITOS POR DISCIPLINAS OPTATIVAS E MÓDULO LIVRE</h1>
+        <h1 class="title">CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS</h1>
       </div>
       <div class="progress-bar">
         <div class="percentage"></div>
       </div>
     
     <div class="credit">
-      <p>CRÉDITOS POR DISCIPLINAS OPTATIVAS E MODULO LIVRE - XX</p>
+      <p>CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS - XX</p>
       <p>CRÉDITOS CURSADOS - XX</p>
     </div>
     </div>
