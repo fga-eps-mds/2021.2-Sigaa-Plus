@@ -12,7 +12,6 @@
 export default {
     el:"#telaVue",
     name: 'telaVue',
-
     data() {
         return{
             pesquisa: "",
@@ -26,15 +25,12 @@ export default {
         .then(data => this.equivalencias = data)
         
     },
-
     watch:{
         pesquisa(val){
                 
             this.capture(val)
-
         }
     },
-
     methods: {
         async capture(text){
             
@@ -49,14 +45,13 @@ export default {
         }
     }
 }
-
 </script>
 
 <style>
+/*
 h1{
     color: white;
 }
-
 input{
     width: 20em;
     height: 3.5em;
@@ -64,8 +59,8 @@ input{
     margin-bottom: 2em;
     
 }
-
 p{
     color: white;
 }
+*/
 </style>

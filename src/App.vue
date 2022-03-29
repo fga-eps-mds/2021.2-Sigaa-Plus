@@ -43,9 +43,8 @@ img{
 div{
   margin:auto;
   width: 50em;
-  height: 30em;
+  height: 27em;
   background-color: black;
-  border-radius: 2em;
 }
 
 </style>
