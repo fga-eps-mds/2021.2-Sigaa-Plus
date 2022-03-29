@@ -2,29 +2,32 @@
 <div>
   <img alt="Sigaa plus" src="./assets/logoSigaaPlus.png">
   
-  <tela/>
+ <!-- <tela/> -->  
+  <progressBar/>
 </div>
 </template>
 
 <script>
 
-import tela from './components/tela.vue'
+//import tela from './components/tela.vue'
+import progressBar from './components/progressBar.vue'
 
 export default {
   name: 'App',
   components: {
-
-    tela
+   // tela,
+    progressBar
   }
 }
 </script>
 
 <style>
 *{
+  font-family: Arial, sans-serif;
   margin: 0;
 }
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
