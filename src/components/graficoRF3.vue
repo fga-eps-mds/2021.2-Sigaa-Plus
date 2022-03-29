@@ -1,53 +1,67 @@
 <template>
-<div>
-
-  <canvas id="myChart" width="400" height="400"></canvas>
+  <div class="container">
+      <p class="progress">25%</p>
+      <div>
+        <h1 class="title">CRÉDITOS POR DISCIPLINAS OPTATIVAS E MÓDULO LIVRE</h1>
+      </div>
+      <div class="progress-bar">
+        <div class="percentage"></div>
+      </div>
+    
+    <div class="credit">
+      <p>CRÉDITOS POR DISCIPLINAS OPTATIVAS E MODULO LIVRE - XX</p>
+      <p>CRÉDITOS CURSADOS - XX</p>
+    </div>
+    </div>
   
-  <tela/>
-</div>
-</template> 
+</template>
 
 <script>
-    src = " https://unpkg.com/vue-chartjs/dist/vue-chartjs.min.js ";
-    src = " https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js ";
-    const ctx = document.getElementById('myChart').getContext('2d');
-    const myChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-            datasets: [{
-                label: '# of Votes',
-                data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)'
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
-                ],
-                borderWidth: 1
-            }]
-        },
-        const config = {
-            type: 'bar',
-            data,
-            options: {
-                indexAxis: 'y',
-            }
-        }
-    });
+export default { name: "progressBar" };
 </script>
 
-
 <style>
-
+body {
+  font-family: Arial, sans-serif;
+}
+.title {
+  font-size: 25px;
+  color: white;
+  background-color: #4353b2;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+.progress-bar {
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 50px;
+  background-color: #c4d2eb;
+  border: 1px solid;
+  border-radius: 5px;
+  position: relative;
+}
+.percentage {
+  background-color: rgb(206, 140, 92);
+  border-radius: 5px;
+  height: 100%;
+  width: 25%;
+  display: flex;
+  position: absolute;
+}
+.credit {
+  margin-left: 10%;
+  margin-top: 40px;
+  font-size: 20px;
+}
+.progress {
+  display: flex;
+  position: absolute;
+  margin-left: 91%;
+  margin-top: 96px;
+  font-size: 25px;
+}
+.container {
+    border: 1px solid;
+}
 </style>
