@@ -53,6 +53,7 @@ export default {
 </script>
 
 <style>
+/*
 h1{
     color: white;
 }
@@ -68,4 +69,5 @@ input{
 p{
     color: white;
 }
+*/
 </style>
