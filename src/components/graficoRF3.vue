@@ -1,8 +1,7 @@
 <template>
     <body>
         <div class="container">
-            <p class="progress">14%</p>
-            
+            <p class="progress">14%</p>            
             <h1 class="title">CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS</h1>
             <br>
             <br>
@@ -14,10 +13,8 @@
             <p class="obrigatoria">CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS - 232</p>
             <p class="cursados">CRÉDITOS CURSADOS - 32</p>             
             </div>
-
         </div>
     </body>
-  
 </template>
 
 <script>
