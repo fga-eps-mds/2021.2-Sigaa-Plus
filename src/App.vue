@@ -3,18 +3,21 @@
   <img alt="Sigaa plus" src="./assets/logoSigaaPlus.png">
   
   <tela/>
+  <graficoRF3 />
 </div>
 </template>
 
 <script>
 
 import tela from './components/tela.vue'
+import graficoRF3 from './components/graficoRF3.vue'
 
 export default {
   name: 'App',
   components: {
 
-    tela
+    tela,
+    graficoRF3
   }
 }
 </script>
@@ -40,9 +43,8 @@ img{
 div{
   margin:auto;
   width: 50em;
-  height: 30em;
+  height: 27em;
   background-color: black;
-  border-radius: 2em;
 }
 
 </style>
