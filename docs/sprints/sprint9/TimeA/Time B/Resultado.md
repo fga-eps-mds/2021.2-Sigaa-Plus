@@ -22,11 +22,11 @@
 
 ## Burndown - Time B
 
-![Burndown - Time B](../../../assets/images/BurnDownSprint9TimeB.png "Burndown - Time B")
+![Burndown - Time B](../../../../assets/BurnDownSprint9TimeB.png "Burndown - Time B")
 
 ## Cumulative Flow - Time B
 
-![Cumulative - Time B](../../../assets/images/CumulativeFlowSprint9TimeB.png "Cumulative Flow - Time B")
+![Cumulative - Time B](../../../../assets/CumulativeFlowSprint9TimeB.png "Cumulative Flow - Time B")
 
 ## Análise do Scrum Master
 
