@@ -7,7 +7,8 @@
 ---
 
 ## Sprint 
-
+Sprint com objetivo de dar continuidade às funcionalidades da RF01 e RF02.
+Nessa Sprint o time também dará suporte ao time B, responsável pelo front-end para a criação de componentes visuais.
 
 
 ---
