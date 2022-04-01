@@ -20,9 +20,10 @@ export default {
         }
     },
     mounted(){
-        fetch('http://localhost:3000/equivalencias')
-        .then(resp => resp.json())
+        fetch(`http://localhost:9090/equivalencias/:${this.pesquisa}`)
+        .then(resp => resp.text())
         .then(data => this.equivalencias = data)
+        
         
     },
     watch:{
@@ -34,7 +35,7 @@ export default {
     methods: {
         async capture(text){
             
-            const search = this.equivalencias.find(data => data.name == text.toUpperCase())
+            const search = this.equivalencias
             if(search == undefined){
                 this.resSearch = "Nenhum resultado encontrado"
             }else if(search.nameSub === ""){

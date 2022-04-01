@@ -1,9 +1,14 @@
 const express = require('express');
 const app = express();
 
-const PORT = 3000
-const cursos = require("./services/scraping/equivalencias.json")
+const PORT = 9090
+const cursos = require("../services/scraping/equivalencias.json")
 var curso
+
+app.use((req, res, next) => {
+    res.header({"Access-Control-Allow-Origin": "*"});
+    next();
+})
 
 app.listen(
     PORT,
