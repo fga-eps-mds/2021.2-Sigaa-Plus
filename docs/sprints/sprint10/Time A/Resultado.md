@@ -27,9 +27,10 @@ Sprint com o objetivo de dar prosseguimento ao desenvolvimento das funcionalidad
 
 
 ## Cumulative Flow
-
+![flow](https://user-images.githubusercontent.com/86726332/161639673-186a6460-9709-46a7-8441-6f4e05bacd6e.jpg)
 
 ## Velocity
+![velocity](https://user-images.githubusercontent.com/86726332/161639658-e885c259-d582-466f-b769-b224e0987a3d.jpg)
 
 ## Quadro de Conhecimentos
 ![qc](https://user-images.githubusercontent.com/86726332/160493676-c94c58b8-e360-4a1b-8ea1-53d39902f5c3.jpg)
