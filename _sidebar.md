@@ -6,7 +6,7 @@
 
   - [Termo de Abertura](/docs/TAP)
   - [Estrutura Analítica do Projeto](/docs/EstruturaAnalítica)
-  - [Canvas](docs/assets/modeloCanvas.png)
+  - [Canvas](docs/assets/modeloCanvas)
   - [Metodologia](/docs/DocumentoDeMetodologia)
   - [Ferramentas Utilizadas](/docs/Ferramentas)
   - [Roadmap do Produto](/docs/DocumentoDoRoadmap)
@@ -90,6 +90,27 @@
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
+   <details>
+      <summary>Sprint 08 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+   <details>
+      <summary>Sprint 09 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+   <details>
+      <summary>Sprint 10 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
     </details>
 
     <details>
@@ -147,6 +168,27 @@
       <summary>Sprint 07 </summary>
       <ul>
       <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint7/Time%20B/Planejamento.md">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+   <details>
+      <summary>Sprint 08 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+   <details>
+      <summary>Sprint 09 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+   <details>
+      <summary>Sprint 10 </summary>
+      <ul>
+      <li> <a href="">Planejamento</a></li>
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
