@@ -38,7 +38,7 @@ Sprint com o objetivo de dar prosseguimento ao desenvolvimento das funcionalidad
 
 # Retrospectiva
 
-Além de dar prosseguimento ao desenvolvimento das funcinalidade RF01 e RF02 a nível de back-end, demos o suporte necessário para o time B concluir algumas tarefas a nível de front-end.
+Além de dar prosseguimento ao desenvolvimento das funcinalidade RF01 e RF02 a nível de back-end, demos o suporte necessário para o time B concluir algumas tarefas a nível de front-end. O maior problema que impossibilitou a entrega da integração da RF01 na data prevista foram os bug encontrados no código.
 
 ## Pontos Positivos
 - _Tarefas bem divididas_
