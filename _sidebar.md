@@ -79,7 +79,7 @@
       <details>
       <summary>Sprint 06 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint6/Time%20A/Planejamento.md">Planejamento</a></li>
       <li> <a href="">Resultado</a></li> 
       </ul>
       </details>
@@ -100,14 +100,22 @@
    <details>
       <summary>Sprint 09 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
-      <li> <a href="">Resultado</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint9/Time%20A/Planejamento.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint9/Time%20A/Resultado.md">Resultado</a></li>
       </ul>
       </details>
    <details>
       <summary>Sprint 10 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint10/Time%20A/Planejamento.md">Planejamento</a></li>
+      <li> <a href="">Resultado</a></li>
+      </ul>
+      </details>
+    </details>
+     <details>
+      <summary>Sprint 11 </summary>
+      <ul>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint11/TimeA/Planejamento.md">Planejamento</a></li>
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
