@@ -1,10 +1,8 @@
 <template>
     
     <body>
-        <div class="container">         
+        <div class="container2">         
             <h1 class="title">DISCIPLINAS EQUIVALENTES</h1>
-            <br>
-            <br>
 
             <table>
                 <tr>
@@ -40,14 +38,7 @@
 <script>
 
     export default { 
-        name: "graficoRF3",
-        data () {
-      return {
-        checkbox: true,
-        radioGroup: 1,
-        switch1: true
-      }
-    }
+        name: "telaRF1_parte2",
     };
 
 </script>
@@ -56,6 +47,7 @@
 
 body {
     font-family: Arial, sans-serif;
+    color: black;
 }
 
 .title {
@@ -79,11 +71,19 @@ td, th {
 }
 
 tr:nth-child(1) {
-  background-color: #dcdce4;
+  background-color: #c4c4c4;
 }
 
 #table:nth-child(odd) {
-  background-color: #ecf4fc;
+  background-color: #edf1f8;
+}
+
+.container2 {
+    margin:auto;
+    width: 50em;
+    height: 15em;
+    border: 1px solid;
+    background: rgb(255, 255, 255);
 }
 
 </style>
