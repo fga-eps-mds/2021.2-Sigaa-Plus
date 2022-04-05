@@ -4,6 +4,10 @@
   
   <tela/>
   <br>
+  <telaRF1_parte1 />
+  <br>
+  <telaRF1_parte2 />
+  <br>
   <graficoRF3 />
   <br>
   <telaRF2 />
@@ -15,6 +19,8 @@
 import tela from './components/tela.vue'
 import graficoRF3 from './components/graficoRF3.vue'
 import telaRF2 from './components/telaRF2.vue'
+import telaRF1_parte1 from './components/telaRF1_parte1.vue'
+import telaRF1_parte2 from './components/telaRF1_parte2.vue'
 
 export default {
   name: 'App',
@@ -22,7 +28,9 @@ export default {
 
     tela,
     graficoRF3,
-    telaRF2
+    telaRF2,
+    telaRF1_parte1,
+    telaRF1_parte2
   }
 }
 </script>
