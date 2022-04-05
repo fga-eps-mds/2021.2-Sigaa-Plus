@@ -6,7 +6,7 @@
 
 ---
 
-## Sprint 9
+## Sprint 10
 
 Sprint com objetivo de dar continuidade ao desenvolvimento dos requisitos RF03, RF04 e RF05, e fazer o desenvolvimento da
 
