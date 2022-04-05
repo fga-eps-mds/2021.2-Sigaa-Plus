@@ -1,13 +1,12 @@
 <template>
-    
     <body>
-        <div class="container">         
+        <div class="container1">         
             <h1 class="title">BUSCAR DISCIPLINA</h1>
             <br>
-            <br>
+
 <tbody>
 <input type="checkbox" id="nivel" name="nivel">
-            <label class="checkbox" for="nivel"> Nível: </label>
+            <label class="checkbox" for="nivel"> &nbsp;Nível: </label>
             <select name="cars" id="cars">
                 <option value="formacao_comp">FORMAÇÃO COMPLEMENTAR</option>
                 <option value="graduacao">GRADUAÇÃO</option>
@@ -20,13 +19,13 @@
             <br><br>
 
             <input type="checkbox" id="scales" name="scales">
-            <label class="checkbox" for="scales"> Código: </label>
+            <label1 class="checkbox" for="scales"> &nbsp;Código: </label1>
             <input type="text">
             <br><br>
 
             <input type="checkbox" id="scales" name="scales">
-            <label class="checkbox" for="scales"> Nome da disciplina: </label>
-            <input type="text">
+            <label2 class="checkbox" for="scales"> &nbsp;Nome da disciplina: </label2>
+            <input type="text" size="60">
             <br>
 </tbody>
             
@@ -38,7 +37,7 @@
 <script>
 
     export default { 
-        name: "graficoRF3",
+        name: "telaRF1_parte1",
         data () {
       return {
         checkbox: true,
@@ -62,6 +61,39 @@ tbody{
     vertical-align: middle;
 }
 
+label{
+    display:inline-block;
+    font:18px Arial;
+    float:left;
+    margin-right: 187px;
+}
+
+label1{
+    display:inline-block;
+    font:18px Arial;
+    float:left;
+    margin-right: 170px;
+}
+
+label2{
+    display:inline-block;
+    font:18px Arial;
+    float:left;
+    margin-right: 75px;
+}
+
+ input{
+  min-width: 35px;
+  min-height: 20px;
+  float: left;
+}
+
+select{
+  float: left;
+  width: 20em;
+  height: 25px;
+  background-color: #c4c4c4;
+} 
 
 .title {
     font-size: 25px;
@@ -72,10 +104,10 @@ tbody{
     text-align: center;
 }
 
-.container {
+.container1 {
     margin:auto;
     width: 50em;
-    height: 15em;
+    height: 11.5em;
     border: 1px solid;
     background: rgb(255, 255, 255);
 
