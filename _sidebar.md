@@ -111,7 +111,6 @@
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
-    </details>
      <details>
       <summary>Sprint 11 </summary>
       <ul>
