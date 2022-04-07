@@ -62,7 +62,7 @@ export default {
   data() {
     return {
       percentageObg: "14",
-      percentageOpt: "37",
+      percentageOpt: "50",
       percentageTotal: "15",
     };
   },
