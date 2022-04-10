@@ -88,4 +88,4 @@ Para contribuir com este projeto basta seguir:
 
 ## 📄 Licença
 
-GNU GENERAL PUBLIC LICENSE © Plugin Sigaa Aluno. [LICENSE](/LICENSE)
+GNU GENERAL PUBLIC LICENSE © SIGAA PLUS. [LICENSE](/LICENSE)
