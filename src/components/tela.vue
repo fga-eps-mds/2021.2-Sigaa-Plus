@@ -4,7 +4,7 @@
     <h1>Resultado:</h1>
     
     <p>{{resSearch}}</p>
-
+    <button v-on:click ="fetching">pesquisa</button>
   </div>
 </template>
 
@@ -15,17 +15,11 @@ export default {
     data() {
         return{
             pesquisa: "",
-            equivalencias: [],
+            equivalencias: "",
             resSearch: ""
         }
     },
-    mounted(){
-        fetch(`http://localhost:9090/equivalencias/:${this.pesquisa}`)
-        .then(resp => resp.text())
-        .then(data => this.equivalencias = data)
-        
-        
-    },
+
     watch:{
         pesquisa(val){
                 
@@ -33,9 +27,10 @@ export default {
         }
     },
     methods: {
-        async capture(text){
+        async capture(){
             
             const search = this.equivalencias
+            this.resSearch = search
             if(search == undefined){
                 this.resSearch = "Nenhum resultado encontrado"
             }else if(search.nameSub === ""){
@@ -43,7 +38,14 @@ export default {
             }else{
                 this.resSearch = search.nameSub    
             }
-        }
+        },
+        async fetching(){
+            const url = `http://localhost:9090/equivalencias/${this.pesquisa}`
+            fetch(url)
+            .then(resp => resp.text())
+            .then(data => alert(data))
+            .then(data => this.equivalencias = data)
+        },
     }
 }
 </script>
