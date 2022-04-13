@@ -3,7 +3,7 @@
     <input type ="text" placeholder="digite o nome da matéria aqui" v-model="pesquisa">
     <h1>Resultado:</h1>
     
-    <p>{{resSearch}}</p>
+    <p>{{equivalencias}}</p>
     <button v-on:click ="fetching">pesquisa</button>
   </div>
 </template>
@@ -27,6 +27,15 @@ export default {
         }
     },
     methods: {
+        
+        async fetching(){
+            const url = `http://localhost:9090/equivalencias/${this.pesquisa}`
+            fetch(url)
+            
+            .then(resp => resp.text())
+            .then(data => data)
+            .then(data => this.equivalencias = data)
+        },
         async capture(){
             
             const search = this.equivalencias
@@ -38,13 +47,6 @@ export default {
             }else{
                 this.resSearch = search.nameSub    
             }
-        },
-        async fetching(){
-            const url = `http://localhost:9090/equivalencias/${this.pesquisa}`
-            fetch(url)
-            .then(resp => resp.text())
-            .then(data => alert(data))
-            .then(data => this.equivalencias = data)
         },
     }
 }
