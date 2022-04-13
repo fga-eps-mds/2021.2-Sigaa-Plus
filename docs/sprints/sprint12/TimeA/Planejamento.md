@@ -1,4 +1,4 @@
-# Planejamento da Sprint 10
+# Planejamento da Sprint 12
 
 - **Data de Início:** 12/04/2022
 
