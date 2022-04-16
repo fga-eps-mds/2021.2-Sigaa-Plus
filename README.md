@@ -31,11 +31,6 @@ Para contribuir com este projeto basta seguir:
 
 -  [Template para criação de pull requests](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/.github/pull_request_template.md)
 
-## 🗓️ Release
-
-<strong><i>Release 01</i> - 08/03/2022
-
-<i>Release 02</i> - 26/04/2022 </strong>
 
 
 ## 🧑‍💻 Desenvolvedores
