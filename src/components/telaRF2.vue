@@ -4,7 +4,7 @@
       <h1 class="titulo-01">DISCIPLINAS CURSADAS</h1>
       <h1 class="subtitulo-left01">DISCIPLINAS OBRIGATÓRIAS</h1>
       <div class="conteudo01-left">
-        <!-- local para colocar o resultado das diciplinas obrigatorias cursadas -->
+
       </div>
       <h1 class="subtitulo-left02">DISCIPLINAS OPTATIVAS</h1>
       <div class="conteudo02-left">
@@ -15,7 +15,14 @@
       <h1 class="titulo-02">DISCIPLINAS DISPONÍVEIS PARA O PRÓXIMO SEMESTRE</h1>
       <h1 class="subtitulo-right01">DISCIPLINAS OBRIGATÓRIAS</h1>
       <div class="conteudo01-right">
-        <!-- local para colocar o resultado das diciplinas obrigatorias para o proximo semestre -->
+        <div v-if="cursosDados.length">
+          <div v-for="dads in cursosDados" :key="dads.id" class="dads">
+            {{dads.nameCurso}}
+          </div>
+        </div>
+        <div v-else>
+          <p>carrregando . . .</p>
+        </div>
       </div>
       <h1 class="subtitulo-right02">DISCIPLINAS OPTATIVAS</h1>
       <div class="conteudo02-right">
@@ -27,7 +34,21 @@
 
 <script>
 export default {
-  name: "telaRF2",
+    el:"#telaRF2",
+    name: 'telaRF2',
+    data() {
+        return{
+            cursosDados: []
+        }
+    },
+    mounted(){
+        fetch('https://localhost:3000/dadosDoCurso')
+          .then(resp => resp.json())
+          .then(data => this.cursosDados = data)
+          .catch(err => console.log(err.message))
+        
+    },
+   
 };
 </script>
 
