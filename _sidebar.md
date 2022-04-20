@@ -20,7 +20,7 @@
   - [Documento de Arquitetura](/docs/DocumentoDeArquitetura)
   - [Backlog do Produto](/docs/BacklogDoProduto)
   - [Protótipo](/docs/Prototipo)
-  - [Style Guide]()
+  - [Style Guide](/docs/StyleGuide)
 
 ---
 
