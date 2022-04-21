@@ -6,6 +6,11 @@ const cursos = require("../../api/services/scraping/equivalencias.json")
 var curso
 const dadosCursos = require("../../api/services/scraping/dadosDoCurso.json")
 
+app.use((req, res, next) => {
+    res.header({"Access-Control-Allow-Origin": "*"});
+    next();
+})
+
 app.listen(
     PORT,
     () => console.log(`Em: http://localhost:${PORT}`)
