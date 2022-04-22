@@ -15,7 +15,7 @@ O objetivo deste documento é apresentar a estrutura analítica do SIGAA+, onde 
 
 ## EAP
 
-![Estrutura Analítica do Projeto](./assets/EAP.png "Estrutura Analítica do Projeto")
+![Estrutura Analítica do Projeto](./assets/eap.png "Estrutura Analítica do Projeto")
 
 ## Referências
 
