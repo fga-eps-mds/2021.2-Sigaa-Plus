@@ -1,28 +1,22 @@
 <template>
   <body class="div">
     <div class="bloco-left">
-      <h1 class="titulo-01">DISCIPLINAS CURSADAS</h1>
-      <h1 class="subtitulo-left01">DISCIPLINAS OBRIGATÓRIAS</h1>
+      <h1 class="titulo-01">DISCIPLINAS JÁ CURSADAS</h1>
       <div class="conteudo01-left">
-
-      </div>
-      <h1 class="subtitulo-left02">DISCIPLINAS OPTATIVAS</h1>
-      <div class="conteudo02-left">
-        <!-- local para colocar o resultado das diciplinas optativas cursadas -->
-      </div>
-    </div>
-    <div class="bloco-right">
-      <h1 class="titulo-02">DISCIPLINAS DISPONÍVEIS PARA O PRÓXIMO SEMESTRE</h1>
-      <h1 class="subtitulo-right01">DISCIPLINAS OBRIGATÓRIAS</h1>
-      <div class="conteudo01-right">
         <div v-for="dads in cursosDados" :key="dads.id">
-          <p>{{dads.nameCurso}}</p>
+          <p id="tex1">{{dads.nameCurso}}</p>
         </div>
       </div>
-      <h1 class="subtitulo-right02">DISCIPLINAS OPTATIVAS</h1>
+      
+    </div>
+    <div class="bloco-right">
+      <h1 class="titulo-02">DISCIPLINAS AINDA NÃO CURSADAS</h1>
       <div class="conteudo02-right">
-        <!-- local para colocar o resultado das diciplinas optativas para o proximo semestre -->
+        <div v-for="dads in cursosDados" :key="dads.id">
+          <p id="tex2">{{dads.nameCurso}}</p>
+        </div>
       </div>
+  
     </div>
   </body>
 </template>
@@ -40,17 +34,17 @@ export default {
     },
 
     mounted() {    
-        fetch(`http://localhost:3000/dadosDoCurso`)
+      fetch(`http://localhost:3000/dadosDoCurso`)
         .then(resp => resp.json())
         .then(data => this.cursosDados = data)
-        console.log(this.cursosDados, "test")       
     },
 };
 </script>
 
 <style>
+
 .bloco-left {
-  width: 650px;
+  width: 653px;
   float: left;
   background-color: #efefea;
 }
@@ -65,40 +59,25 @@ export default {
   text-align: center;
 }
 
-.subtitulo-left01 {
-  font-size: 22px;
-  font-weight: bold;
-  color: rgb(0, 0, 0);
-  background-color: #c4c4c4;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
 .conteudo01-left {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #949494;
   width: 650px;
-  height: 350px;
+  height: 650px;
   background-color: #efefea;
+  max-width: 100%;
+  overflow: scroll
 }
 
-.subtitulo-left02 {
-  font-size: 22px;
+#tex1 {
+  font-size: 20px;
   font-weight: bold;
-  color: rgb(0, 0, 0);
-  background-color: #c4c4c4;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
-.conteudo02-left {
-  width: 650px;
-  height: 350px;
-  background-color: #efefea;
+  line-height: 2em;
 }
 
 .bloco-right {
-  width: 650px;
+  width: 653px;
   float: right;
   background-color: #efefea;
 }
@@ -113,36 +92,21 @@ export default {
   text-align: center;
 }
 
-.subtitulo-right01 {
-  font-size: 22px;
-  font-weight: bold;
-  color: rgb(0, 0, 0);
-  background-color: #c4c4c4;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
-.conteudo01-right {
-  width: 650px;
-  height: 350px;
-  background-color: #efefea;
-}
-
-.subtitulo-right02 {
-  font-size: 22px;
-  font-weight: bold;
-  color: rgb(0, 0, 0);
-  background-color: #c4c4c4;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
 .conteudo02-right {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #949494;
   width: 650px;
-  height: 350px;
+  height: 650px;
   background-color: #efefea;
+  max-width: 100%;
+  overflow: scroll
+}
+
+#tex2 {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 2em;
 }
 
 .div {

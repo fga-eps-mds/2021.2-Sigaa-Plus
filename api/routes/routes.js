@@ -4,6 +4,7 @@ const app = express();
 const PORT = 3000
 const cursos = require("../../api/services/scraping/equivalencias.json")
 var curso
+
 const dadosCursos = require("../../api/services/scraping/dadosDoCurso.json")
 
 app.use((req, res, next) => {
