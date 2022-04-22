@@ -25,4 +25,4 @@ Sprint com objetivo de terminar as tarefas pendentes da Sprint 10 (Integração 
 |[Atualização do  git-pages](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/245)    | 3 |  
 
 
-<h4><i>Total de pontos planejados: </i>8</h4>o
+<h4><i>Total de pontos planejados: </i>12</h4>o
