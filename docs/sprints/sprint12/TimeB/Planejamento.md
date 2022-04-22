@@ -21,7 +21,7 @@ Nessa Sprint o também time resolverá bugs que surgiram ao longo do desenvolvim
 ### Time B
 |                                      Issue                                       | Pontos |
 | :------------------------------------------------------------------------------: | :----: |
-| [Planning](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/243) |      | 
+| [Planning](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/243) |  1    | 
 |[Integração do Back-end e do Front-end da RF04 e RF05](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/273)      | 8 | 
-|[Atualização do  git-pages](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/245)  
-<h4><i>Total de pontos planejados: </i></h4>
+|[Atualização do  git-pages](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues/245)   |3|
+<h4><i>Total de pontos planejados: 12</i></h4>
