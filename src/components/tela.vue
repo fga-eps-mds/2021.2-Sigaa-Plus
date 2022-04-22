@@ -19,7 +19,6 @@ export default {
             resSearch: ""
         }
     },
-
     watch:{
         pesquisa(val){
                 
