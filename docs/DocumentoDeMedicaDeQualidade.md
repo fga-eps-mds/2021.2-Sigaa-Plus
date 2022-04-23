@@ -28,7 +28,7 @@ Não foram encontrados antipadrões no software:
 As *Code Issues*, ou problemas de código são detectados verificando o código em relação às regras predefinidas. Cada problema de código tem uma gravidade, sendo elas crítica, alta, média ou baixa. Problemas críticos têm um impacto maior na classificação do que os problemas de baixa gravidade.
 Ao analisar as  *code issues* , foram contabilizadas **108**  como *Low issues* e **29** como *Medium Issues*. Isso quer dizer que no desenrolar do projeto, os problemas do código fora de complexidade baixa, com alguns outros problemas de complexidade média:
 
-* ### *Executable Loc (Lines of code)*
+* ### *Executable LOC (Lines of code)*
 Linhas de códigos executáveis é o número de linhas de código executáveis em uma classe (componente) ou uma função. As linhas de comentário e as linhas vazias não são contadas. No projeto foram **60.8K** de linhas execultáveis: 
 
 
@@ -89,4 +89,5 @@ Termo criado por Kent Beck quando ele ajudava Martin Fowler a escrever seu best 
 
 ### Bibliografia
 https://www.devmedia.com.br/code-smells-conheca-antes-que-seja-tarde/39636
+
 https://docs.embold.io/embold-score/#embold-rating-system
