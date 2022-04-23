@@ -12,6 +12,8 @@
 
 ## 🖥️ Visão Geral
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1212d8651c2f42f2a0469e5d628eb642)](https://app.codacy.com/gh/fga-eps-mds/2021.2-Sigaa-Plus?utm_source=github.com&utm_medium=referral&utm_content=fga-eps-mds/2021.2-Sigaa-Plus&utm_campaign=Badge_Grade_Settings)
+
 <p align="justify"> &emsp;&emsp;
   O SIGAA PLUS propõe-se a facilitar e tornar mais intuitiva a utilização da plataforma SIGAA pelos alunos da Universidade de Brasília. 
 </p>
