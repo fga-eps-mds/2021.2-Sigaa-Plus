@@ -20,7 +20,7 @@ export default {
         }
     },
     mounted(){
-        fetch('http://localhost:3000/equivalencias')
+        fetch('https://secret-scrubland-39947.herokuapp.com/equivalencias')
         .then(resp => resp.json())
         .then(data => this.equivalencias = data)
         
@@ -48,10 +48,16 @@ export default {
 </script>
 
 <style>
+.telaVue {
+  margin: auto;
+  width: 60em;
+  height: 40em;
+  background-color: rgb(235, 235, 235);
+}
 /*
 h1{
     color: white;
-}
+}*/
 input{
     width: 20em;
     height: 3.5em;
@@ -59,7 +65,7 @@ input{
     margin-bottom: 2em;
     
 }
-p{
+/*p{
     color: white;
 }
 */
