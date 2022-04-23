@@ -16,7 +16,6 @@
           <p id="tex2">{{dads.nameCurso}}</p>
         </div>
       </div>
-  
     </div>
   </body>
 </template>
@@ -114,4 +113,5 @@ export default {
   width: 90em;
   height: 27em;
 }
+
 </style>

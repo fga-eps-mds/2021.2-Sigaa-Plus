@@ -12,6 +12,7 @@
 |04/03/2022|1.5|Edição dos títulos das imagens 3.1.2 e 3.1.3|[@beatrizSO](https://github.com/beatrizSO)|
 |06/03/2022|1.6|Adição do tópico fluxo do usuário |[@EduardaSMarques](https://github.com/EduardaSMarques)|
 |22/03/2022|1.7|Adição da tela de extensões do Google |[@beatrizSO](https://github.com/beatrizSO)|
+|22/04/2022|1.8|Ajuste da tela 3.1.3 e 3.1.4, assim como seus respectivos textos|[@beatrizSO](https://github.com/beatrizSO)|
 
 ## 1.Introdução
 
@@ -65,12 +66,12 @@ Esta é a tela vista ao gerenciar as extensões no Google Chrome, e ao clicar no
 Esta é a primeira tela que será vista pelo usuário ao acessar o SIGAA. Na parte superior da página estará situado o botão do plugin, e logo após de o usuário clicar no botão "SIGAA +", nela será mostrado as opções disponíveis ao usuário.
 
 #### 3.1.3 Tela de Disciplinas Obrigatórias pendentes
-![Tela_2](https://user-images.githubusercontent.com/56367128/156668538-84c4051c-16a1-49a6-a93b-50343051e4ad.png)
-Esta tela aparecerá logo após o usuário clicar no botão das Equivalências, nela será mostrado as disciplinas do curso do aluno que são equivalentes. 
+![Tela_2](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/6e11daca318bdecda18fc1659c22132cb1091a6f/docs/assets/images/Tela_2.png)
+Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obrigátórias pendentes, nela será exibido as disciplinas obrigatórias que ainda faltam ser feitas no fluxo curricular do aluno. 
 
 #### 3.1.4 Tela de Equivalências
-![Tela_3](https://user-images.githubusercontent.com/56367128/156668319-6d01a90f-c016-44d1-b6be-8e182423ef0d.png)
-Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obrigátórias pendentes, nela será exibido as disciplinas obrigatórias que ainda faltam ser feitas no fluxo curricular do aluno. 
+![Tela_3](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/cf9c37b1213e64ba3d3eab72b8b9b2a6256d8eb2/docs/assets/images/Tela_3.png)
+Esta tela aparecerá logo após o usuário clicar no botão das Equivalências, nela será mostrado as disciplinas do curso do aluno que são equivalentes. 
 
 #### 3.1.5 Tela de Gráfico
 ![Tela_4](https://user-images.githubusercontent.com/56367128/156668387-e6cda225-1303-4737-86bd-9859e03d19ed.png)
