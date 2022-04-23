@@ -1,8 +1,8 @@
 # Planejamento da Sprint 06
 
-- **Data de Início:** 01/02/2022
+- **Data de Início:** 01/03/2022
 
-- **Data de Término:** 08/03/2022
+- **Data de Término:** 07/03/2022
 
 ---
 
