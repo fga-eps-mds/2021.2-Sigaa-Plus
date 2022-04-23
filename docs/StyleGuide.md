@@ -11,7 +11,7 @@
 
 ## 1. Apresentação  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQos6aERwJnUOjzSHd3dBdQl5UyOmetPiuTHkYI0DV61bCOJfubP2EFX7Vxpxdwsa6wpQpLMidOCT-M/pub?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQos6aERwJnUOjzSHd3dBdQl5UyOmetPiuTHkYI0DV61bCOJfubP2EFX7Vxpxdwsa6wpQpLMidOCT-M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 2. Detalhes e motivos
 
