@@ -2,8 +2,15 @@ const express = require('express');
 const app = express();
 
 const PORT = 3000
-const cursos = require("./services/scraping/equivalencias.json")
+const cursos = require("../../api/services/scraping/equivalencias.json")
 var curso
+
+const dadosCursos = require("../../api/services/scraping/dadosDoCurso.json")
+
+app.use((req, res, next) => {
+    res.header({"Access-Control-Allow-Origin": "*"});
+    next();
+})
 
 app.listen(
     PORT,
@@ -29,4 +36,9 @@ app.get('/equivalencias/:id', (req,res) =>{
         }
     }  
     if (i == cursos.length) res.send('Matéria não encontrada.')
+})
+
+//rota que responde com os dados do arquivo dadosDoCurso.json 
+app.get('/dadosDoCurso', (req,res) =>{
+    res.send(dadosCursos)
 })
