@@ -6,6 +6,7 @@
 | :- | :- | :- | :- |
 | 20/04/2022 | 0.1 | Criação da estrutura do documento |  Laís |
 |22/04/2022|0.2|Adição do campo de recomendações para os próximos semestres|Laís|
+|24/04/2022|0.3|Adição do relato dos membros e das suas respectivas frases|Laís|
 
 
 ## Introdução
@@ -38,8 +39,56 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
 * Evitem fazer longas reuniões, é extremamente improdutivo, cansativo  e oculpa um tempo que poderia estar sendo utilizado no projeto em si
 
 
-
 ## Sentimentos da Equipe
+### Time A
+  **Pedro Henrique Elias Pereira- Arquiteto**
+  
+  *"Foi minha primeira experiência desenvolvendo um software usando os métodos de mercado, se aproximando da realidade de como é o fluxo de trabalho de um desenvolvedor de software. Eu não não sabia muito o que esperar da disciplina, então quando falou que faríamos um software todo fiquei assustado, não sabia muito do que era para ser feito então aprendi bastante ao longo do percurso, porém falta de experiência no desenvolvimento de aplicações neste estilo dificultou bastante durante as primeiras semanas de projeto, onde fiquei bastante perdido no que fazer, então fique bastante dependentes dos outros integrantes.
+  Portanto, apesar de não saber como fazer as coisas no início, eu aprendi bastante ao longo do processo e tenho muita gratidão a minha excelente equipe, e me sinto mais maduro como desenvolvedor. O MDS foi um grande passo para entender como desenvolver software ."*
+  
+  **Laís Ramos Barbosa - Scrum Master**
+  
+  *"Durante muito tempo tive bastante medo da disciplina de MDS , confesso por problemas pessoais e pelo medo  fuji bastante dela (pode-se ver isso pelo ano da minha matrícula kkk).Mas esse ano decidi não deixar mais o medo me paralisar e decidir que iria enfrentar de frente, mesmo não tendo o conhecimento técnico elevado. Desde o início da disciplina me apaixonei pelas metodologias ágeis e tive muita afinidade com o papel de Scrum Master por gostar de me comunicar com as pessoas e acabei gostando bastante desse papel que desenvolvi. Durante todo o desenrolar do projeto pareceu que sempre estava um passo atrás dos outros colegas em relação ao conhecimento técnico - e realmente estava kkkkk- mas sempre tentando aprender e dar o meu melhor para conseguir ajudar e contribuir. O time teve muita paciência comigo, e nunca reclamaram de eu não ter dado uma solução efetiva pro desenvolvimento de software. Apesar de alguns problemas de comunicação, me orgulho muito dos dois times e do projeto desenvolvido! "*
+  
+  **Hian Praxedes- Product Owner**
+  
+  *""*
+  
+  **Gabrielly Assunção - Scrum Master**
+  
+  *""*
+  
+  **Vítor Manoel - Arquiteto**
+  
+  *""*
+  
+  **Pedro Abre - Product Owner**
+  
+  *""*
+  
+### Time B
+  **Bruno Oliveira -Scrum Master**
+  
+  *""*
+  
+  **Luiz Pettengill - Scrum Master**
+  
+  *""*
+  **Beatriz Santos - Product Owner**
+  
+  *""*
+  
+  **Maria Eduarda Marques - Product Owner**
+  
+  *""*
+  
+  **Maria Eduarda  - Arquiteta**
+  
+  *""*
+  
 
+## Frases icônicas que representaram o desenvolvimento do projeto
+*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.*-**Pedro Henrique Elias**
+*Lascou-se. Socorro @Deus*- **Laís**
 
 ## Conclusão
