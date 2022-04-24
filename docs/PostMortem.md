@@ -52,17 +52,17 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   
   **Hian Praxedes- Product Owner**
   
-  *""*
+  *"Minha experiência nessa disciplina foi interessante eu diria, mesmo com todos os problemas. O pessoal do meu grupo (Grupo A do SIGAA+) são incríveis, sempre ajudando quando necessário e comunicativos na base do possível, aprendemos muito nesse tempo de desenvolvimento. Seja de ir buscar conhecimento de como as ferramentas funcionavam, tentando achar um jeito para solucionar um problema no código ou no próprio SIGAA (que não ajudava muito também, mas tudo bem). Mas no fim foi uma jornada bem agitada por conta do tempo do semestre, mas foi uma boa experiência, consegui senti a empolgação de ver as coisas que eu estava fazendo funcionando, seja uma documentação ou o próprio webScraping no SIGAA."*
   
   **Gabrielly Assunção - Scrum Master**
   
   *""*
   
-  **Vítor Manoel - Arquiteto**
+  **Vítor Manoel Aquino- Arquiteto**
   
   *""*
   
-  **Pedro Abre - Product Owner**
+  **Pedro Abreu - Product Owner**
   
   *""*
   
@@ -88,7 +88,7 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   
 
 ## Frases icônicas que representaram o desenvolvimento do projeto
-*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.*-**Pedro Henrique Elias**
+*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.*-**Pedro H. Elias**
 *Lascou-se. Socorro @Deus*- **Laís**
-
+*Nenhum problema é grande demais para quem conhece a gambiarra correta.* - **Hian** 
 ## Conclusão
