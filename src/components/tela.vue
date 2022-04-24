@@ -28,7 +28,7 @@ export default {
     methods: {
         
         async fetching(){
-            const url = `http://localhost:9090/equivalencias/${this.pesquisa}`
+            const url = `https://secret-scrubland-39947.herokuapp.com/equivalencias/${this.pesquisa}`
             fetch(url)
             
             .then(resp => resp.text())
@@ -52,10 +52,16 @@ export default {
 </script>
 
 <style>
+.telaVue {
+  margin: auto;
+  width: 60em;
+  height: 40em;
+  background-color: rgb(235, 235, 235);
+}
 /*
 h1{
     color: white;
-}
+}*/
 input{
     width: 20em;
     height: 3.5em;
@@ -63,7 +69,7 @@ input{
     margin-bottom: 2em;
     
 }
-p{
+/*p{
     color: white;
 }
 */
