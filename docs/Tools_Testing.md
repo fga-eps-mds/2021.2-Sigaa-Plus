@@ -1,6 +1,8 @@
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 25/09/2022 | 0.1 | Criação da versão inicial do documento | Laís|
+| 25/09/2022 | 0.2 | Adição do campo de resultados | Laís|
+
 
 
 
@@ -34,7 +36,6 @@ Levando em conta a viabilidade de instalação, compreensão do funcionamento e 
 
 
 
-## Planos futuros
 
 
 
