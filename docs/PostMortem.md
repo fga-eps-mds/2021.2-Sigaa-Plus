@@ -8,6 +8,7 @@
 |22/04/2022|0.2|Adição do campo de recomendações para os próximos semestres| [@laisramos123](https://github.com/laisramos123) |
 |24/04/2022|0.3|Adição do relato dos membros e das suas respectivas frases| [@laisramos123](https://github.com/laisramos123) |
 |24/04/2022|0.4|Adição do relato da maria B.| [@Madu01](https://github.com/Madu01) |
+|25/04/2022|0.4|Adição do relato da maria Marques|[@EduardaSMarques](https://github.com/EduardaSMarques) |
 
 
 ## Introdução
@@ -84,7 +85,9 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   
   **Maria Eduarda Marques - Product Owner**
   
-  *""*
+  *"Eu me surpreendi totalmente com MDS, já tinha ouvido falar da disciplina antes e sabia que ela ia demandar um pouco mais de tempo e esforço, porém, trabalhar com mais de 10 pessoas foi algo que me pegou de surpresa já que foi a primeira vez que eu trabalhei com tantas pessoas ao mesmo tempo e confesso que achei que seria uma bagunça ter que trabalhar com tanta gente, mas não, com as práticas ágeis, as aulas da professora e a organização e dedicação de ambos os times, fizeram com que a matéria fosse menos maçante e mais proveitosa para se fazer, diferente de alguns trabalhos em grupo que tive ao longo dos anos na faculdade.
+Com toda certeza se eu pudesse faria esta matéria de novo, só que com mais experiência em programação, pois acredito que só com 4 semestres feitos na faculdade e com as matérias passadas nesses semestres não seja requisitos suficientes para cursar a matéria. 
+Finalizando então, mesmo sabendo que dediquei o meu melhor, é inevitável não se sentir frustrada, já que poderia ter me saído um pouco melhor no projeto, mas independente de tudo eu não poderia ter aprendido tanta coisa e ter tido uma ótima experiência na matéria se não fosse todo o suporte que a professora e os meus colegas me proporcionaram e eu só tenho que agradecer por isso."*
   
   **Maria Eduarda Barbosa  - Arquiteta**
   
@@ -102,5 +105,7 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
 *O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.* - **Pedro H. Elias**
 
 *A coragem não é ausência do medo; é a persistência apesar do medo.* - **Maria Eduarda Barbosa**
+
+*Nunca deixe ninguém te dizer que você não consegue! Diga você mesmo: Eu não consigo!* - **Maria Eduarda Marques**
 
 ## Conclusão
