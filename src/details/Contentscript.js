@@ -120,6 +120,23 @@ if (document.body.contains(document.querySelector("#menu-dropdown"))){
             divCursadas.appendChild(trSub)
             divCursadas.style.overflow = 'auto';
         }
+        const disCursadas = JSON.parse(localStorage.getItem('matRest'));
+        console.log(disciplinas);
+
+        for(const disciplina of disCursadas){
+
+            const trSub = document.createElement('tr')
+            trSub.style.height = "4em"
+            trSub.classList.add('linhaPar')
+
+            const tdSub = document.createElement('td')
+            tdSub.textContent = disciplina
+            trSub.appendChild(tdSub)
+
+            const divCursadas =     document.querySelector(".conteudoNcursado")
+            divCursadas.appendChild(trSub)
+            divCursadas.style.overflow = 'auto';
+        }
 
 
     }

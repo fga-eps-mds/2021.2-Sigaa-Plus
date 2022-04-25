@@ -1,117 +1,55 @@
 <template>
   <body class="div">
-    <div class="bloco-left">
-      <h1 class="titulo-01">DISCIPLINAS JÁ CURSADAS</h1>
-      <div class="conteudo01-left">
-        <div v-for="dads in cursosDados" :key="dads.id">
-          <p id="tex1">{{dads.nameCurso}}</p>
-        </div>
+    <div class="bloco">
+      <h1 class="titulo">Disciplinas Cursadas</h1>
+      <div class="conteudo">
+        <!-- local para colocar o resultado das diciplinas obrigatorias cursadas -->
       </div>
-      
     </div>
-    <div class="bloco-right">
-      <h1 class="titulo-02">DISCIPLINAS AINDA NÃO CURSADAS</h1>
-      <div class="conteudo02-right">
-        <div v-for="dads in cursosDados" :key="dads.id">
-          <p id="tex2">{{dads.nameCurso}}</p>
-        </div>
+    <div class="bloco">
+      <h1 class="titulo">Disponíveis Para o Próximo Semestre</h1>
+      <div class="conteudo">
+        <!-- local para colocar o resultado das diciplinas obrigatorias para o proximo semestre -->
       </div>
     </div>
   </body>
 </template>
 
 <script>
-
 export default {
-    el:"#telaRF2",
-    name: 'telaRF2',
-
-    data() {
-        return{
-          cursosDados: []
-        }
-    },
-
-    mounted() {    
-      fetch(`http://localhost:3000/dadosDoCurso`)
-        .then(resp => resp.json())
-        .then(data => this.cursosDados = data)
-    },
+  name: "telaRF2",
 };
 </script>
 
 <style>
-
-.bloco-left {
-  width: 653px;
-  float: left;
-  background-color: #efefea;
-}
-
-.titulo-01 {
-  font-size: 22px;
-  font-weight: bold;
-  color: white;
-  background-color: #435382;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
-.conteudo01-left {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #949494;
-  width: 650px;
-  height: 650px;
-  background-color: #efefea;
-  max-width: 100%;
-  overflow: scroll
-}
-
-#tex1 {
-  font-size: 20px;
-  font-weight: bold;
-  line-height: 2em;
-}
-
-.bloco-right {
-  width: 653px;
-  float: right;
-  background-color: #efefea;
-}
-
-.titulo-02 {
-  font-size: 22px;
-  font-weight: bold;
-  color: white;
-  background-color: #435382;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-}
-
-.conteudo02-right {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #949494;
-  width: 650px;
-  height: 650px;
-  background-color: #efefea;
-  max-width: 100%;
-  overflow: scroll
-}
-
-#tex2 {
-  font-size: 20px;
-  font-weight: bold;
-  line-height: 2em;
-}
-
 .div {
   margin: auto;
   width: 90em;
   height: 27em;
 }
-
+.bloco {
+  width: 255px;
+  float: left;
+  background-color: #efefea;
+  position: relative;
+  left: 40px;
+  margin-left: 45px;
+}
+.titulo {
+  font-family: Verdana, sans-serif;
+  font-size: 12.32px;
+  font-variant: small-caps;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: white;
+  background-color: #435382;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+.conteudo {
+  width: 250px;
+  height: 300px;
+  background-color: #efefea;
+}
 </style>
