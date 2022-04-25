@@ -1,27 +1,36 @@
 {
     "manifest_version": 3,
-    "name": "SIGAA+",
-    "description":"teste SIGAA+",
+    "name": "Sigaa Plus",
     "version": "1.0",
+
+    "description": "A plain text description",
     "icons": {
-        "16": "/assets/16logoSigaaPlus.png",
-        "48": "/assets/48logoSigaaPlus.png",
-        "128": "/assets/128logoSigaaPlus.png"
+        "16":"assets/16logoSigaaPlus.png",
+        "48":"assets/48logoSigaaPlus.png",
+        "128":"assets/128logoSigaaPlus.png"
     },
 
-    "permissions": [
-        "storage"
-    ],
-
-    "action": {
-        "default_popup":"/details/popup.html"     
+    "background":{
+        "service_worker":"background.js"
     },
+
+    "author": "Grupo 02",
+    "permissions": ["storage"],
 
     "content_scripts":[
         {
             "matches": ["https://sig.unb.br/*"],
-            "js": ["/details/Contentscript.js"]
+            "js":[
+                "materiasCursadas.js",
+                "Contentscript.js",
+                "dist/js/app.b8019ffe.js",
+                "dist/js/chunk-vendors.2c3e9449.js"
+            ],
+            "css":["dist/css/app.dc179720.css"]
         }
-    ]
-
+    ],
+    "action": {
+        "default_icon": "assets/128logoSigaaPlus.png",
+        "default_popup": "popup.html"
+      }
 }

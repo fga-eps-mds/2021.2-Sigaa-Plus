@@ -122,7 +122,7 @@ p {
   margin-top: 0.5em;
   font-size: 18.5px;
   font-weight: 500;
-  margin-left: 52.5em;
+  margin-left: 26em;
 }
 
 .container {
@@ -131,6 +131,6 @@ p {
   height: 15em;
   border: 1px solid #d3d3d3;
   background: rgb(255, 255, 255);
-  margin-bottom: 4em;
+  margin-bottom: 10em;
 }
 </style>
