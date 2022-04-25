@@ -128,8 +128,8 @@
   <details>
       <summary>Sprint 13 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
-      <li> <a href="">Resultado</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint13/Time%20A/Planejamento.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint13/Time%20A/Resultado.md">Resultado</a></li>
       </ul>
       </details>
     </details>
