@@ -42,32 +42,34 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
 
 ## Sentimentos da Equipe
 ### Time A
-  **Pedro Henrique Elias Pereira- Arquiteto**
+  **Gabrielly Assunção - Scrum Master/DevOps**
   
-  *"Foi minha primeira experiência desenvolvendo um software usando os métodos de mercado, se aproximando da realidade de como é o fluxo de trabalho de um desenvolvedor de software. Eu não não sabia muito o que esperar da disciplina, então quando falou que faríamos um software todo fiquei assustado, não sabia muito do que era para ser feito então aprendi bastante ao longo do percurso, porém falta de experiência no desenvolvimento de aplicações neste estilo dificultou bastante durante as primeiras semanas de projeto, onde fiquei bastante perdido no que fazer, então fique bastante dependentes dos outros integrantes.
-  Portanto, apesar de não saber como fazer as coisas no início, eu aprendi bastante ao longo do processo e tenho muita gratidão a minha excelente equipe, e me sinto mais maduro como desenvolvedor. O MDS foi um grande passo para entender como desenvolver software ."*
+  *"Eu não tenho palavras para descrever tudo que a disciplina me proporcionou. Foram (muitos) momentos de raiva e desespero hahaha, mas também houveram momentos de muita risada e aprendizado. Do início ao fim, a disciplina, foi um desafio muito grande não só pra mim, creio eu, mas para todos do grupo. O fato de trabalharmos com tecnologias e metodologias que alguns de nós nunca haviam tido contato antes foi assustador mas também foi gratificante ver o resultado final. Eu só tenho a agradecer a universidade por ter me proporcionado essa experiência, a professora por toda dedicação e paciência que teve para nos ensinar e aos meus colegas de grupo que me fizeram entender na prática como a união faz a força. Eu, com toda certeza entrei na disciplina como uma programadora e estou saindo uma completamente diferente, mais madura, não somente no sentido profissional, mas no pessoal também. Aos próximos alunos que farão a disciplina, aproveitem, é uma experiência única."*
+
+  **Hian Praxedes- Product Owner**
+  
+  *"Minha experiência nessa disciplina foi interessante eu diria, mesmo com todos os problemas. O pessoal do meu grupo (Grupo A do SIGAA+) são incríveis, sempre ajudando quando necessário e comunicativos na base do possível, aprendemos muito nesse tempo de desenvolvimento. Seja de ir buscar conhecimento de como as ferramentas funcionavam, tentando achar um jeito para solucionar um problema no código ou no próprio SIGAA (que não ajudava muito também, mas tudo bem). Mas no fim foi uma jornada bem agitada por conta do tempo do semestre, mas foi uma boa experiência, consegui senti a empolgação de ver as coisas que eu estava fazendo funcionando, seja uma documentação ou o próprio webScraping no SIGAA."*
   
   **Laís Ramos Barbosa - Scrum Master**
   
   *"Durante muito tempo tive bastante medo da disciplina de MDS , confesso por problemas pessoais e pelo medo  fuji bastante dela (pode-se ver isso pelo ano da minha matrícula kkk).Mas esse ano decidi não deixar mais o medo me paralisar e decidir que iria enfrentar de frente, mesmo não tendo o conhecimento técnico elevado. Desde o início da disciplina me apaixonei pelas metodologias ágeis e tive muita afinidade com o papel de Scrum Master por gostar de me comunicar com as pessoas e acabei gostando bastante desse papel que desenvolvi. Durante todo o desenrolar do projeto pareceu que sempre estava um passo atrás dos outros colegas em relação ao conhecimento técnico - e realmente estava kkkkk- mas sempre tentando aprender e dar o meu melhor para conseguir ajudar e contribuir. O time teve muita paciência comigo, e nunca reclamaram de eu não ter dado uma solução efetiva pro desenvolvimento de software. Apesar de alguns problemas de comunicação, me orgulho muito dos dois times e do projeto desenvolvido! "*
   
-  **Hian Praxedes- Product Owner**
-  
-  *"Minha experiência nessa disciplina foi interessante eu diria, mesmo com todos os problemas. O pessoal do meu grupo (Grupo A do SIGAA+) são incríveis, sempre ajudando quando necessário e comunicativos na base do possível, aprendemos muito nesse tempo de desenvolvimento. Seja de ir buscar conhecimento de como as ferramentas funcionavam, tentando achar um jeito para solucionar um problema no código ou no próprio SIGAA (que não ajudava muito também, mas tudo bem). Mas no fim foi uma jornada bem agitada por conta do tempo do semestre, mas foi uma boa experiência, consegui senti a empolgação de ver as coisas que eu estava fazendo funcionando, seja uma documentação ou o próprio webScraping no SIGAA."*
-  
-  **Gabrielly Assunção - Scrum Master**
+  **Pedro Abreu - Product Owner**
   
   *""*
+
+  **Pedro Henrique Elias Pereira- Arquiteto**
   
+  *"Foi minha primeira experiência desenvolvendo um software usando os métodos de mercado, se aproximando da realidade de como é o fluxo de trabalho de um desenvolvedor de software. Eu não não sabia muito o que esperar da disciplina, então quando falou que faríamos um software todo fiquei assustado, não sabia muito do que era para ser feito então aprendi bastante ao longo do percurso, porém falta de experiência no desenvolvimento de aplicações neste estilo dificultou bastante durante as primeiras semanas de projeto, onde fiquei bastante perdido no que fazer, então fique bastante dependentes dos outros integrantes.
+  Portanto, apesar de não saber como fazer as coisas no início, eu aprendi bastante ao longo do processo e tenho muita gratidão a minha excelente equipe, e me sinto mais maduro como desenvolvedor. O MDS foi um grande passo para entender como desenvolver software ."*
+
   **Vítor Manoel Aquino- Arquiteto**
   
   *""*
   
-  **Pedro Abreu - Product Owner**
-  
-  *""*
   
 ### Time B
+
   **Bruno Oliveira -Scrum Master**
   
   *""*
@@ -75,6 +77,7 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   **Luiz Pettengill - Scrum Master**
   
   *""*
+
   **Beatriz Santos - Product Owner**
   
   *""*
@@ -89,11 +92,14 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   
 
 ## Frases icônicas que representaram o desenvolvimento do projeto
-*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.* - **Pedro H. Elias**
 
-*Lascou-se. Socorro @Deus*- **Laís**
+*Lute como nunca, perca como sempre. O caminho é longo mas a derrota é certa.* - **Gaby** 
 
 *Nenhum problema é grande demais para quem conhece a gambiarra correta.* - **Hian** 
+
+*Lascou-se. Socorro @Deus* - **Laís**
+
+*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.* - **Pedro H. Elias**
 
 *A coragem não é ausência do medo; é a persistência apesar do medo.* - **Maria Eduarda Barbosa**
 
