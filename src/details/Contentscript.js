@@ -4,7 +4,7 @@ if (document.body.contains(document.querySelector("#menu-dropdown"))){
     const menu = document.querySelector(".ThemeOfficeMenu tr");
     
     const img = document.createElement("img");
-    var imgURL = "assets/48logoSigaaPlus.png";
+    var imgURL = chrome.runtime.getURL("assets/48logoSigaaPlus.png")
     img.src = imgURL;
     
 
@@ -84,6 +84,11 @@ if (document.body.contains(document.querySelector("#menu-dropdown"))){
         document.querySelector("#container").style.height = "800px"
         document.querySelector("#turmas-portal").style.visibility = "hidden"
         document.querySelector("#noticias-portal").style.visibility = "hidden"
+        document.querySelector("#formAtividades").style.visibility = 'visible'
+
+        //Esconde os outros itens do dropdown caso estejam visíveis
+        document.querySelector(".fluxo").style.visibility = "hidden"
+        document.querySelector(".graficos").style.visibility = "hidden"
     }
     
     function exibirFluxo(){
@@ -92,6 +97,31 @@ if (document.body.contains(document.querySelector("#menu-dropdown"))){
         document.querySelector("#container").style.height = "800px"
         document.querySelector("#turmas-portal").style.visibility = "hidden"
         document.querySelector("#noticias-portal").style.visibility = "hidden"
+        document.querySelector("#formAtividades").style.visibility = 'visible'
+        
+        //Esconde os outros itens do dropdown caso estejam visíveis
+        document.querySelector(".equivalencia").style.visibility = "hidden"
+        document.querySelector(".graficos").style.visibility = "hidden"
+
+        const disciplinas = JSON.parse(localStorage.getItem('materias'));
+        console.log(disciplinas);
+
+        for(const disciplina of disciplinas){
+            
+            const trSub = document.createElement('tr')
+            trSub.style.height = "4em"
+            trSub.classList.add('linhaPar')
+
+            const tdSub = document.createElement('td')
+            tdSub.textContent = disciplina.materia
+            trSub.appendChild(tdSub)
+            
+            const divCursadas = document.querySelector(".conteudo")
+            divCursadas.appendChild(trSub)
+            divCursadas.style.overflow = 'auto';
+        }
+
+
     }
 
     function exibirCreditos(){
@@ -100,6 +130,13 @@ if (document.body.contains(document.querySelector("#menu-dropdown"))){
         document.querySelector("#container").style.height = "800px"
         document.querySelector("#turmas-portal").style.visibility = "hidden"
         document.querySelector("#noticias-portal").style.visibility = "hidden"
+        document.querySelector("#participantes").style.visibility = 'hidden'
+        document.querySelector("#formAtividades").style.visibility = 'hidden'
+        document.querySelector("#forum-portal").style.marginTop = '4em'
+
+        //Esconde os outros itens do dropdown caso estejam visíveis
+        document.querySelector(".equivalencia").style.visibility = "hidden"
+        document.querySelector(".fluxo").style.visibility = "hidden"
     }
 
 
