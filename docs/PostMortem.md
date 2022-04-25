@@ -4,9 +4,10 @@
 
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 20/04/2022 | 0.1 | Criação da estrutura do documento |  Laís |
-|22/04/2022|0.2|Adição do campo de recomendações para os próximos semestres|Laís|
-|24/04/2022|0.3|Adição do relato dos membros e das suas respectivas frases|Laís|
+| 20/04/2022 | 0.1 | Criação da estrutura do documento |  [@laisramos123](https://github.com/laisramos123) |
+|22/04/2022|0.2|Adição do campo de recomendações para os próximos semestres| [@laisramos123](https://github.com/laisramos123) |
+|24/04/2022|0.3|Adição do relato dos membros e das suas respectivas frases| [@laisramos123](https://github.com/laisramos123) |
+|24/04/2022|0.4|Adição do relato da maria B.| [@Madu01](https://github.com/Madu01) |
 
 
 ## Introdução
@@ -82,13 +83,18 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
   
   *""*
   
-  **Maria Eduarda  - Arquiteta**
+  **Maria Eduarda Barbosa  - Arquiteta**
   
-  *""*
+  *"Eu gostei da experiência que essa disciplina me trouxe, pois me fez aprender e desenvolver coisas novas, como as tecnologias e os métodos ágeis. No início me senti meio perdida e com medo de não conseguir desenvolver nada na parte do software e de nem progredir, mas com o tempo fui melhorando até quando consegui desenvolver algo mesmo que não fosse muuuito complexo, mas era satisfatório ver funcionando e ensinar pro grupo o que aprendi foi bem legal. Durante o período da disciplina percebi o quão é importante utilizar o Scrum e as outras metodologias ágeis para implementar um software em grupo. No quesito de experiência em grupo foi interessante, gostei bastante da forma em que os times A e B se relacionaram, teve solidariedade, as pessoas ajudavam mesmo se não fosse do mesmo time, percebi também o progresso do pessoal, fiquei feliz em ver que a disciplina agregou não só para mim."*
   
 
 ## Frases icônicas que representaram o desenvolvimento do projeto
-*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.*-**Pedro H. Elias**
+*O pessimista se queixa do vento, o otimista espera que ele mude, o realista ajusta as velas e quem conhece Murphy não faz nada.* - **Pedro H. Elias**
+
 *Lascou-se. Socorro @Deus*- **Laís**
+
 *Nenhum problema é grande demais para quem conhece a gambiarra correta.* - **Hian** 
+
+*A coragem não é ausência do medo; é a persistência apesar do medo.* - **Maria Eduarda Barbosa**
+
 ## Conclusão
