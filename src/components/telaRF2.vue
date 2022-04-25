@@ -7,8 +7,8 @@
       </div>
     </div>
     <div class="bloco">
-      <h1 class="titulo">Disponíveis Para o Próximo Semestre</h1>
-      <div class="conteudo">
+      <h1 class="titulo"> Disciplinas Disponíveis Para o Próximo Semestre</h1>
+      <div class="conteudoNcursado">
         <!-- local para colocar o resultado das diciplinas obrigatorias para o proximo semestre -->
       </div>
     </div>
@@ -48,6 +48,12 @@ export default {
   text-align: center;
 }
 .conteudo {
+  width: 250px;
+  height: 300px;
+  background-color: #efefea;
+}
+
+.conteudoNcursado{
   width: 250px;
   height: 300px;
   background-color: #efefea;
