@@ -7,7 +7,7 @@
       </div>
     </div>
     <div class="bloco">
-      <h1 class="titulo">Disponíveis Para o Próximo Semestre</h1>
+      <h1 class="titulo"> Disciplinas Disponíveis Para o Próximo Semestre</h1>
       <div class="conteudo">
         <!-- local para colocar o resultado das diciplinas obrigatorias para o proximo semestre -->
       </div>
