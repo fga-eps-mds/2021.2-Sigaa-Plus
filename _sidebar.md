@@ -223,8 +223,8 @@
   <details>
       <summary>Sprint 12 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
-      <li> <a href="">Resultado</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint12/TimeB/Planejamento.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint12/TimeB/Resultado.md">Resultado</a></li>
       </ul>
       </details>
   <details>
