@@ -230,7 +230,7 @@
   <details>
       <summary>Sprint 13 </summary>
       <ul>
-      <li> <a href="">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/main/docs/sprints/sprint13/TimeB/Planejamento.md">Planejamento</a></li>
       <li> <a href="">Resultado</a></li>
       </ul>
       </details>
