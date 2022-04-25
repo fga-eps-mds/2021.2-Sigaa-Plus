@@ -29,7 +29,7 @@ Como a camada Front-end da aplicação foi feita utilizando o  Vue.js, utilizou-
 
 
 ## Resultados
-
+Levando em conta a viabilidade de instalação, compreensão do funcionamento e familiaridade com a maneira de funcionamento da ferramenta (a mesma possuir funicionamento similar ao Pupperteer). A API do Chromeless é muito semelhante ao Nightmare.js. A grande diferença é que o Chromelles é baseado no modo headless do Chrome e é executado em uma função serveless no AWS Lambda[3](#referencia3). A vantagem disso é que é possível executar centenas de navegadores em paralelo, sem precisar pensar em raralelização, acelerando por exemplo a execução de testes de integração.
 
 
 
@@ -44,3 +44,6 @@ Como a camada Front-end da aplicação foi feita utilizando o  Vue.js, utilizou-
 
 <a id="referencia2"></a>
 [Testes Unitários](https://dayvsonlima.medium.com/entenda-de-uma-vez-por-todas-o-que-s%C3%A3o-testes-unit%C3%A1rios-para-que-servem-e-como-faz%C3%AA-los-2a6f645bab3)
+
+<a id="referencia2"></a>
+[Chromeless](https://github.com/prisma-archive/chromeless)
