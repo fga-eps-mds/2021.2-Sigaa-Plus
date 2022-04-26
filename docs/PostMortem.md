@@ -8,6 +8,7 @@
 | 22/04/2022 | 0.2    | Adição do campo de recomendações para os próximos semestres | [@laisramos123](https://github.com/laisramos123)       |
 | 24/04/2022 | 0.3    | Adição do relato dos membros e das suas respectivas frases  | [@laisramos123](https://github.com/laisramos123)       |
 | 24/04/2022 | 0.4    | Adição do relato da maria B.                                | [@Madu01](https://github.com/Madu01)                   |
+| 24/04/2022 | 0.4    | Adição do relato da maria B.                                | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao)                   |
 | 25/04/2022 | 0.4    | Adição do relato da maria Marques                           | [@EduardaSMarques](https://github.com/EduardaSMarques) |
 | 25/04/2022 | 0.5    | Adição do relato do Bruno Oliveira                          | [@eng-Bruno](https://github.com/eng-Bruno)             |
 
