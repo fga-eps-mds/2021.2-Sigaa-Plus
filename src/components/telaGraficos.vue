@@ -13,7 +13,7 @@
         ></div>
         <br />
         <br />
-        <p class="obrigatoria">CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS - 232</p>
+        <p class="obrigatoria">CRÉDITOS POR DISCIPLINAS OBRIGATÓRIAS - {{obg}}</p>
         <p class="cursados">CRÉDITOS CURSADOS - 32</p>
       </div>
     </div>
@@ -31,7 +31,7 @@
         <br />
         <br />
         <p class="obrigatoria">
-          CRÉDITOS POR DISCIPLINAS OPTATIVAS E MÓDULO LIVRE - 24
+          CRÉDITOS POR DISCIPLINAS OPTATIVAS E MÓDULO LIVRE - {{opt}}
         </p>
         <p class="cursados">CRÉDITOS CURSADOS - 6</p>
       </div>
@@ -49,8 +49,8 @@
         ></div>
         <br />
         <br />
-        <p class="obrigatoria">CRÉDITOS TOTAIS DO CURSO - 256</p>
-        <p class="cursados">CRÉDITOS CURSADOS - 38</p>
+        <p class="obrigatoria">CRÉDITOS TOTAIS DO CURSO - {{cred}}</p>
+        <p class="cursados">CRÉDITOS CURSADOS - {{credCursados}}</p>
       </div>
     </div>
   </body>
@@ -64,8 +64,27 @@ export default {
       percentageObg: "14",
       percentageOpt: "50",
       percentageTotal: "15",
+      obg:0,
+      opt:0,
+      cred: 0,
+      credCursados: 0,
     };
   },
+
+  mounted(){
+    let cred = document.querySelector("#agenda-docente > table > tbody > tr:nth-child(10) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)")
+    this.cred = Number.parseInt(cred.innerText)/15
+    
+    let opt = document.querySelector("#agenda-docente > table > tbody > tr:nth-child(10) > td > table > tbody > tr:nth-child(2) > td:nth-child(2)")
+    this.opt = Number.parseInt(opt.innerText)/15
+    
+    let obg = document.querySelector("#agenda-docente > table > tbody > tr:nth-child(10) > td > table > tbody > tr:nth-child(1) > td:nth-child(2)")
+    this.obg = Number.parseInt(obg.innerText)/15
+    
+    this.credCursados = this.cred - (this.obg + this.opt)
+    this.percentageTotal = Number.parseInt((this.credCursados/this.cred)*100)
+    this.percentageTotal = this.percentageTotal.toString();
+  }
 };
 </script>
 
