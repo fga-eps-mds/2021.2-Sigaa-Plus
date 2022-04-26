@@ -46,7 +46,7 @@ Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obri
 Esta tela aparecerá logo após o usuário clicar no botão do Gráfico, nela serão mostrados os gráficos contendo a quantidade de créditos obrigatórios, optativos e de módulo livre que faltam para a conclusão do curso.
 
 ### 2.2 Fluxo do Usuário
-![FluxoUser](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/55a83a344b5c609d3433abf1dfbc12b4ad825f26/docs/assets/images/FluxoUser.png)
+![FluxoUser](.assets/images/FluxoUser.png)
 
 ## 3.Protótipo de Alta Fidelidade
 
@@ -57,7 +57,7 @@ O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeir
 ### 3.1 Telas
 
 #### 3.1.1 Tela de extensões do Google
-![Tela_1](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/55a83a344b5c609d3433abf1dfbc12b4ad825f26/docs/assets/images/Tela_5.png)
+![Tela_1](.assets/images/Tela_5.png)
 Esta é a tela vista ao gerenciar as extensões no Google Chrome, e ao clicar no símbolo de quebra cabeça no canto superior direto da página e selecionar SIGAA+ o pop-up com as informações é exibido.
 
 #### 3.1.2 Tela inicial do SIGAA e Tela de Seleção
@@ -65,11 +65,11 @@ Esta é a tela vista ao gerenciar as extensões no Google Chrome, e ao clicar no
 Esta é a primeira tela que será vista pelo usuário ao acessar o SIGAA. Na parte superior da página estará situado o botão do plugin, e logo após de o usuário clicar no botão "SIGAA +", nela será mostrado as opções disponíveis ao usuário.
 
 #### 3.1.3 Tela de Disciplinas Obrigatórias pendentes
-![Tela_3](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/55a83a344b5c609d3433abf1dfbc12b4ad825f26/docs/assets/images/Tela_2.png)
+![Tela_3](.assets/images/Tela_2.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obrigátórias pendentes, nela será exibido as disciplinas obrigatórias que ainda faltam ser feitas no fluxo curricular do aluno.
 
 #### 3.1.4 Tela de Equivalências
-![Tela_4](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/55a83a344b5c609d3433abf1dfbc12b4ad825f26/docs/assets/images/Tela_3.png)
+![Tela_4](.assets/images/Tela_3.png)
 Esta tela aparecerá logo após o usuário clicar no botão das Equivalências, nela será mostrado as disciplinas do curso do aluno que são equivalentes. 
 
 #### 3.1.5 Tela de Gráfico
