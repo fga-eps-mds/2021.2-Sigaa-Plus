@@ -46,7 +46,7 @@ Esta tela aparecerá logo após o usuário clicar no botão das Disciplinas obri
 Esta tela aparecerá logo após o usuário clicar no botão do Gráfico, nela serão mostrados os gráficos contendo a quantidade de créditos obrigatórios, optativos e de módulo livre que faltam para a conclusão do curso.
 
 ### 2.2 Fluxo do Usuário
-![FluxoUser](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/c3759115284660f18f26863d017086f15d211cc2/docs/assets/images/FluxoUser.png)
+![FluxoUser](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/blob/a50a9ebb4d201b6689f16fa545a4a743e8e0d677/docs/assets/images/FluxoUser.png)
 
 ## 3.Protótipo de Alta Fidelidade
 
