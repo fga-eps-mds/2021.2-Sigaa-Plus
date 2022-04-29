@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo expressar sobre a experiência do grupo ao decorrer do desenvolvimento do projeto.
+Este documento tem como objetivo expressar a experiência do grupo ao decorrer do desenvolvimento do projeto.
 
 ## Definição de Escopo
 
@@ -105,7 +105,7 @@ Finalizando então, mesmo sabendo que dediquei o meu melhor, é inevitável não
 
 _"Eu gostei da experiência que essa disciplina me trouxe, pois me fez aprender e desenvolver coisas novas, como as tecnologias e os métodos ágeis. No início me senti meio perdida e com medo de não conseguir desenvolver nada na parte do software e de nem progredir, mas com o tempo fui melhorando até quando consegui desenvolver algo mesmo que não fosse muuuito complexo, mas era satisfatório ver funcionando e ensinar pro grupo o que aprendi foi bem legal. Durante o período da disciplina percebi o quão é importante utilizar o Scrum e as outras metodologias ágeis para implementar um software em grupo. No quesito de experiência em grupo foi interessante, gostei bastante da forma em que os times A e B se relacionaram, teve solidariedade, as pessoas ajudavam mesmo se não fosse do mesmo time, percebi também o progresso do pessoal, fiquei feliz em ver que a disciplina agregou não só para mim."_
 
-## Frases icônicas que representaram o desenvolvimento do projeto
+## Frases que representaram o desenvolvimento do projeto
 
 _Lute como nunca, perca como sempre. O caminho é longo mas a derrota é certa._ - **Gaby**
 
@@ -118,5 +118,3 @@ _O pessimista se queixa do vento, o otimista espera que ele mude, o realista aju
 _A coragem não é ausência do medo; é a persistência apesar do medo._ - **Maria Eduarda Barbosa**
 
 _Nunca deixe ninguém te dizer que você não consegue! Diga você mesmo: Eu não consigo!_ - **Maria Eduarda Marques**
-
-## Conclusão
