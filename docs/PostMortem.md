@@ -18,7 +18,7 @@ Este documento tem como objetivo expressar a experiência do grupo ao decorrer d
 
 ## Definição de Escopo
 
-O escopo foi definido baseado na problemática que a professora apresentou: Plugin Chrome para gerar gráficos e informações sobre os dados do aluno que interfaceie com o sigaa e mostre a grade do aluno. Escolhido o tema, os dois times se reuniram para escolher as funicionalidades do plugin e fizemos um brainstorm dos principais problemas que enfrentamos como estudantes durante o uso da plataforma.Portanto o escopo foi definido a partir da criação de uma solução que ajudasse o estudante a visualizar a porcentagem da estrutura curricular já cursada e a procentagem que ainda falta cursar ,possibilitando assim uma vizualização dinâmica do fluxo de matérias.
+O escopo foi definido baseado na problemática que a professora apresentou: Plugin Chrome para gerar gráficos e informações sobre os dados do aluno que utiliza a plataforma SIGAA da Universidadde de Brasília. Escolhido o tema, os dois times se reuniram para escolher as funicionalidades do plugin e fizemos um brainstorm dos principais problemas que enfrentamos como estudantes durante o uso da plataforma. Portanto o escopo foi definido a partir da criação de uma solução que ajudasse o estudante a visualizar a porcentagem da estrutura curricular já cursada e a procentagem que ainda falta cursar, possibilitando assim uma vizualização dinâmica do fluxo de matérias.
 
 ## Metologia e Processo
 
