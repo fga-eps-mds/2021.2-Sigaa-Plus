@@ -30,10 +30,6 @@ Para a construção do Back-End do software foi utilizado o Node.js e o Express.
 Na parte de Front-End, além da utilização de Javascript, CSS e HTML, foi utilizado o Vue.js pois este favorece o isolamento e manuntenção das funcionalidades. Para isolamento de ambiente utilizamos o Docker.
 Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foij utilizado o Git e o GitHub.
 
-## Arquitetura
-
-No início do projeto os dois times estavam trabalhando juntos para desenvolver as funcionalidades previstas, mas após a Release 01 foi decidido que essa estratégia não era produtiva nem viável para as entregas, portanto dividimos os dois grupos entre Back-End e Front-End, sendo o Time A responsável pelo Back-End e o Time B responsável pelo Front-End.
-
 ## Capacitação do Time
 
 Quanto à capacitação, foram realizados Dojos das tecnologias utilizadas, de Git e GitHub e a participação do Dojo de Docker disponibilizado pela professora. Além disso foram realizados parementos para firmar os conhecimentos adquiridos.
