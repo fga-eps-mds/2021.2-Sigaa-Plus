@@ -40,16 +40,18 @@ Quanto à capacitação, foram realizados Dojos das tecnologias utilizadas, de G
 
 ## Entrega da R1
 
-A entrega da R1 foi de grande importância para a equipe, pois foi possível perceber o que estava dando certo e principalmente os pontos onde as equipes estavam errando. Foi exposto acerca da falta de uso das métricas, onde fio possível notar que não era possível saber se os integrantes estavam trabalhando ou se reunindo continuamente, causando grande falta de comunicação entre os membros. Outro ponto que dificultou o desenrolar do projeto é que inicialmente os dois grupos estavam trabalhando nas tarefas de maneira conjunta, sobrecarregando alguns membros e diminuindo a velocidade nas entregas e o nível de produtividade.
+A entrega da R1 foi de grande importância para a equipe, pois foi possível perceber o que estava dando certo e principalmente os pontos onde as equipes estavam errando. Foi exposto acerca da falta de uso das métricas, onde notamos que não era possível saber se os integrantes estavam trabalhando ou se reunindo continuamente, causando grande falta de comunicação entre os membros. Outro ponto que dificultou o andamento do projeto foi o fato de que inicialmente os dois grupos estavam trabalhando nas tarefas de maneira conjunta, sobrecarregando alguns membros e diminuindo a velocidade nas entregas e o nível de produtividade.
 
 ## Entrega da R2
 
+
 ## Recomendações para os próximos semestres
 
-- Usem as métricas desde o início do projeto, elas são bem importantes pro andamento do projeto e pra ver se o time realmente produziu na Sprint
-- Evitem de trabalhar com grupos grandes, isso só vai sobrecarregar os membros
-- Façam o Daily notes, é importante saber o que os outros membros estão fazendo pra não fazer retrabalho
-- Evitem fazer longas reuniões, é extremamente improdutivo, cansativo e oculpa um tempo que poderia estar sendo utilizado no projeto em si
+- Quando começar a disciplina, dediquem os primeiros dias para estudarem e e dominarem as práticas ágeis. Elas serão imprescindíveis no desenvolvimento do projeto.
+- Utilizem as métricas desde o início do projeto, elas são bem importantes para ver o desenvolvimento do time ao logo da sprint, os pontos positivos e onde o time deve melhorar.
+- É importante que dividam as tarefas emn subtarefas e o grupo em subgrupos, como duplas ou até mesmo trios dependendo da complexidade da tarefa. Grupos grandes e tarefas mal dividas faz com que alguns integrantes fiquem sobrecarregados.
+- Façam daily notes, é importante saber o que os outros integrantes estão fazendo, eles podem precisar de ajuda.
+- Uma boa comunicação entre os integrantes do grupo é um fator muito importante para o desenvolvimento do projemto. Uma comunmicação falha pode trazer graves problemas.
 
 ## Sentimentos da Equipe
 
@@ -74,7 +76,7 @@ _""_
 **Pedro Henrique Elias Pereira- Arquiteto**
 
 _"Foi minha primeira experiência desenvolvendo um software usando os métodos de mercado, se aproximando da realidade de como é o fluxo de trabalho de um desenvolvedor de software. Eu não não sabia muito o que esperar da disciplina, então quando falou que faríamos um software todo fiquei assustado, não sabia muito do que era para ser feito então aprendi bastante ao longo do percurso, porém falta de experiência no desenvolvimento de aplicações neste estilo dificultou bastante durante as primeiras semanas de projeto, onde fiquei bastante perdido no que fazer, então fique bastante dependentes dos outros integrantes.
-  Portanto, apesar de não saber como fazer as coisas no início, eu aprendi bastante ao longo do processo e tenho muita gratidão a minha excelente equipe, e me sinto mais maduro como desenvolvedor. O MDS foi um grande passo para entender como desenvolver software ."_
+Portanto, apesar de não saber como fazer as coisas no início, eu aprendi bastante ao longo do processo e tenho muita gratidão a minha excelente equipe, e me sinto mais maduro como desenvolvedor. O MDS foi um grande passo para entender como desenvolver software ."_
 
 **Vítor Manoel Aquino- Arquiteto**
 
