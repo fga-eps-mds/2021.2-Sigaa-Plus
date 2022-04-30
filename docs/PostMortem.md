@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo expressar a experiência do grupo ao decorrer do desenvolvimento do projeto.
+O presente documento visa compartilhar as experiẽncias vividas pelo grupo ao longo do desenvolvimento do projeto, ressaltando os pontos de maior relevância, e dessa forma, auxiliar os próximo alunos que cursarem a disciplina.
 
 ## Definição de Escopo
 
