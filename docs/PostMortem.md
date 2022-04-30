@@ -22,7 +22,7 @@ O escopo foi definido baseado na problemática que a professora apresentou: Plug
 
 ## Metologia e Processo
 
-A metodologia adotada foi o Scrum, sendo aplicado durante o desenvolvimento do projeto, como a adoção do uso de métricas, daily meetings e planejamento e revisão das sprints.
+As metodologias ágeis adotadas foram o Scrum e o kanban, sendo aplicados durante o desenvolvimento do projeto através da utilização de métricas, dailys meetings, plannnig e review das sprints.
 
 ## Tecnologias utilizadas
 
