@@ -32,6 +32,14 @@ Para a construção do Back-End do software foi utilizado o Node.js e o Express.
 Na parte de Front-End, além da utilização de Javascript, CSS e HTML, foi utilizado o Vue.js pois este favorece o isolamento e manuntenção das funcionalidades. Para isolamento de ambiente utilizamos o Docker.
 Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foi utilizado o Git e o GitHub.
 
+## Arquitetura
+A imagem abaixo demonstra as relações da arquitetura dos componentes que são: 
+
+- Elementos da interface do usuário (popup.html, popup.js e o background.js);  
+
+- Scripts de conteúdo (popup.js, background.js e o contentscript.js) eles podem se comunicar com a extensão pai por troca de mensagens e armazenando os valores na API de armazenamento. 
+![estruturaPlugin](./assets/images/img_exemploPlugin.png)
+
 ## Capacitação
 
 Em relação a capacitação do grupo, foram realizados diversos dojos e treinamentos a respeito de tecnologias back-end e front-end previstas no documento de arquitetura, além de Git, GitHub e docker. Todas as issues de treinamento, foram registradas no repositório, podendo ser filtradas pela label: "[Dojo](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues?q=is%3Aissue+label%3ADojo+is%3Aclosed)".
