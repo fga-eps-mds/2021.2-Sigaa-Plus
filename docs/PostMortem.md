@@ -30,9 +30,9 @@ Para a construção do Back-End do software foi utilizado o Node.js e o Express.
 Na parte de Front-End, além da utilização de Javascript, CSS e HTML, foi utilizado o Vue.js pois este favorece o isolamento e manuntenção das funcionalidades. Para isolamento de ambiente utilizamos o Docker.
 Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foij utilizado o Git e o GitHub.
 
-## Capacitação do Time
+## Capacitação
 
-Quanto à capacitação, foram realizados Dojos das tecnologias utilizadas, de Git e GitHub e a participação do Dojo de Docker disponibilizado pela professora. Além disso foram realizados parementos para firmar os conhecimentos adquiridos.
+Em relação a capacitação do grupo, foram realizados diversos dojos e treinamentos a respeito de tecnologias back-end e front-end previstas no documento de arquitetura, além de Git, GitHub e docker. Todas as issues de treinamento, foram registradas no repositório, podendo ser filtradas pela label: "[Dojo](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues?q=is%3Aissue+label%3ADojo+is%3Aclosed)".
 
 ## Entrega da R1
 
