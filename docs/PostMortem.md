@@ -18,7 +18,9 @@ O presente documento visa compartilhar as experiẽncias vividas pelo grupo ao l
 
 ## Definição de Escopo
 
-O escopo foi definido baseado na problemática que a professora apresentou: Plugin Chrome para gerar gráficos e informações sobre os dados do aluno que utiliza a plataforma SIGAA da Universidadde de Brasília. Escolhido o tema, os dois times se reuniram para escolher as funicionalidades do plugin e fizemos um brainstorm dos principais problemas que enfrentamos como estudantes durante o uso da plataforma. Portanto o escopo foi definido a partir da criação de uma solução que ajudasse o estudante a visualizar a porcentagem da estrutura curricular já cursada e a procentagem que ainda falta cursar, possibilitando assim uma vizualização dinâmica do fluxo de matérias.
+<p align="justify"> &emsp;&emsp;A princípio o escopo foi definido a partir do tema escolhido pelo grupo: Criar um plugin para o google chrome com o objetivo de ser utilizado na plataforma SIGAA da Universidade de Brasília. Dessa forma o grupo realizou um exercício de brainstorming para definir alguns dos principais problemas encontrados pelos alunos na utilização da plataforma para que assim pudéssemos utilizar a extensão para solucionar o problema.</p> <p align="justify"> &emsp;&emsp;As três principais questões levantadas pelos alunos foram em relação ao fluxo curricular, aos créditos pendentes e a equivalência de disciplinas. O escopo partiu então da criação de três funcionalidades para resolução de cada uma das problemáticas apresentadas. Decidimos então criar gráficos que mostrassem os créditos cursados e pendentes, um quadro que exibisse as matérias cursadas e as próximas disciplinas do fluxo, além de um campo para realizar busca de equivalência entre disciplinas.</p>
+
+O escopo detalhado pode ser conferido no [Documento de Visão](https://fga-eps-mds.github.io/2021.2-Sigaa-Plus/#/docs/DocumentoDeVisao).
 
 ## Metologia e Processo
 
@@ -28,7 +30,7 @@ As metodologias ágeis adotadas foram o Scrum e o kanban, sendo aplicados durant
 
 Para a construção do Back-End do software foi utilizado o Node.js e o Express.js, framework do Node.js que permite que o mesmo seja utilizado na construção da aplicação web e API. Para a captura de dados das matérias presente nos componentes curriculares dos cursos da Unb foi utilizado o Pupperteer, framework Node.js.
 Na parte de Front-End, além da utilização de Javascript, CSS e HTML, foi utilizado o Vue.js pois este favorece o isolamento e manuntenção das funcionalidades. Para isolamento de ambiente utilizamos o Docker.
-Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foij utilizado o Git e o GitHub.
+Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foi utilizado o Git e o GitHub.
 
 ## Capacitação
 
