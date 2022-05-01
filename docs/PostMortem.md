@@ -24,25 +24,21 @@ O escopo detalhado pode ser conferido no [Documento de Visão](https://fga-eps-m
 
 ## Metologia e Processo
 
-As metodologias ágeis adotadas foram o Scrum e o kanban, sendo aplicados durante o desenvolvimento do projeto através da utilização de métricas, dailys meetings, plannnig e review das sprints.
+As metodologias ágeis adotadas foram o Scrum e o kanban, sendo aplicados durante o desenvolvimento do projeto através da utilização de métricas, dailys, meetings, plannnigs e reviews das sprints.
 
 ## Tecnologias utilizadas
 
-Para a construção do Back-End do software foi utilizado o Node.js e o Express.js, framework do Node.js que permite que o mesmo seja utilizado na construção da aplicação web e API. Para a captura de dados das matérias presente nos componentes curriculares dos cursos da Unb foi utilizado o Pupperteer, framework Node.js.
-Na parte de Front-End, além da utilização de Javascript, CSS e HTML, foi utilizado o Vue.js pois este favorece o isolamento e manuntenção das funcionalidades. Para isolamento de ambiente utilizamos o Docker.
-Quanto à comunicação foi utilizado o ZenHub, Discord e Telegram. E por último, para controle de versionamento foi utilizado o Git e o GitHub.
+<p align="justify"> &emsp;&emsp;A principal tecnologia utilizada foi o JavaScript, pois é a base do geral das outras ferramentas para o desenvolvimento do projeto. Para a parte visual foram utilizados HTML, CSS e o framework VueJS que possui um pequena curva de aprendizado em relação a outros frameworks de front-end. Já no back-end foram utilizados os frameworks NodeJS, ExpressJS, além da biblioteca Puppeteer para realizar o webscraping dos dados do SIGAA.</p>
 
 ## Arquitetura
-A imagem abaixo demonstra as relações da arquitetura dos componentes que são: 
+A imagem abaixo demonstra as relações da arquitetura dos componentes:
+![Visaogeral](./assets/visaoGeralArq.svg)
 
-- Elementos da interface do usuário (popup.html, popup.js e o background.js);  
-
-- Scripts de conteúdo (popup.js, background.js e o contentscript.js) eles podem se comunicar com a extensão pai por troca de mensagens e armazenando os valores na API de armazenamento. 
-![estruturaPlugin](./assets/images/img_exemploPlugin.png)
+#### _@ Informações detalhadas a respeito das tecnologias e arquitetura podem ser conferidas no [Documento de Arquitetura](https://fga-eps-mds.github.io/2021.2-Sigaa-Plus/#/docs/DocumentoDeArquitetura)._
 
 ## Capacitação
 
-Em relação a capacitação do grupo, foram realizados diversos dojos e treinamentos a respeito de tecnologias back-end e front-end previstas no documento de arquitetura, além de Git, GitHub e docker. Todas as issues de treinamento, foram registradas no repositório, podendo ser filtradas pela label: "[Dojo](https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues?q=is%3Aissue+label%3ADojo+is%3Aclosed)".
+<p align="justify"> &emsp;&emsp;Em relação a capacitação do grupo, foram realizados diversos dojos e treinamentos a respeito de tecnologias back-end e front-end previstas no documento de arquitetura, além de Git, GitHub e docker. Os principais meios de comunicação entre a equipe eram o telegram, o discord e o GitHub. Todas as issues de treinamento, foram registradas no repositório, podendo ser filtradas pela label: <a href="https://github.com/fga-eps-mds/2021.2-Sigaa-Plus/issues?q=is%3Aissue+label%3ADojo+is%3Aclosed">"Dojo"</a>.</p>
 
 ## Entrega da R1
 
