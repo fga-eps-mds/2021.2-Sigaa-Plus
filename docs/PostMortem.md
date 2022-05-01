@@ -49,7 +49,7 @@ A entrega da R1 foi de grande importância para a equipe, pois foi possível per
 
 ## Recomendações para os próximos semestres
 
-- Quando começar a disciplina, dediquem os primeiros dias para estudarem e e dominarem as práticas ágeis. Elas serão imprescindíveis no desenvolvimento do projeto.
+- Quando começar a disciplina, dediquem os primeiros dias para estudar e dominar as práticas ágeis. Elas serão imprescindíveis no desenvolvimento do projeto.
 - Utilizem as métricas desde o início do projeto, elas são bem importantes para ver o desenvolvimento do time ao logo da sprint, os pontos positivos e onde o time deve melhorar.
 - É importante que dividam as tarefas emn subtarefas e o grupo em subgrupos, como duplas ou até mesmo trios dependendo da complexidade da tarefa. Grupos grandes e tarefas mal dividas faz com que alguns integrantes fiquem sobrecarregados.
 - Façam daily notes, é importante saber o que os outros integrantes estão fazendo, eles podem precisar de ajuda.
