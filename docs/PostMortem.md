@@ -45,7 +45,7 @@ A imagem abaixo demonstra as relações da arquitetura dos componentes:
 A entrega da R1 foi de grande importância para a equipe, pois foi possível perceber o que estava dando certo e principalmente os pontos onde as equipes estavam errando. Foi exposto acerca da falta de uso das métricas, onde notamos que não era possível saber se os integrantes estavam trabalhando ou se reunindo continuamente, causando grande falta de comunicação entre os membros. Outro ponto que dificultou o andamento do projeto foi o fato de que inicialmente os dois grupos estavam trabalhando nas tarefas de maneira conjunta, sobrecarregando alguns membros e diminuindo a velocidade nas entregas e o nível de produtividade.
 
 ## Entrega da R2
-Devemos confessar que houveram momentos em que pensamos que não iriamos conseguir entragar nada
+Devemos confessar que houveram momentos em que pensamos que não iriamos conseguir entragar nada, mas isso acontece com todos os grupos em todos os semestres, mas no fim acaba dando certo. O nível de estresse é absurdo, principalmente se estiver lidando com muitas matérias, mas MDS nos ensinou o verdadeiro significado de trabalhar em equipe em prol de um objetivo em comum. Apesar de todo desepero, é muito gratificante ver o resultado final e saber que conseguimos aquilo juntos. 
 
 ## Recomendações para os próximos semestres
 
